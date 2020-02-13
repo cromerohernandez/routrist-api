@@ -1,7 +1,6 @@
-const express = require('express')
+const createError = require('http-errors')
 
 const Tourist = require('../models/tourist.model')
-const createError = require('http-errors')
 
 module.exports.create = (req, res, next) => {
   const tourist = new Tourist({
@@ -17,16 +16,40 @@ module.exports.create = (req, res, next) => {
     .catch(next)
 }
 
+module.exports.update = (req, res, next) => {
+  const { firstName, lastName, password, photo } = req.body
+  Tourist.findByIdAndUpdate(
+    req.params.id,
+    {
+      firstName: firstName,
+      lastName: lastName,
+      password: password,
+      photo: photo
+    },
+    {new: true}
+    )
+    .then(tourist => {
+      if(!tourist) {
+        throw createError(404, 'Tourist not found')
+      } else {
+        res.status(200).json(tourist)
+      }
+    })
+    .catch(err => {
+      return res.send(`${err}`)
+    })
+}
+
 module.exports.delete = (req, res ,next) => {
-  Tourist.deleteOne({
-    _id: req.params.id
-  })
-  .then(response => {
-    console.log(response)
-    return res.send('Tourist deleted')
-  })
-  .catch(err => {
-    console.log(err)
-    return res.send(`${err}`)
-  })
+  Tourist.findByIdAndDelete(req.params.id)
+    .then(tourist => {
+      if(!tourist) {
+        throw createError(404, 'Tourist not found')
+      } else {
+        res.status(204).json()
+      }
+    })
+    .catch(err => {
+      return res.send(`${err}`)
+    })
 }

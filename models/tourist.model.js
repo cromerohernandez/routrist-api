@@ -33,7 +33,7 @@ const touristSchema = new mongoose.Schema({
   },
   photo: {
     type: String,
-    //default: '../../images/defaultUser.png'
+    //default: '../../images/defaultTourist.png'
   },
   activationToken: {
 
