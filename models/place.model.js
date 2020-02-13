@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-const Likes = require()
+const Like = require('./like.model')
 
 const placeSchema = new mongooseSchema({
   name: {
@@ -27,7 +27,7 @@ const placeSchema = new mongooseSchema({
     ],
     required: [true, 'Category is required']
   },
-  rateCity: {
+  cityRate: {
     type: Number,
     enum: [1, 2, 3, 4, 5],
     default: 0,
@@ -41,24 +41,17 @@ const placeSchema = new mongooseSchema({
       ret.id = doc._id;
       delete ret._id;
       delete ret.__v;
-      delete ret.password;
       return ret;
     }
   }
 })
 
-placeSchema.virtual('touristsRate', {
-  ref: '',
-  localField: '',
-  foreignField: '',
-  justOne: false,
-});
+placeSchema.virtual('touristsRate').get(async function() {
+  const touristsVotes = await Like.find({ place: this._id })
 
-userSchema.virtual('touristsRate').get(function() {
-  const touristsLikes = 
-  const touristsVotes = 
-  const touristsRate = Math.floor((touristsLikes * 5) / touristsVotes)
-  return this.email.slice(this.email.indexOf('@') + 1);
+  return Math.floor(
+    (touristsLikes.filter(t => t.state).length * 5) / touristsVotes.length
+  )
 })
 
 const Place = mongoose.model('Place', placeSchema)
