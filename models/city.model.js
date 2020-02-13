@@ -1,26 +1,18 @@
 const mongoose = require('mongoose')
 
-const { capitalize } = require('../helpers/helper')
+const { capitalize } = require('../helpers/helper')  
 
-const touristSchema = new mongoose.Schema({
-  firstName: {
+const citySchema = new mongoose.Schema({
+  name: {
     type: String,
-    required: [true, 'First name is required'],
+    required: [true, 'Name is required'],
     trim: true,
     set: capitalize
   },
-  lastName: {
+  country: {
     type: String,
-    required: [true, 'Last name is required'],
+    required: [true, 'Country is required'],
     trim: true,
-    set: capitalize
-  },
-  username: {
-    type: String,
-    required: [true, 'Username is required'],
-    unique: true,
-    trim: true,
-    minlength: [4, 'Username needs at least 4 chars'],
     set: capitalize
   },
   email: {
@@ -37,7 +29,7 @@ const touristSchema = new mongoose.Schema({
   },
   photo: {
     type: String,
-    //default: '../../images/defaultTourist.png'
+    //default: '../../images/defaultCity.png'
   },
   activationToken: {
 
@@ -60,6 +52,6 @@ const touristSchema = new mongoose.Schema({
   }
 })
 
-const Tourist = mongoose.model('Tourist', touristSchema)
+const City = mongoose.model('City', citySchema)
 
-module.exports = Tourist
+module.exports = City

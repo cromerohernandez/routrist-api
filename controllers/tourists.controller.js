@@ -3,14 +3,17 @@ const createError = require('http-errors')
 const Tourist = require('../models/tourist.model')
 
 module.exports.create = (req, res, next) => {
+  const { firstName, lastName, username, email, password, photo } = req.params
+
   const tourist = new Tourist({
-    firstName: req.body.firstName,
-    lastName: req.body.lastName,
-    username: req.body.username,
-    email: req.body.email,
-    password: req.body.password,
-    photo: req.body.photo
+    firstName: firstName,
+    lastName: lastName,
+    username: username,
+    email: email,
+    password: password,
+    photo: photo
   })
+
   tourist.save()
     .then(tourist => res.status(201).json(tourist))
     .catch(next)
@@ -18,6 +21,7 @@ module.exports.create = (req, res, next) => {
 
 module.exports.update = (req, res, next) => {
   const { firstName, lastName, password, photo } = req.body
+
   Tourist.findByIdAndUpdate(
     req.params.id,
     {
@@ -35,9 +39,7 @@ module.exports.update = (req, res, next) => {
         res.status(200).json(tourist)
       }
     })
-    .catch(err => {
-      return res.send(`${err}`)
-    })
+    .catch(next)
 }
 
 module.exports.delete = (req, res ,next) => {
@@ -49,7 +51,5 @@ module.exports.delete = (req, res ,next) => {
         res.status(204).json()
       }
     })
-    .catch(err => {
-      return res.send(`${err}`)
-    })
+    .catch(next)
 }

@@ -1,11 +1,23 @@
 const express = require('express')
 const router = express.Router()
 
-const touristsController = require('../controllers/tourists.controller.js')
+const touristsController = require('../controllers/tourists.controller')
+const citiesController = require('../controllers/cities.controller')
+const placesController = require('../controllers/places.controller')
 
 //tourists
 router.post('/tourists/new', touristsController.create)
 router.patch('/tourists/:id'/*:username*/, touristsController.update)
 router.delete('/tourists/:id'/*:username*/, touristsController.delete)
+
+//cities
+router.post('/cities/new', citiesController.create)
+router.patch('/cities/:id'/*:name*/, citiesController.update)
+router.delete('/cities/:id'/*:name*/, citiesController.delete)
+
+//places
+//router.post('/places/new', placesController.create)
+//router.patch('/places/:id'/*:name*/, placesController.update)
+//router.delete('/places/:id'/*:name*/, placesController.delete)
 
 module.exports = router
