@@ -1,5 +1,4 @@
 const createError = require('http-errors')
-
 const City = require('../models/city.model')
 
 module.exports.create = (req, res, next) => {

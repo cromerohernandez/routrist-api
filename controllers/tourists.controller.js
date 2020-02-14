@@ -1,9 +1,8 @@
 const createError = require('http-errors')
-
 const Tourist = require('../models/tourist.model')
 
 module.exports.create = (req, res, next) => {
-  const { firstName, lastName, username, email, password, photo } = req.params
+  const { firstName, lastName, username, email, password, photo } = req.body
 
   const tourist = new Tourist({
     firstName: firstName,

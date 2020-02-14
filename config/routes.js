@@ -16,9 +16,10 @@ router.patch('/cities/:id'/*:name*/, citiesController.update)
 router.delete('/cities/:id'/*:name*/, citiesController.delete)
 
 //places
-router.get('/places', placesController.list)
-//router.post('/places/new', placesController.create)
+router.get('/places', placesController.list) //// => dev FILTER & SORT
+router.post('/places/new', placesController.create)
 //router.patch('/places/:id'/*:name*/, placesController.update)
 //router.delete('/places/:id'/*:name*/, placesController.delete)
+router.post('/places/:id/like', placesController.like)
 
 module.exports = router

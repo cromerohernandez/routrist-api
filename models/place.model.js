@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 const Like = require('./like.model')
 
-const placeSchema = new mongooseSchema({
+const placeSchema = new mongoose.Schema({
   name: {
     type: String,
     required: [true, 'Name is required'],
@@ -46,13 +46,24 @@ const placeSchema = new mongooseSchema({
   }
 })
 
+placeSchema.pre('save', function(next) {
+  next()
+})
+
 placeSchema.virtual('touristsRate').get(async function() {
   const touristsVotes = await Like.find({ place: this._id })
 
   return Math.floor(
-    (touristsLikes.filter(t => t.state).length * 5) / touristsVotes.length
+    (touristsVotes.filter(like => like.state).length * 5) / touristsVotes.length
   )
 })
+
+/*placeSchema.virtual('testVirtual', {
+  ref: 'Like',
+  localField: '_id',
+  foreignField: 'place',
+  justOne: false,
+})*/
 
 const Place = mongoose.model('Place', placeSchema)
 
