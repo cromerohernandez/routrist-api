@@ -7,11 +7,13 @@ const placesController = require('../controllers/places.controller')
 
 //tourists
 router.post('/tourists/new', touristsController.create)
+router.get('/tourists/:token/validate', touristsController.validate)
 router.patch('/tourists/:id'/*:username*/, touristsController.update)
 router.delete('/tourists/:id'/*:username*/, touristsController.delete)
 
 //cities
 router.post('/cities/new', citiesController.create)
+router.get('/cities/:token/validate', citiesController.validate)
 router.patch('/cities/:id'/*:name*/, citiesController.update)
 router.delete('/cities/:id'/*:name*/, citiesController.delete)
 

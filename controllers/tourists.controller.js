@@ -1,4 +1,6 @@
 const createError = require('http-errors')
+const mailer = require('../config/mailer.config')
+
 const Tourist = require('../models/tourist.model')
 
 module.exports.create = (req, res, next) => {
@@ -14,7 +16,27 @@ module.exports.create = (req, res, next) => {
   })
 
   tourist.save()
-    .then(tourist => res.status(201).json(tourist))
+    .then(tourist => {
+      mailer.sendValidateTouristEmail(tourist)
+      res.status(201).json(tourist)
+    })
+    .catch(next)
+}
+
+module.exports.validate = (req, res, next) => {
+  Tourist.findOne({ validateToken: req.params.token })
+    .then(tourist => {
+      if(!tourist) {
+        throw createError(404, 'Tourist not found')
+      } else {
+        tourist.validated = true
+        tourist.save()
+          .then(tourist => {
+            res.status(200).json(tourist)
+          })
+          .catch(next)
+      }
+    })
     .catch(next)
 }
 

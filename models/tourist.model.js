@@ -1,6 +1,7 @@
 const mongoose = require('mongoose')
 
 const { capitalize } = require('../helpers/helper')
+const { generateRandomToken } = require('../helpers/helper')
 
 const touristSchema = new mongoose.Schema({
   firstName: {
@@ -39,12 +40,13 @@ const touristSchema = new mongoose.Schema({
     type: String,
     //default: '../../images/defaultTourist.png'
   },
-  activationToken: {
-
+  validateToken: {
+    type: String,
+    default: generateRandomToken
   },
   validated: {
     type: Boolean,
-    default: true
+    default: false
   }
 }, 
 { timestamps: true,
@@ -54,6 +56,7 @@ const touristSchema = new mongoose.Schema({
       delete ret._id;
       delete ret.__v;
       delete ret.password;
+      delete ret.validateToken;
       return ret;
     }
   }

@@ -5,6 +5,7 @@ const createError = require('http-errors')
 const express = require('express')
 const logger = require('morgan')
 const path = require('path')
+const mongoose = require('mongoose')
 
 require('./config/db.config')
 
