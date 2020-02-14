@@ -6,6 +6,7 @@ module.exports.list = async (req, res, next) => {
   const places = await Place.find()
   res.json(places)
 }
+
 module.exports.create = (req, res, next) => {
   const { name, city, photo, category, cityRate } = req.body
 
@@ -19,6 +20,42 @@ module.exports.create = (req, res, next) => {
 
   place.save()
     .then(place => res.status(201).json(place))
+    .catch(next)
+}
+
+module.exports.update = (req, res, next) => {
+  const { name, city, photo, category, cityRate } = req.body
+
+  Place.findByIdAndUpdate(
+    req.params.id,
+    {
+      name: name,
+      city: city,
+      photo: photo,
+      category: category,
+      cityRate: cityRate
+    },
+    {new: true}
+    )
+    .then(place => {
+      if(!place) {
+        throw createError(404, 'Place not found')
+      } else {
+        res.status(200).json(place)
+      }
+    })
+    .catch(next)
+}
+
+module.exports.delete = (req, res ,next) => {
+  Place.findByIdAndDelete(req.params.id)
+    .then(place => {
+      if(!place) {
+        throw createError(404, 'Place not found')
+      } else {
+        res.status(204).json()
+      }
+    })
     .catch(next)
 }
 

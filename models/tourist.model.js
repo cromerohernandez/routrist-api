@@ -49,7 +49,6 @@ const touristSchema = new mongoose.Schema({
 }, 
 { timestamps: true,
   toJSON: {
-    //virtuals: true,
     transform: (doc, ret) => {
       ret.id = doc._id;
       delete ret._id;
