@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const { capitalize, generateRandomToken } = require('../helpers/models.helper')
+const { capitalize, checkPassword, hashPassword, generateRandomToken } = require('../helpers/models.helper')
 
 const citySchema = new mongoose.Schema({
   name: {
@@ -52,6 +52,14 @@ const citySchema = new mongoose.Schema({
     }
   }
 })
+
+citySchema.pre('save', function (next) {
+  hashPassword(next, this)
+})
+
+citySchema.methods.checkPassword = function (password) {
+  checkPassword(password, this)
+}
 
 const City = mongoose.model('City', citySchema)
 

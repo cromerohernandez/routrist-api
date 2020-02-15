@@ -1,7 +1,6 @@
 const mongoose = require('mongoose')
-const bcrypt = require('bcrypt')
 
-const { capitalize, generateRandomToken } = require('../helpers/models.helper')
+const { capitalize, checkPassword, hashPassword, generateRandomToken } = require('../helpers/models.helper')
 
 const touristSchema = new mongoose.Schema({
   firstName: {
@@ -46,7 +45,7 @@ const touristSchema = new mongoose.Schema({
   },
   validated: {
     type: Boolean,
-    default: false
+    default: true
   }
 }, 
 { timestamps: true,
@@ -61,6 +60,14 @@ const touristSchema = new mongoose.Schema({
     }
   }
 })
+
+touristSchema.pre('save', function (next) {
+  hashPassword(next, this)
+})
+
+touristSchema.methods.checkPassword = function (password) {
+  checkPassword(password, this)
+}
 
 const Tourist = mongoose.model('Tourist', touristSchema)
 
