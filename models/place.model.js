@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 const Like = require('./like.model')
 
-const { calculateTouristsRate } = require('../helpers/helper')
+const { calculateTouristsRate } = require('../helpers/models.helper')
 
 const placeSchema = new mongoose.Schema({
   name: {
