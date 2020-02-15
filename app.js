@@ -6,6 +6,7 @@ const express = require('express')
 const logger = require('morgan')
 const path = require('path')
 const mongoose = require('mongoose')
+const session = require('./config/session.config');
 
 require('./config/db.config')
 
@@ -18,6 +19,12 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: false }))
 app.use(cookieParser())
 app.use(express.static(path.join(__dirname, 'public')))
+app.use(session)
+
+app.use((req, _, next) => {
+  req.currentUser = req.session.user
+  next()
+})
 
 /**
  * Configure routes

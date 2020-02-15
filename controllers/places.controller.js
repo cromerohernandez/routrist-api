@@ -5,6 +5,7 @@ const Like = require('../models/like.model')
 module.exports.list = async (req, res, next) => {
   const places = await Place.find()
   const placesLikes = await Place.addTouristsRate(places)
+  console.log(req.session)
   res.json(placesLikes)
 }
 

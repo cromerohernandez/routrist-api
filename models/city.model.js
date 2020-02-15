@@ -58,7 +58,7 @@ citySchema.pre('save', function (next) {
 })
 
 citySchema.methods.checkPassword = function (password) {
-  checkPassword(password, this)
+  return checkPassword(password, this)
 }
 
 const City = mongoose.model('City', citySchema)

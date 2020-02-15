@@ -45,7 +45,7 @@ const touristSchema = new mongoose.Schema({
   },
   validated: {
     type: Boolean,
-    default: true
+    default: false
   }
 }, 
 { timestamps: true,
@@ -65,8 +65,12 @@ touristSchema.pre('save', function (next) {
   hashPassword(next, this)
 })
 
-touristSchema.methods.checkPassword = function (password) {
-  checkPassword(password, this)
+/*touristSchema.pre('save', function (next) { updatePassword
+  hashPassword(next, this)
+})*/
+
+touristSchema.methods.checkTouristPassword = function (password) {
+  return checkPassword(password, this)
 }
 
 const Tourist = mongoose.model('Tourist', touristSchema)

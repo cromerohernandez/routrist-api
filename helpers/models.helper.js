@@ -2,7 +2,6 @@ const bcrypt = require('bcrypt')
 
 const SALT_WORK_FACTOR = 10
 
-
 function calculateTouristsRate (placeLikes) {
   return Math.floor((placeLikes.filter(like => like.state).length * 5) / placeLikes.length)
 }
