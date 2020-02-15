@@ -8,7 +8,12 @@ function generateRandomToken () {
   return randomString() + randomString() + randomString() + randomString()
 }
 
+function calculateTouristsRate (placeLikes) {
+  return Math.floor((placeLikes.filter(like => like.state).length * 5) / placeLikes.length)
+}
+
 module.exports = {
   capitalize,
-  generateRandomToken
+  generateRandomToken,
+  calculateTouristsRate
 }

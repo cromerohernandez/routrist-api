@@ -1,7 +1,6 @@
 const mongoose = require('mongoose')
 
-const { capitalize } = require('../helpers/helper')
-const { generateRandomToken } = require('../helpers/helper')
+const { capitalize, generateRandomToken } = require('../helpers/helper')
 
 const touristSchema = new mongoose.Schema({
   firstName: {
@@ -54,9 +53,9 @@ const touristSchema = new mongoose.Schema({
     transform: (doc, ret) => {
       ret.id = doc._id;
       delete ret._id;
+      delete ret.validateToken;
       delete ret.__v;
       delete ret.password;
-      delete ret.validateToken;
       return ret;
     }
   }

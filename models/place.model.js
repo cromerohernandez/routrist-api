@@ -1,6 +1,8 @@
 const mongoose = require('mongoose')
 const Like = require('./like.model')
 
+const { calculateTouristsRate } = require('../helpers/helper')
+
 const placeSchema = new mongoose.Schema({
   name: {
     type: String,
@@ -36,7 +38,6 @@ const placeSchema = new mongoose.Schema({
 },
 { timestamps: true,
   toJSON: {
-    virtuals: true,
     transform: (doc, ret) => {
       ret.id = doc._id;
       delete ret._id;
@@ -46,13 +47,17 @@ const placeSchema = new mongoose.Schema({
   }
 })
 
-/*placeSchema.virtual('touristsRate').get(async function() {
-  const touristsVotes = await Like.find({ place: this._id })
+placeSchema.static('addTouristsRate', function(places) {
+  const promises = places.map(place => Like.find({ place: place.id }))
 
-  return Math.floor(
-    (touristsVotes.filter(like => like.state).length * 5) / touristsVotes.length
-  )
-})*/
+  return Promise.all(promises)
+    .then((likesPerPlace) => {
+      return places.map((place, i) => ({
+        ...place.toJSON(),
+        touristsRate: likesPerPlace[i].length > 0 ? calculateTouristsRate(likesPerPlace[i]) : 0
+      }))
+    })
+})
 
 const Place = mongoose.model('Place', placeSchema)
 
