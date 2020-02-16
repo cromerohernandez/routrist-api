@@ -1,7 +1,6 @@
 const createError = require('http-errors')
 
-const Tourist = require('../models/tourist.model')
-const City = require('../models/city.model')
+const User = require('../models/users/userBase.model')
 
 module.exports.login = (req, res, next) => {
   const { email, password } = req.body
@@ -10,37 +9,18 @@ module.exports.login = (req, res, next) => {
     throw createError(400, 'missing credentials')
   }
 
-  Tourist.findOne({ email: email})
-    .then(tourist => {
-      if (!tourist) {
-        City.findOne({ email: email})
-          .then(city => {
-            if (!city) {
-              throw createError(404, 'invalid user or password')
-            } else {
-              return city.checkPassword(password)
-                .then(match => {
-                  if (!match) {
-                    throw createError(400, 'invalid user or password')
-                  } else {
-                    req.session.user = city
-                    req.session.userType = 'city'
-                    res.json(city)
-                  }
-                })
-            }
-          })
+  User.findOne({ email: email})
+    .then(user => {
+      if (!user) {
+        throw createError(404, 'invalid user or password')
       } else {
-        return tourist.checkTouristPassword(password)
+        return user.checkUserPassword(password)
           .then(match => {
-            console.log(match)
             if (!match) {
               throw createError(400, 'invalid user or password')
             } else {
-              req.session.user = tourist
-              req.session.userType = 'tourist'
-              console.log(req.session)
-              res.json(tourist)
+              req.session.user = user
+              res.json(user)
             }
           })
       }

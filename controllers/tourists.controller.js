@@ -1,7 +1,7 @@
 const createError = require('http-errors')
 const mailer = require('../config/mailer.config')
 
-const Tourist = require('../models/tourist.model')
+const Tourist = require('../models/users/tourist.model')
 
 module.exports.create = (req, res, next) => {
   const { firstName, lastName, username, email, password, photo } = req.body
