@@ -7,25 +7,26 @@ const placesController = require('../controllers/places.controller')
 const usersController = require('../controllers/users.controller')
 
 const authMiddleware = require('../middlewares/auth.middleware')
+const userMiddleware = require('../middlewares/user.middleware')
 
 //tourists
 router.post('/tourists/new', authMiddleware.isNotAuthenticated, touristsController.create)
 router.get('/tourists/:token/validate', touristsController.validate)
-router.patch('/tourists/:id'/*:username*/, authMiddleware.isAuthenticated, touristsController.update)
-router.delete('/tourists/:id'/*:username*/, authMiddleware.isAuthenticated, touristsController.delete)
+router.patch('/tourists/:id'/*:username*/, authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.update)
+router.delete('/tourists/:id'/*:username*/, authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.delete)
 
 //cities
 router.post('/cities/new', authMiddleware.isNotAuthenticated, citiesController.create)
 router.get('/cities/:token/validate', citiesController.validate)
-router.patch('/cities/:id'/*:name*/, authMiddleware.isAuthenticated, citiesController.update)
-router.delete('/cities/:id'/*:name*/, authMiddleware.isAuthenticated, citiesController.delete)
+router.patch('/cities/:id'/*:name*/, authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.update)
+router.delete('/cities/:id'/*:name*/, authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.delete)
 
 //places
 router.get('/places', authMiddleware.isAuthenticated, placesController.list) //// => dev FILTER & SORT
-router.post('/places/new', authMiddleware.isAuthenticated, placesController.create)
-router.patch('/places/:id', authMiddleware.isAuthenticated, placesController.update)
-router.delete('/places/:id', authMiddleware.isAuthenticated, placesController.delete)
-router.post('/places/:id/like', authMiddleware.isAuthenticated, placesController.like)
+router.post('/places/new', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.create)
+router.patch('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.update)
+router.delete('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.delete)
+router.post('/places/:id/like', authMiddleware.isAuthenticated, userMiddleware.isTourist, placesController.like)
 
 //routes
 
