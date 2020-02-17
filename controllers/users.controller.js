@@ -6,20 +6,21 @@ module.exports.login = (req, res, next) => {
   const { email, password } = req.body
 
   if (!email || !password) {
-    throw createError(400, 'missing credentials')
+    throw createError(400, 'Missing credentials')
   }
 
   User.findOne({ email: email})
     .then(user => {
       if (!user) {
-        throw createError(404, 'invalid user or password')
+        throw createError(404, 'Invalid user or password')
       } else {
         return user.checkUserPassword(password)
           .then(match => {
             if (!match) {
-              throw createError(400, 'invalid user or password')
+              throw createError(400, 'Invalid user or password')
             } else {
               req.session.user = user
+              res.cookie('foo', 'bar')  //¿?
               res.json(user)
             }
           })

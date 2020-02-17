@@ -23,7 +23,7 @@ const citySchema = new mongoose.Schema({
 })
 
 const City = UserBase.discriminator(
-  'city',  //¿CitySchema?
+  'city',
   citySchema
 )
 

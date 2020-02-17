@@ -31,7 +31,7 @@ const touristSchema = new mongoose.Schema({
 })
 
 const Tourist = UserBase.discriminator(
-  'tourist',  //¿Tourist?
+  'tourist',
   touristSchema
 )
 
