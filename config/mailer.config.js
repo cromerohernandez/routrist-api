@@ -17,7 +17,7 @@ module.exports.sendValidateTouristEmail = (targetUser) => {
     subject: 'Welcome to Routrist!',
     html: `
       <h1>Welcome ${targetUser.firstName}</h1>
-      <p><a href='${APP_HOST}/tourists/${targetUser.validateToken}/validate'>Confirm</a> your account and start to sightseeing with Routrist!</p>
+      <p><a href='${APP_HOST}/tourists/${targetUser.validationToken}/validate'>Confirm</a> your account and start to sightseeing with Routrist!</p>
     `
   })
   .then(info => console.log(info))
@@ -31,7 +31,7 @@ module.exports.sendValidateCityEmail = (targetUser) => {
     subject: 'Welcome to Routrist!',
     html: `
       <h1>Welcome ${targetUser.name}</h1>
-      <p><a href='${APP_HOST}/cities/${targetUser.validateToken}/validate'>Confirm</a> your account and start to share yours places with tourists!</p>
+      <p><a href='${APP_HOST}/cities/${targetUser.validationToken}/validate'>Confirm</a> your account and start to share yours places with tourists!</p>
     `
   })
   .then(info => console.log(info))

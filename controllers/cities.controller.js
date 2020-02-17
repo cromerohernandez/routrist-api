@@ -1,7 +1,7 @@
 const createError = require('http-errors')
 const mailer = require('../config/mailer.config')
 
-const City = require('../models/city.model')
+const City = require('../models/users/city.model')
 
 module.exports.create = (req, res, next) => {
   const { name, country, email, password, photo } = req.body
@@ -23,7 +23,7 @@ module.exports.create = (req, res, next) => {
 }
 
 module.exports.validate = (req, res, next) => {
-  City.findOne({ validateToken: req.params.token })
+  City.findOne({ validationToken: req.params.token })
     .then(city => {
       if(!city) {
         throw createError(404, 'City not found')
