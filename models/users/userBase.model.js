@@ -31,8 +31,10 @@ const userBaseSchema = new mongoose.Schema({
   toJSON: {
     transform: (doc, ret) => {
       ret.id = doc._id;
+      ret.type = doc.__type;
       delete ret._id;
       delete ret.__v;
+      delete ret.__type;
       delete ret.password;
       delete ret.validationToken;
       return ret;
