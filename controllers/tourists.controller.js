@@ -24,7 +24,7 @@ module.exports.create = (req, res, next) => {
 }
 
 module.exports.validate = (req, res, next) => {
-  Tourist.findOne({ validateToken: req.params.token })
+  Tourist.findOne({ validationToken: req.params.token })
     .then(tourist => {
       if(!tourist) {
         throw createError(404, 'Tourist not found')

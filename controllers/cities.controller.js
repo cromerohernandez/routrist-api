@@ -23,7 +23,7 @@ module.exports.create = (req, res, next) => {
 }
 
 module.exports.validate = (req, res, next) => {
-  City.findOne({ validateToken: req.params.token })
+  City.findOne({ validationToken: req.params.token })
     .then(city => {
       if(!city) {
         throw createError(404, 'City not found')
