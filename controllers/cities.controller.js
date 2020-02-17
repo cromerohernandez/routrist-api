@@ -43,7 +43,7 @@ module.exports.update = (req, res, next) => {
   const { name, country, password, photo } = req.body
 
   City.findByIdAndUpdate(
-    req.params.id,
+    req.currentUser.id,
     {
       name: name,
       country: country,
@@ -63,7 +63,7 @@ module.exports.update = (req, res, next) => {
 }
 
 module.exports.delete = (req, res ,next) => {
-  City.findByIdAndDelete(req.params.id)
+  City.findByIdAndDelete(req.currentUser.id)
     .then(city => {
       if(!city) {
         throw createError(404, 'City not found')

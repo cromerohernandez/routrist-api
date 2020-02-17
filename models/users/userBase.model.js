@@ -46,6 +46,10 @@ userBaseSchema.pre('save', function (next) {
   hashPassword(next, this)
 })
 
+/*userBaseSchema.methods.hashUserPassword = function (password) {
+  this.password = hashPassword(next, this)
+}*/
+
 userBaseSchema.methods.checkUserPassword = function (password) {
   return checkPassword(password, this)
 }

@@ -6,9 +6,11 @@ const express = require('express')
 const logger = require('morgan')
 const path = require('path')
 const mongoose = require('mongoose')
-const session = require('./config/session.config');
+
 
 require('./config/db.config')
+const passportConfig = require('./config/passport.config')
+const session = require('./config/session.config')
 
 /** 
  * Configure express
@@ -20,6 +22,8 @@ app.use(express.urlencoded({ extended: false }))
 app.use(cookieParser())
 app.use(express.static(path.join(__dirname, 'public')))
 app.use(session)
+app.use(passportConfig)
+
 
 app.use((req, _, next) => {
   req.currentUser = req.session.user
