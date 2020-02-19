@@ -42,16 +42,16 @@ module.exports.validate = (req, res, next) => {
 
 module.exports.update = (req, res, next) => {
   const { firstName, lastName, password, photo } = req.body
-
-  Tourist.findByIdAndUpdate(
-    req.params.id,
-    {
-      firstName: firstName,
-      lastName: lastName,
-      password: password,
-      photo: photo
-    },
-    {new: true}
+  
+  Tourist.findOneAndUpdate(
+      { _id: req.currentUser.id },
+      {
+        firstName: firstName,
+        lastName: lastName,
+        password: password,
+        photo: photo
+      },
+      { new: true }
     )
     .then(tourist => {
       if(!tourist) {
@@ -64,7 +64,7 @@ module.exports.update = (req, res, next) => {
 }
 
 module.exports.delete = (req, res ,next) => {
-  Tourist.findByIdAndDelete(req.params.id)
+  Tourist.findOneAndDelete({ _id: req.currentUser.id })
     .then(tourist => {
       if(!tourist) {
         throw createError(404, 'Tourist not found')

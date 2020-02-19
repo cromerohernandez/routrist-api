@@ -9,7 +9,7 @@ module.exports.login = (req, res, next) => {
     throw createError(400, 'Missing credentials')
   }
 
-  User.findOne({ email: email})
+  User.findOne({ email: email, validated: true})
     .then(user => {
       if (!user) {
         throw createError(404, 'Invalid user or password')
@@ -20,7 +20,6 @@ module.exports.login = (req, res, next) => {
               throw createError(400, 'Invalid user or password')
             } else {
               req.session.user = user
-              res.cookie('foo', 'bar')  //¿?
               res.json(user)
             }
           })

@@ -40,17 +40,17 @@ module.exports.validate = (req, res, next) => {
 }
 
 module.exports.update = (req, res, next) => {
-  const { name, country, password, photo } = req.body
+  const { name, country, /*password,*/ photo } = req.body
 
-  City.findByIdAndUpdate(
-    req.params.id,
-    {
-      name: name,
-      country: country,
-      password: password,
-      photo: photo
-    },
-    {new: true}
+  City.findOneAndUpdate(
+      { _id: req.currentUser.id },
+      {
+        name: name,
+        country: country,
+        /*password: password,*/
+        photo: photo
+      },
+      { new: true }
     )
     .then(city => {
       if(!city) {
@@ -63,7 +63,7 @@ module.exports.update = (req, res, next) => {
 }
 
 module.exports.delete = (req, res ,next) => {
-  City.findByIdAndDelete(req.params.id)
+  City.findOneAndDelete({ _id: req.currentUser.id })
     .then(city => {
       if(!city) {
         throw createError(404, 'City not found')
