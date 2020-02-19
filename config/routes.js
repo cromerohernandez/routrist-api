@@ -29,6 +29,7 @@ router.post('/places/new', authMiddleware.isAuthenticated, userMiddleware.isCity
 router.patch('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.update)
 router.delete('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.delete)
 router.post('/places/:id/like', authMiddleware.isAuthenticated, userMiddleware.isTourist, placesController.like)
+router.post('/places/:id/dislike', authMiddleware.isAuthenticated, userMiddleware.isTourist, placesController.dislike)
 
 //routes
 
