@@ -44,15 +44,15 @@ module.exports.update = (req, res, next) => {
   const { firstName, lastName, password, photo } = req.body
   
   Tourist.findOneAndUpdate(
-      { _id: req.currentUser.id },
-      {
-        firstName: firstName,
-        lastName: lastName,
-        password: password,
-        photo: photo
-      },
-      { new: true }
-    )
+    { _id: req.currentUser.id },
+    {
+      firstName: firstName,
+      lastName: lastName,
+      password: password,
+      photo: photo
+    },
+    { new: true }
+  )
     .then(tourist => {
       if(!tourist) {
         throw createError(404, 'Tourist not found')

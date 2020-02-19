@@ -10,11 +10,11 @@ module.exports.list = async (req, res, next) => {
 }
 
 module.exports.create = (req, res, next) => {
-  const { name, city, photo, category, cityRate } = req.body
+  const { name, photo, category, cityRate } = req.body
 
   const place = new Place({
     name: name,
-    city: city,
+    city: req.currentUser.id,
     photo: photo,
     category: category,
     cityRate: cityRate
@@ -26,19 +26,18 @@ module.exports.create = (req, res, next) => {
 }
 
 module.exports.update = (req, res, next) => {
-  const { name, city, photo, category, cityRate } = req.body
+  const { name, photo, category, cityRate } = req.body
 
   Place.findOneAndUpdate(
-      { _id: req.params.id },
-      {
-        name: name,
-        city: city,
-        photo: photo,
-        category: category,
-        cityRate: cityRate
-      },
-      { new: true }
-    )
+    { _id: req.params.id },
+    {
+      name: name,
+      photo: photo,
+      category: category,
+      cityRate: cityRate
+    },
+    { new: true }
+  )
     .then(place => {
       if(!place) {
         throw createError(404, 'Place not found')
@@ -61,70 +60,58 @@ module.exports.delete = (req, res ,next) => {
     .catch(next)
 }
 
-/*module.exports.like = (req, res, next) => {
-  const params = { tourist: req.currentUser.id, place: req.params.id, state: req.body.state }
-
-  const like = new Like(params)
-
-  like.save()
-  .then(() => res.status(201).json({likes: 1}))
-  .catch(next)
-}*/
-
 module.exports.like = (req, res, next) => {
   const params = { tourist: req.currentUser.id, place: req.params.id }
 
   Like.findOne(params)
     .then(like => {
-      if (like && like.status === true) {
-        Like.findByIdAndUpdate(like.id, {state: false}, {new: true})
+      if (like && like.state === false ) {
+        Like.findOneAndUpdate(
+          { _id: like.id },
+          { state: true },
+          { new: true }
+        )
           .then(() => {
-            res.status(200).json(like)
+            res.status(200).json({ like: +1 })
           })
           .catch(next)
-      } else if (like && like.status === false) {
-        Like.findByIdAndUpdate(like.id, {state: false}, {new: true})
-          .then(() => {
-            res.status(200).json(like)
-          })
-          .catch(next)
-      } else {
-        const like = new Like(params)
+      } else if (!like) {
+        const like = new Like({...params, state: true})
 
         like.save()
-        .then(() => res.status(201).json(like))
-        .catch(next)
+          .then(() => res.status(201).json({ like: +1 }))
+          .catch(next)
+      } else {
+        throw createError(400, 'Tourist can´t give like again')
       }
     })
     .catch(next)
 }
 
-/*module.exports.like = (req, res, next) => {
+module.exports.dislike = (req, res, next) => {
   const params = { tourist: req.currentUser.id, place: req.params.id }
 
   Like.findOne(params)
-    .then(like => {
-      if (like) {
-        if (like.status === true) {
-          Like.findByIdAndUpdate(like.id, {state: false}, {new: true})
-            .then(() => {
-              res.status(200).json(like)
-            })
-            .catch(next)
-        } else {
-          Like.findByIdAndUpdate(like.id, {state: false}, {new: true})
-            .then(() => {
-              res.status(200).json(like)
-            })
-            .catch(next)
-        }
-      } else {
-        const like = new Like(params)
+    .then(dislike => {
+      if (dislike && dislike.state === true ) {
+        Like.findOneAndUpdate(
+          { _id: dislike.id },
+          { state: false },
+          { new: true }
+        )
+          .then(() => {
+            res.status(200).json({ like: -1 })
+          })
+          .catch(next)
+      } else if (!dislike) {
+        const dislike = new Like({...params, state: false})
 
-        like.save()
-        .then(() => res.status(201).json(like))
-        .catch(next)
+        dislike.save()
+          .then(() => res.status(201).json({ like: -1 }))
+          .catch(next)
+      } else {
+        throw createError(400, 'Tourist can´t give dislike again')
       }
     })
     .catch(next)
-}*/
+}

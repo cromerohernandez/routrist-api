@@ -21,8 +21,8 @@ const touristSchema = new mongoose.Schema({
     required: [true, 'Username is required'],
     unique: true,
     trim: true,
-    minlength: [4, 'Username needs at least 4 chars'],
-    set: capitalize
+    lowercase: true,
+    minlength: [4, 'Username needs at least 4 chars']
   },
   photo: {
     type: String,
