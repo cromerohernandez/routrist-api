@@ -5,8 +5,14 @@ const Like = require('../models/like.model')
 
 module.exports.list = async (req, res, next) => {
   const places = await Place.find()
-  const placesLikes = await Place.addTouristsRate(places)
-  res.json(placesLikes)
+  const placesWithLikes = await Place.addTouristsRate(places)
+  res.json(placesWithLikes)
+}
+
+module.exports.detail = async (req, res, next) => {
+  const place = await Place.find({ _id: req.params.id })
+  const placeWithLikes = await Place.addTouristsRate(place)
+  res.json(placeWithLikes)
 }
 
 module.exports.create = (req, res, next) => {

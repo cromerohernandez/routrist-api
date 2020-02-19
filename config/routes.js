@@ -25,6 +25,7 @@ router.delete('/cities', authMiddleware.isAuthenticated, userMiddleware.isCity, 
 
 //places
 router.get('/places', authMiddleware.isAuthenticated, placesController.list) //// => dev FILTER & SORT
+router.get('/places/:id', authMiddleware.isAuthenticated, placesController.detail) //// => dev FILTER & SORT
 router.post('/places/new', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.create)
 router.patch('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.update)
 router.delete('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.delete)
