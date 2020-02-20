@@ -25,39 +25,48 @@ module.exports.create = (req, res, next) => {
 module.exports.validate = (req, res, next) => {
   City.findOne({ validationToken: req.params.token })
     .then(city => {
-      if(!city) {
-        throw createError(404, 'City not found')
-      } else {
+      if(city) {
         city.validated = true
         city.save()
           .then(city => {
             res.status(200).json(city)
           })
           .catch(next)
+      } else {
+        throw createError(404, 'City not found')
       }
     })
     .catch(next)
 }
 
-module.exports.update = (req, res, next) => {
-  const { name, country, password, photo } = req.body
+module.exports.profile = (req, res, next) => {
+  City.findOne({ _id: req.currentUser.id })
+  .then(city => {
+    if (city) {
+      res.status(200).json(city)
+    } else {
+      throw createError(404, 'City not found')
+    }
+  })
+  .catch(next)
+}
 
-  City.findOneAndUpdate(
-    { _id: req.currentUser.id },
-    {
-      name: name,
-      country: country,
-      password: password,
-      photo: photo
-    },
-    { new: true }
-  )
+module.exports.update = (req, res, next) => {  
+  City.findOne({ _id: req.currentUser.id })
     .then(city => {
-      if(!city) {
-        throw createError(404, 'City not found')
+      if(city) {
+        ['name', 'country', 'password', 'photo'].forEach(key => {
+          if (req.body[key]) {
+            city[key] = req.body[key]
+          }
+        })
+        return city.save()
       } else {
-        res.status(200).json(city)
+        throw createError(404, 'City not found')
       }
+    })
+    .then(editedCity => {
+      res.status(200).json(editedCity)
     })
     .catch(next)
 }
@@ -65,10 +74,10 @@ module.exports.update = (req, res, next) => {
 module.exports.delete = (req, res ,next) => {
   City.findOneAndDelete({ _id: req.currentUser.id })
     .then(city => {
-      if(!city) {
-        throw createError(404, 'City not found')
-      } else {
+      if(city) {
         res.status(204).json()
+      } else {
+        throw createError(404, 'City not found')
       }
     })
     .catch(next)

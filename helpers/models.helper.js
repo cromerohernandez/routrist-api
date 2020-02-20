@@ -36,23 +36,10 @@ function hashPassword (next, user) {
   }
 }
 
-async function hashModifiedPassword (next, user) {
-  await bcrypt.genSalt(SALT_WORK_FACTOR)
-    .then( salt => {
-      return bcrypt.hash(user._update.password, salt)
-        .then(hash => {
-          user._update.password = hash
-          next()
-        })
-    })
-    .catch(error => next(error))
-}
-
 module.exports = {
   calculateTouristsRate,
   capitalize,
   checkPassword,
   generateRandomToken,
-  hashPassword,
-  hashModifiedPassword,
+  hashPassword
 }
