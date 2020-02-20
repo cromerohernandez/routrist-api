@@ -39,6 +39,18 @@ module.exports.validate = (req, res, next) => {
     .catch(next)
 }
 
+module.exports.profile = (req, res, next) => {
+  City.findOne({ _id: req.currentUser.id })
+  .then(city => {
+    if (city) {
+      res.status(200).json(city)
+    } else {
+      throw createError(404, 'City not found')
+    }
+  })
+  .catch(next)
+}
+
 module.exports.update = (req, res, next) => {  
   City.findOne({ _id: req.currentUser.id })
     .then(city => {
