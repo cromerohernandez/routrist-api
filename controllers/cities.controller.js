@@ -39,25 +39,22 @@ module.exports.validate = (req, res, next) => {
     .catch(next)
 }
 
-module.exports.update = (req, res, next) => {
-  const { name, country, password, photo } = req.body
-
-  City.findOneAndUpdate(
-    { _id: req.currentUser.id },
-    {
-      name: name,
-      country: country,
-      password: password,
-      photo: photo
-    },
-    { new: true }
-  )
+module.exports.update = (req, res, next) => {  
+  City.findOne({ _id: req.currentUser.id })
     .then(city => {
       if(!city) {
         throw createError(404, 'City not found')
       } else {
-        res.status(200).json(city)
+        ['name', 'country', 'password', 'photo'].forEach(key => {
+          if (req.body[key]) {
+            city[key] = req.body[key]
+          }
+        })
+        return city.save()
       }
+    })
+    .then(editedCity => {
+      res.status(200).json(editedCity)
     })
     .catch(next)
 }

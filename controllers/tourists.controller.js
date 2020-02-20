@@ -40,25 +40,22 @@ module.exports.validate = (req, res, next) => {
     .catch(next)
 }
 
-module.exports.update = (req, res, next) => {
-  const { firstName, lastName, password, photo } = req.body
-  
-  Tourist.findOneAndUpdate(
-    { _id: req.currentUser.id },
-    {
-      firstName: firstName,
-      lastName: lastName,
-      password: password,
-      photo: photo
-    },
-    { new: true }
-  )
+module.exports.update = (req, res, next) => {  
+  Tourist.findOne({ _id: req.currentUser.id })
     .then(tourist => {
       if(!tourist) {
         throw createError(404, 'Tourist not found')
       } else {
-        res.status(200).json(tourist)
+        ['firstName', 'lastName', 'password', 'photo'].forEach(key => {
+          if (req.body[key]) {
+            tourist[key] = req.body[key]
+          }
+        })
+        return tourist.save()
       }
+    })
+    .then(editedTourist => {
+      res.status(200).json(editedTourist)
     })
     .catch(next)
 }

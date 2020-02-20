@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const { checkPassword, generateRandomToken, hashPassword, hashModifiedPassword } = require('../../helpers/models.helper')
+const { checkPassword, generateRandomToken, hashPassword } = require('../../helpers/models.helper')
 
 const EMAIL_PATTERN = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i
 
@@ -47,12 +47,6 @@ const userBaseSchema = new mongoose.Schema({
 
 userBaseSchema.pre('save', function (next) {
   hashPassword(next, this)
-})
-
-userBaseSchema.pre('findOneAndUpdate', async function (next) {
-  if (this._update.password) {
-    await hashModifiedPassword(next, this)
-  }
 })
 
 userBaseSchema.methods.checkUserPassword = function (password) {
