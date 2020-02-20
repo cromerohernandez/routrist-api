@@ -4,15 +4,25 @@ const Place = require('../models/place.model')
 const Like = require('../models/like.model')
 
 module.exports.list = async (req, res, next) => {
-  const places = await Place.find()
-  const placesWithLikes = await Place.addTouristsRate(places)
-  res.json(placesWithLikes)
+  try {
+    const places = await Place.find()
+    const placesWithLikes = await Place.addTouristsRate(places)
+    res.json(placesWithLikes)
+  } 
+  catch {
+    next
+  }
 }
 
 module.exports.detail = async (req, res, next) => {
-  const place = await Place.find({ _id: req.params.id })
-  const placeWithLikes = await Place.addTouristsRate(place)
-  res.json(placeWithLikes)
+  try {
+    const place = await Place.find({ _id: req.params.id })
+    const placeWithLikes = await Place.addTouristsRate(place)
+    res.json(placeWithLikes)
+  }
+  catch {
+    next
+  }
 }
 
 module.exports.create = (req, res, next) => {
@@ -45,10 +55,10 @@ module.exports.update = (req, res, next) => {
     { new: true }
   )
     .then(place => {
-      if(!place) {
-        throw createError(404, 'Place not found')
-      } else {
+      if(place) {
         res.status(200).json(place)
+      } else {
+        throw createError(404, 'Place not found')
       }
     })
     .catch(next)
@@ -57,10 +67,10 @@ module.exports.update = (req, res, next) => {
 module.exports.delete = (req, res ,next) => {
   Place.findOneAndDelete({ _id: req.params.id })
     .then(place => {
-      if(!place) {
-        throw createError(404, 'Place not found')
-      } else {
+      if(place) {
         res.status(204).json()
+      } else {
+        throw createError(404, 'Place not found')
       }
     })
     .catch(next)

@@ -26,32 +26,44 @@ module.exports.create = (req, res, next) => {
 module.exports.validate = (req, res, next) => {
   Tourist.findOne({ validationToken: req.params.token })
     .then(tourist => {
-      if(!tourist) {
-        throw createError(404, 'Tourist not found')
-      } else {
+      if(tourist) {
         tourist.validated = true
         tourist.save()
           .then(tourist => {
             res.status(200).json(tourist)
           })
           .catch(next)
+      } else {
+        throw createError(404, 'Tourist not found')
       }
     })
     .catch(next)
 }
 
+module.exports.profile = (req, res, next) => {
+  Tourist.findOne({ _id: req.currentUser.id })
+  .then(tourist => {
+    if (tourist) {
+      res.status(200).json(tourist)
+    } else {
+      throw createError(404, 'Tourist not found')
+    }
+  })
+  .catch(next)
+}
+
 module.exports.update = (req, res, next) => {  
   Tourist.findOne({ _id: req.currentUser.id })
     .then(tourist => {
-      if(!tourist) {
-        throw createError(404, 'Tourist not found')
-      } else {
+      if(tourist) {
         ['firstName', 'lastName', 'password', 'photo'].forEach(key => {
           if (req.body[key]) {
             tourist[key] = req.body[key]
           }
         })
         return tourist.save()
+      } else {
+        throw createError(404, 'Tourist not found')
       }
     })
     .then(editedTourist => {
@@ -63,10 +75,10 @@ module.exports.update = (req, res, next) => {
 module.exports.delete = (req, res ,next) => {
   Tourist.findOneAndDelete({ _id: req.currentUser.id })
     .then(tourist => {
-      if(!tourist) {
-        throw createError(404, 'Tourist not found')
-      } else {
+      if(tourist) {
         res.status(204).json()
+      } else {
+        throw createError(404, 'Tourist not found')
       }
     })
     .catch(next)
