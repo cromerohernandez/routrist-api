@@ -41,7 +41,12 @@ module.exports.validate = (req, res, next) => {
 
 module.exports.profile = (req, res, next) => {
   City.findOne({ _id: req.currentUser.id })
-    .populate('places')
+    .populate({
+      path: 'places',
+      populate: {
+        path:'touristsLikes'
+      }
+    })
     .then(city => {
       if (city) {
         res.status(200).json(city)

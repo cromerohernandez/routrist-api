@@ -1,5 +1,4 @@
 const mongoose = require('mongoose')
-const Like = require('./like.model')
 
 const { calculateTouristsRate } = require('../helpers/models.helper')
 
@@ -43,13 +42,13 @@ const placeSchema = new mongoose.Schema({
       ret.id = doc._id;
       delete ret._id;
       delete ret.__v;
-      //delete ret.touristsVotes;
+      delete ret.touristsLikes;
       return ret;
     }
   }
 })
 
-placeSchema.virtual('touristsVotes', {
+placeSchema.virtual('touristsLikes', {
   ref: 'Like',
   localField: '_id',
   foreignField: 'place',
@@ -57,20 +56,8 @@ placeSchema.virtual('touristsVotes', {
 })
 
 placeSchema.virtual('touristsRate').get(function() {
-  return calculateTouristsRate(this.touristsVotes)
+  return calculateTouristsRate(this.touristsLikes)
 })
-
-/*placeSchema.static('addTouristsRate', function(places) {
-  const promises = places.map(place => Like.find({ place: place.id }))
-
-  return Promise.all(promises)
-    .then((likesPerPlace) => {
-      return places.map((place, i) => ({
-        ...place.toJSON(),
-        touristsRate: likesPerPlace[i].length > 0 ? calculateTouristsRate(likesPerPlace[i]) : 0
-      }))
-    })
-})*/
 
 const Place = mongoose.model('Place', placeSchema)
 

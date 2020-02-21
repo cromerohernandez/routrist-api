@@ -19,35 +19,22 @@ module.exports.create = (req, res, next) => {
     .catch(next)
 }
 
-/*module.exports.list = async (req, res, next) => {
-  try {
-    const places = await Place.find()
-    const placesWithLikes = await Place.addTouristsRate(places)
-    res.json(places)
-  } 
-  catch {
-    next
-  }
-}*/
-
 module.exports.list = (req, res, next) => {
   Place.find()
-    .populate('touristsVotes')
+    .populate('touristsLikes')
     .then(places => {
       res.json(places)
     })
     .catch(next)
 }
 
-module.exports.detail = async (req, res, next) => {
-  try {
-    const place = await Place.find({ _id: req.params.id })
-    const placeWithLikes = await Place.addTouristsRate(place)
-    res.json(placeWithLikes)
-  }
-  catch {
-    next
-  }
+module.exports.detail = (req, res, next) => {
+  Place.find({ _id: req.params.id })
+    .populate('touristsLikes')
+    .then(place => {
+      res.json(place)
+    })
+    .catch(next)
 }
 
 module.exports.update = (req, res, next) => {
