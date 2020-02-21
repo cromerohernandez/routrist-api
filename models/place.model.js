@@ -38,16 +38,29 @@ const placeSchema = new mongoose.Schema({
 },
 { timestamps: true,
   toJSON: {
+    virtuals: true,
     transform: (doc, ret) => {
       ret.id = doc._id;
       delete ret._id;
       delete ret.__v;
+      //delete ret.touristsVotes;
       return ret;
     }
   }
 })
 
-placeSchema.static('addTouristsRate', function(places) {
+placeSchema.virtual('touristsVotes', {
+  ref: 'Like',
+  localField: '_id',
+  foreignField: 'place',
+  justOne: false
+})
+
+placeSchema.virtual('touristsRate').get(function() {
+  return calculateTouristsRate(this.touristsVotes)
+})
+
+/*placeSchema.static('addTouristsRate', function(places) {
   const promises = places.map(place => Like.find({ place: place.id }))
 
   return Promise.all(promises)
@@ -57,7 +70,7 @@ placeSchema.static('addTouristsRate', function(places) {
         touristsRate: likesPerPlace[i].length > 0 ? calculateTouristsRate(likesPerPlace[i]) : 0
       }))
     })
-})
+})*/
 
 const Place = mongoose.model('Place', placeSchema)
 

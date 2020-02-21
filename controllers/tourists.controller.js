@@ -42,14 +42,14 @@ module.exports.validate = (req, res, next) => {
 
 module.exports.profile = (req, res, next) => {
   Tourist.findOne({ _id: req.currentUser.id })
-  .then(tourist => {
-    if (tourist) {
-      res.status(200).json(tourist)
-    } else {
-      throw createError(404, 'Tourist not found')
-    }
-  })
-  .catch(next)
+    .then(tourist => {
+      if (tourist) {
+        res.status(200).json(tourist)
+      } else {
+        throw createError(404, 'Tourist not found')
+      }
+    })
+    .catch(next)
 }
 
 module.exports.update = (req, res, next) => {  

@@ -27,4 +27,11 @@ const City = UserBase.discriminator(
   citySchema
 )
 
+citySchema.virtual('places', {
+  ref: 'Place',
+  localField: '_id',
+  foreignField: 'city',
+  justOne: false
+})
+
 module.exports = City
