@@ -88,3 +88,22 @@ module.exports.delete = (req, res ,next) => {
     })
     .catch(next)
 }
+
+/*module.exports.list = (req, res, next) => {
+  City.find()
+    .then(cities => {
+      cities.map(city => {
+        city
+        }
+      })
+
+
+      res.status(200).json(cities)
+    })
+    .catch(next)
+}
+
+module.exports.detail = (req, res, next) => {
+  City.findOne({ _id: req.currentUser.id })
+
+}*/

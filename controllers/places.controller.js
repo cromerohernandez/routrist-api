@@ -23,7 +23,7 @@ module.exports.list = (req, res, next) => {
   Place.find()
     .populate('touristsLikes')
     .then(places => {
-      res.json(places)
+      res.status(200).json(places)
     })
     .catch(next)
 }
@@ -32,7 +32,7 @@ module.exports.detail = (req, res, next) => {
   Place.find({ _id: req.params.id })
     .populate('touristsLikes')
     .then(place => {
-      res.json(place)
+      res.status(200).json(place)
     })
     .catch(next)
 }
