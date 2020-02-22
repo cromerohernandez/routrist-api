@@ -7,6 +7,7 @@ const citySchema = new mongoose.Schema({
   name: {
     type: String,
     required: [true, 'Name is required'],
+    unique: true,
     trim: true,
     set: capitalize
   },
@@ -22,16 +23,16 @@ const citySchema = new mongoose.Schema({
   }
 })
 
-const City = UserBase.discriminator(
-  'city',
-  citySchema
-)
-
 citySchema.virtual('places', {
   ref: 'Place',
   localField: '_id',
   foreignField: 'city',
   justOne: false
 })
+
+const City = UserBase.discriminator(
+  'city',
+  citySchema
+)
 
 module.exports = City

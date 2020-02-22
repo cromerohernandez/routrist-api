@@ -23,7 +23,11 @@ module.exports.list = (req, res, next) => {
   Place.find()
     .populate('touristsLikes')
     .then(places => {
-      res.status(200).json(places)
+      if(places) {
+        res.status(200).json(places)
+      } else {
+        throw createError(404, 'Places not found')
+      }
     })
     .catch(next)
 }
@@ -32,7 +36,11 @@ module.exports.detail = (req, res, next) => {
   Place.find({ _id: req.params.id })
     .populate('touristsLikes')
     .then(place => {
-      res.status(200).json(place)
+      if(place) {
+        res.status(200).json(place)
+      } else {
+        throw createError(404, 'Place not found')
+      }
     })
     .catch(next)
 }

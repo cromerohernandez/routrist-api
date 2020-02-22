@@ -56,7 +56,9 @@ placeSchema.virtual('touristsLikes', {
 })
 
 placeSchema.virtual('touristsRate').get(function() {
-  return calculateTouristsRate(this.touristsLikes)
+  if (this.touristsLikes) {
+    return calculateTouristsRate(this.touristsLikes)
+  }
 })
 
 const Place = mongoose.model('Place', placeSchema)
