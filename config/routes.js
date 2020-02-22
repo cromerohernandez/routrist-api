@@ -5,6 +5,7 @@ const touristsController = require('../controllers/tourists.controller')
 const citiesController = require('../controllers/cities.controller')
 const placesController = require('../controllers/places.controller')
 const usersController = require('../controllers/users.controller')
+const routesController = require('../controllers/routes.controller')
 
 const authMiddleware = require('../middlewares/auth.middleware')
 const userMiddleware = require('../middlewares/user.middleware')
@@ -30,12 +31,15 @@ router.get('/cities/:cityName', authMiddleware.isAuthenticated, userMiddleware.i
 router.post('/places/new', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.create)
 //router.get('/places', authMiddleware.isAuthenticated, placesController.list) //// => dev FILTER & SORT (query params)
 router.get('/places/:id', authMiddleware.isAuthenticated, placesController.detail)
-router.patch('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.update)
-router.delete('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.delete)
+router.patch('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, userMiddleware.isPlaceOwner, placesController.update)          //////////////////////////////CityOwner
+router.delete('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, userMiddleware.isPlaceOwner, placesController.delete)          //////////////////////////////CityOwner
 router.post('/places/:id/like', authMiddleware.isAuthenticated, userMiddleware.isTourist, placesController.like)
 router.post('/places/:id/dislike', authMiddleware.isAuthenticated, userMiddleware.isTourist, placesController.dislike)
 
 //routes
+//router.post('/routes/new',  authMiddleware.isAuthenticated, userMiddleware.isTourist, routesController.create)
+//router.get('/routes/:id',  authMiddleware.isAuthenticated, userMiddleware.isTourist, routesController.detail)          //////////////////////////////TouristOwner
+//router.delete('/routes/:id', authMiddleware.isAuthenticated, userMiddleware.isTourist, routesController.delete)          //////////////////////////////TouristOwner
 
 //sessions
 router.post('/login', authMiddleware.isNotAuthenticated, usersController.login)

@@ -25,7 +25,12 @@ const routeSchema = new mongoose.Schema({
     type: Date,
     required: [true, 'End date is required']
   },
-  places: {},
+  places: [
+    {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'Place'
+    }
+  ],
   traveled: {
     type: Boolean,
     default: false
@@ -38,7 +43,6 @@ const routeSchema = new mongoose.Schema({
       ret.id = doc._id;
       delete ret._id;
       delete ret.__v;
-      delete ret.touristsLikes;
       return ret;
     }
   }
