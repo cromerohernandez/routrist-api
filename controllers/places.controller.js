@@ -19,8 +19,13 @@ module.exports.create = (req, res, next) => {
     .catch(next)
 }
 
+
+//////////////////////////////////////////////////
+
 module.exports.list = (req, res, next) => {
-  Place.find()
+  Place.findOne({
+    city: req.params.city
+  })
     .populate('touristsLikes')
     .then(places => {
       if(places) {
@@ -32,8 +37,12 @@ module.exports.list = (req, res, next) => {
     .catch(next)
 }
 
+///////////////////////////////////////////////////
+
+
+
 module.exports.detail = (req, res, next) => {
-  Place.find({ _id: req.params.id })
+  Place.findOne({ _id: req.params.id })
     .populate('touristsLikes')
     .then(place => {
       if(place) {

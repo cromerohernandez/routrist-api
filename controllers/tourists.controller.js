@@ -42,6 +42,7 @@ module.exports.validate = (req, res, next) => {
 
 module.exports.profile = (req, res, next) => {
   Tourist.findOne({ _id: req.currentUser.id })
+    .populate('routes')
     .then(tourist => {
       if (tourist) {
         res.status(200).json(tourist)

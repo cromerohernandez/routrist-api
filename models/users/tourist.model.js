@@ -30,6 +30,13 @@ const touristSchema = new mongoose.Schema({
   }
 })
 
+touristSchema.virtual('routes', {
+  ref: 'Route',
+  localField: '_id',
+  foreignField: 'tourist',
+  justOne: false
+})
+
 const Tourist = UserBase.discriminator(
   'tourist',
   touristSchema
