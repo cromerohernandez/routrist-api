@@ -32,6 +32,7 @@ const userBaseSchema = new mongoose.Schema({
   collection: 'users',
   timestamps: true,
   toJSON: {
+    virtuals: true,
     transform: (doc, ret) => {
       ret.id = doc._id;
       ret.type = doc.__type;

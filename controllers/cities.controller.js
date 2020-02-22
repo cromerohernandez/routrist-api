@@ -41,14 +41,20 @@ module.exports.validate = (req, res, next) => {
 
 module.exports.profile = (req, res, next) => {
   City.findOne({ _id: req.currentUser.id })
-  .then(city => {
-    if (city) {
-      res.status(200).json(city)
-    } else {
-      throw createError(404, 'City not found')
-    }
-  })
-  .catch(next)
+    .populate({
+      path: 'places',
+      populate: {
+        path:'touristsLikes'
+      }
+    })
+    .then(city => {
+      if (city) {
+        res.status(200).json(city)
+      } else {
+        throw createError(404, 'City not found')
+      }
+    })
+    .catch(next)
 }
 
 module.exports.update = (req, res, next) => {  
@@ -81,4 +87,34 @@ module.exports.delete = (req, res ,next) => {
       }
     })
     .catch(next)
+}
+
+module.exports.list = (req, res, next) => {
+  City.find()
+    .then(cities => {
+      if (cities) {
+        res.status(200).json(cities)
+      } else {
+        throw createError(404, 'Cities not found')
+      }
+    })
+    .catch(next)
+}
+
+module.exports.detail = (req, res, next) => {
+  City.findOne({ name: req.params.cityName })
+  .populate({
+    path: 'places',
+    populate: {
+      path:'touristsLikes'
+    }
+  })
+  .then(city => {
+    if (city) {
+      res.status(200).json(city)
+    } else {
+      throw createError(404, 'City not found')
+    }
+  })
+  .catch(next)
 }

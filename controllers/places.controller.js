@@ -3,28 +3,6 @@ const createError = require('http-errors')
 const Place = require('../models/place.model')
 const Like = require('../models/like.model')
 
-module.exports.list = async (req, res, next) => {
-  try {
-    const places = await Place.find()
-    const placesWithLikes = await Place.addTouristsRate(places)
-    res.json(placesWithLikes)
-  } 
-  catch {
-    next
-  }
-}
-
-module.exports.detail = async (req, res, next) => {
-  try {
-    const place = await Place.find({ _id: req.params.id })
-    const placeWithLikes = await Place.addTouristsRate(place)
-    res.json(placeWithLikes)
-  }
-  catch {
-    next
-  }
-}
-
 module.exports.create = (req, res, next) => {
   const { name, photo, category, cityRate } = req.body
 
@@ -38,6 +16,32 @@ module.exports.create = (req, res, next) => {
 
   place.save()
     .then(place => res.status(201).json(place))
+    .catch(next)
+}
+
+module.exports.list = (req, res, next) => {
+  Place.find()
+    .populate('touristsLikes')
+    .then(places => {
+      if(places) {
+        res.status(200).json(places)
+      } else {
+        throw createError(404, 'Places not found')
+      }
+    })
+    .catch(next)
+}
+
+module.exports.detail = (req, res, next) => {
+  Place.find({ _id: req.params.id })
+    .populate('touristsLikes')
+    .then(place => {
+      if(place) {
+        res.status(200).json(place)
+      } else {
+        throw createError(404, 'Place not found')
+      }
+    })
     .catch(next)
 }
 
