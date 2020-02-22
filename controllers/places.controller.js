@@ -23,7 +23,7 @@ module.exports.create = (req, res, next) => {
 //////////////////////////////////////////////////
 
 module.exports.list = (req, res, next) => {
-  Place.find({
+  Place.findOne({
     city: req.params.city
   })
     .populate('touristsLikes')
@@ -42,7 +42,7 @@ module.exports.list = (req, res, next) => {
 
 
 module.exports.detail = (req, res, next) => {
-  Place.find({ _id: req.params.id })
+  Place.findOne({ _id: req.params.id })
     .populate('touristsLikes')
     .then(place => {
       if(place) {
