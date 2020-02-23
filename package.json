@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
+    "madseeds": "node ./bin/madrid.seeds",
     "start": "node app.js"
   },
   "author": "Carlos Romero",

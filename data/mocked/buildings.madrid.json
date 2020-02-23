@@ -1,0 +1,2521 @@
+[
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/13947-banco-espana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "13947",
+		"title": "Banco de España",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=487d995a8bf5d010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE ALCALA 48"
+		},
+		"location": {
+			"latitude": 40.4188339187439,
+			"longitude": -3.69482107480432
+		},
+		"organization": {
+			"organization-desc": "El Banco de España es el banco central nacional y, en el marco del Mecanismo Único de Supervisión (MUS)  el supervisor del sistema bancario español junta al Banco Centra Europeo. Su actividad está regulada por la Ley de Autonomía del Banco de España.Metro: Banco de España (línea 2).Bus: 10, 34, 5, 9, 51, 52, 53, 146, 150, 1, 2, 15, 20, 74, 203, 14, 27, 37, 45, 46.",
+			"accesibility": "3",
+			"schedule": "De lunes a viernes: 8.30 a 14.00 horas. Sábados, domingos y festivos: cerrado.",
+			"services": "Algunos servicios se encuentran ubicados en: C/ Alcalá, 522 28027 MadridServicios al público:Operaciones de canje de pesetas por euros.Recogida de billetes y monedas falsos.Canje de billetes deteriorados.Suscripción de deuda pública.Solicitud de información de la Central de Información de Riesgos (CIR).Presentación, ante el Departamento de Conducta de Mercado y Reclamaciones, de quejas y consultas relativas a los servicios bancarios que prestan las entidades de crédito.",
+			"organization-name": "Banco de España"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3371-basilica-pontificia-san-miguel.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3371",
+		"title": "Basílica Pontificia de San Miguel",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=9c383d232e91f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "CALLE SAN JUSTO 4"
+		},
+		"location": {
+			"latitude": 40.414203159177625,
+			"longitude": -3.7096715906562716
+		},
+		"organization": {
+			"organization-desc": "Metro: Sol (líneas 1, 2 y 3), Tirso de Molina (línea 1), La Latina (línea 5).Bus: 31, 50, 65, 3.Cercanías Renfe: Sol (líneas C3 y C4).Bicimad: Estación 35 (plaza del Cordón, 1).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Basílica Pontificia de San Miguel"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/1744-biblioteca-nacional-espana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "1744",
+		"title": "Biblioteca Nacional de España",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=2b8d995a8bf5d010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Recoletos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28001",
+			"street-address": "PASEO RECOLETOS 20 y 22"
+		},
+		"location": {
+			"latitude": 40.423001908945956,
+			"longitude": -3.69084423390357
+		},
+		"organization": {
+			"organization-desc": "Fundada por Felipe V en 1712 como Biblioteca Pública de Palacio. En 1836 dejó de ser propiedad de la Corona y pasó a depender del Ministerio de la Gobernación y recibió por primera vez el nombre de Biblioteca Nacional y en 1896 se abrió al público.Metro: Colón, (línea 4), Retiro (Línea 2)Bus: 5, 14, 27, 45, 53, 150, 37, 21, 1, 9, 19, 51, 74Cercanías Renfe: Recoletos (líneas C1, C2, C7, C8  y C10)Bicimad: Estación 94 (Paseo Recoletos, 32-34)",
+			"accesibility": "1",
+			"schedule": "Salas de lectura y servicios: de lunes a viernes, de 9 a 21 horas.Consultar días de cierre.",
+			"services": "",
+			"organization-name": "Biblioteca Nacional de España"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/14211-bolsa-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "14211",
+		"title": "Bolsa de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0a9d81eb5f51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "PLAZA LEALTAD 1 Palacio de la Bolsa"
+		},
+		"location": {
+			"latitude": 40.41688576337496,
+			"longitude": -3.692184322678944
+		},
+		"organization": {
+			"organization-desc": "Visitas guiadas al Palacio de la Bolsa Todos los días laborables, en horario de mañana, la Bolsa de Madrid abre sus puertas al público para que puedan recorrer el Palacio de la Bolsa. Todas las visitas son guiadas por personal de la Bolsa de Madrid, con objeto de poder aclarar las preguntas del público, ofreciendo así una visita dinámica y participativa.La visita tiene una duración aproximada de 60 minutos. Visitas individuales Todos los Jueves a las 12 horas.Reservas: visitas@grupobme.es  Visitas de grupos Centros de Bachiller (colegios, Institutos, etc).Otros grupos: profesionales, universidades, centros de formación profesional, asociaciones, etc. Horario: Desde las 10 horas de lunes a viernesGrupos de 30 personas como máximo.Edad mínima: 16 años.Descripción monumental: diseñado por Enrique Repulles y Vargas en 1884-93. Edificio representativo de estilo neoclásico, en el que, aprovechando un solar irregular, se organiza perfectamente el complejo programa. Interesante sala de operaciones semicircular cubierta por una bóveda de hierro y cristal.Metro: Banco de España (línea 2).Bus: 203, 10, 14, 27, 34, 37, 45.Bicimad: Estación 65 (calle Antonio Maura, 15).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Bolsa de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/1956-casa-america.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/Consorcios",
+		"id": "1956",
+		"title": "Casa de América",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=10f979262ef5d010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Recoletos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "PLAZA CIBELES 4"
+		},
+		"location": {
+			"latitude": 40.41975904857138,
+			"longitude": -3.692284495888486
+		},
+		"organization": {
+			"organization-desc": "Antiguo Palacio de Linares, diseñado por Carlos Colubí en 1872.De estilo rococó, destaca la escalera de mármol de Manuel Aníbal Álvarez y toda la decoración interior.Fotografía: Martín Carrasco Villaverde.Sala de cine Casa de América Entrada a la venta en taquilla (horario habitual). Para consultar precios y programación, entre en agenda. Aforo: 90 localidades.   Taquilla (Plaza de Cibeles, s/n): Lunes a viernes: de 11:30 a 14:30 y de 16:30 a 19:30 horasMetro: Banco de España (línea 2).Bus: 5, 14, 27, 37, 45, 53, 150, 1, 2, 9, 15, 20, 51, 52, 74, 146, 203, 34, 10, E1Cercanías Renfe: Recoletos (líneas C1, C2, C7, C10 y Regional).Bicimad: Estación 86 (Paseo del Prado 1).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "Visitas guiadas: Sábados y domingos, a las 11, 12 y 13 horas.Venta de entradas anticipadas en el Punto de información de Casa de América, de lunes a viernes de 11:30 a 14:30 y de 16:30 a 19:30 horas.Precios:8 euros (entrada general)5 euros (mayores 65, estudiantes menores de 18 años, discapacitados parciales y desempleados, con la debida acreditación)Gratuito (menores de 8 años y personas declaradas discapacitadas totales y absolutas, con la debida acreditación) Salas de exposiciones  Sala de cine  Restaurantes  Auditorios",
+			"organization-name": "Casa de América"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20363-casa-cisneros.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20363",
+		"title": "Casa de Cisneros",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=023de35bba51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "PLAZA VILLA 4 C/V CALLE CORDON 1, C/V ROLLO 1, C/V SACRAMENTO 2"
+		},
+		"location": {
+			"latitude": 40.41490075227339,
+			"longitude": -3.7105039839947347
+		},
+		"organization": {
+			"organization-desc": "Es uno de los pocos palacios renacentistas del siglo XVI conservados en Madrid, aunque con muchas modificaciones.Descripción monumental Casa-palacio mandada construir por Don Benito Jiménez de Cisneros, sobrino del Cardenal Cisneros, en 1537. Posiblemente fue encargada al alarife de la Villa, Miguel de Hita, que utilizó el solar de su antigua casa y el resto de los solares de la manzana que había adquirido, como consta en un documento de la época. Forma parte del conjunto de la Plaza de la Villa. Después de la Guerra Civil Felipe Trigo hizo otra reforma interior. Destacan la escalera con azulejos de Talavera y el Salón de los Tapices. Bibliografía: Arquitectura de Madrid.- Madrid: Fundación COAM, 2003Metro: Sol (líneas 1, 2, 3), Ópera (líneas R, 2, 5)Bus: 3, 5, 20, 25, 33, 39, 50, 51, 52, 53, 150",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Casa de Cisneros"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20375-casa-panaderia.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20375",
+		"title": "Casa de La Panadería",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=944de35bba51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "PLAZA MAYOR 27"
+		},
+		"location": {
+			"latitude": 40.41583855082183,
+			"longitude": -3.7074257084323636
+		},
+		"organization": {
+			"organization-desc": "Iniciada por Diego Sillero en 1590 para el gremio del pan, será acabada y transformada en 1617 por Gómez de Mora al integrarla en el conjunto de la Plaza Mayor. La planta baja era completamente libre permitiendo el paso entre la calle Mayor y la Plaza. A finales del siglo XVIII  Juan de Villanueva la restauró tras el incendio de la plaza en 1672. Es de destacar el balcón y Escudo Real de la fachada, así como sus pinturas.Metro: Sol (líneas 1, 2, 3),  Ópera (línea 2, 5, Ramal).Bus: 3, 6, 26, 32, Renfe: Sol (líneas línea 1, C3, C4).Bicimad: Estaciónes 31 (calle Mayor 20), 32 (plaza de la Provincia 1).",
+			"accesibility": "1",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Casa de La Panadería"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/71807-casa-villa-ayuntamiento-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "71807",
+		"title": "Casa de La Villa. Ayuntamiento de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=483f68540e41c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "PLAZA VILLA 5"
+		},
+		"location": {
+			"latitude": 40.41518829867041,
+			"longitude": -3.7106248754622504
+		},
+		"organization": {
+			"organization-desc": "Descripción monumental  El Ayuntamiento madrileño careció de inmueble propio hasta finalizar el siglo XVI, celebrando sus sesiones en la antigua parroquia de San Salvador, situada en la calle Mayor esquina calle Señores de Luzón.En 1599 se compraron varias casas en la manzana 182, donde se instaló provisionalmente, y que se derribaron en 1620 para construir el actual edificio. Entonces el Consejo pidió licencia al rey para hacer la Casa del Ayuntamiento. En 1629 se aprobó el proyecto de Juan Gómez de Mora, empezando las obras años más tarde.El edificio estuvo planteado con doble función: acoger los servicios municipales y la cárcel de la Villa. El resultado fue un edificio exento con planta compuesta en torno a un patio cuadrado, dejando el vestíbulo y salones principales en las fachadas principales y el resto de las dependencias en las secundarias.Las fachadas en ladrillo, granito y pizarra presentan distintos tratamientos por su diferente función y situación urbana, siguiendo la línea de la arquitectura madrileña del siglo XVII impuesta por Gómez de Mora. La fachada a la plaza de la Villa tiene una distribución simétrica entre torres angulares rematadas con chapitel.  La fachada a la calle Mayor, reformada por Juan de Villanueva siguiendo el diseño de Mateo G&amp;uuml;ill, mantiene las torres angulares y varía el segundo cuerpo, introduciendo en él una loggia de orden dórico como gran mirador sobre la calle, que acentúa los juegos de luz y sombra.A lo largo de los siglos XIX y XX se realizaron ampliaciones y reformas interiores para dar cabida a los nuevos servicios del Ayuntamiento.En la actualidad la sede del Ayuntamiento de Madrid se encuentra en el Palacio de Cibeles. Autores Juan Gómez de Mora: 1629 (P)Juan Gómez de Mora, José de Villarreal, Bartolomé Hurtado, José del Olmo, Manuel del Olmo, Cristóbal de Aguilera y Teodoro Ardemans: 1644-1696 (O)Reforma fachada c/ Mayor: Mateo G&amp;uuml;ill y Juan de Villanueva: 1785-1789 (O)Ampliación: Juan José Sánchez Pescador: 1857-1859 (O)Primera restauración: Lucio Oñoro Domínguez: 1969-1975 (O)Segunda restauración: Joaquín Roldán Pascual: patio de cristales: 1984-1985 (O), salón de plenos: 1985 (O), saletas diversas: 1986 (O) y capilla: 1991 (Co)Metro: Sol (líneas 1, 2, 3), Ópera (líneas R, 2, 5)Bus: 3, 5, 20, 25, 33, 39, 50, 51, 52, 53, 150",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Casa de La Villa. Ayuntamiento de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20390-casa-velazquez.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20390",
+		"title": "Casa de Velázquez",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=a48de35bba51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca/Barrio/CiudadUniversitaria"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28040",
+			"street-address": "CALLE PAUL GUINARD 3"
+		},
+		"location": {
+			"latitude": 40.441013640676644,
+			"longitude": -3.7299866834370903
+		},
+		"organization": {
+			"organization-desc": "La Casa de Velázquez es, a la vez, un centro de creación artística y un centro de investigación. Esto es lo que constituye su singularidad en el conjunto de las cinco Escuelas Francesas en el Extranjero bajo la tutela del Ministerio de Enseñanza Superior, Investigación e Innovación.Establecimiento público de carácter científico, cultural y profesional, la Casa de Velázquez tiene la misión de desarrollar actividades creadoras e investigaciones relacionadas con las artes, las lenguas, las literaturas y las sociedades de los países ibéricos, iberoamericanos y del Magreb.Descripción monumental: el edificio es un palacete de estilo neoclásico inaugurado en 1928, por encargo del gobierno francés a los arquitectos Chifflot y Lefevre, en un terreno concedido por el Rey Alfonso XIII. Desde su fundación la institución acoge a jóvenes investigadores y artistas emergentes.Bus: 83 , 133, 162.Metro: Ciudad Universitaria (línea 6).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Casa de Velázquez"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2064-cason-buen-retiro-museo-nacional-prado-centro-estudios.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2064",
+		"title": "Casón del Buen Retiro. Museo Nacional del Prado, Centro de Estudios",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=f0443d0b5e71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE ALFONSO XII 28"
+		},
+		"location": {
+			"latitude": 40.415263749471535,
+			"longitude": -3.689232811717636
+		},
+		"organization": {
+			"organization-desc": "Edificio que forma parte del Museo Nacional del Prado, donde pueden consultarse fondos de la Biblioteca, del Archivo y del Servicio de Documentación de la colección del Museo y de otras fuentes relativas a la historia del arte.Descripción monumental El Casón o Salón de Baile es el único volumen que permanece del antiguo Palacio del buen Retiro, ejecutado en 1637 con un proyecto de Alonso Carbonel. Aún se conserva la bóveda de cañon con lunetas, pintada al fresco por Lucas Jordán en 1692 con la Alegoría del Toisón de Oro. Su fachada principal, a poniente, arrasada la primitiva en 1886 por un ciclón, es de Velázquez Bosco. La última rehabilitación ha sido realizada por Jaime Torruell.Metro: Estación del Arte (Atocha) (línea 1)Bus: 19Renfe: AtochaBicimad: Estación 65 (calle Antonio Maura, 15)",
+			"accesibility": "1",
+			"schedule": "Mañanas (de 1 octubre a 31 mayo)Lunes y miércoles, de 8:30 a 17 horas (Servicio de libros y otros materiales hasta las 16:30 horas)Martes y jueves, de 8:30 a 15 horas (Servicio de libros y otros materiales hasta las 14:30 horas)Viernes, de 8:30 a 14 horas (Servicio de libros y otros materiales hasta las 13:30 horas) Horario de verano (de 1 junio a 30 septiembre)Lunes a jueves, de 9 a 14:30 horas (Servicio de libros y otros materiales hasta las 14 horas)Viernes, de 9 a 14 horas (Servicio de libros y otros materiales hasta las 13:30 horas)",
+			"services": "",
+			"organization-name": "Casón del Buen Retiro. Museo Nacional del Prado, Centro de Estudios"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/5682031-castillo-alameda.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "5682031",
+		"title": "Castillo de la Alameda",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=fe43c4be8e688210VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Barajas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Barajas/Barrio/AlamedaOsuna"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28042",
+			"street-address": "CALLE ANTONIO SANCHA 1"
+		},
+		"location": {
+			"latitude": 40.45835460563491,
+			"longitude": -3.5932903820278788
+		},
+		"organization": {
+			"organization-desc": "El Castillo de la Alameda o de Barajas se trata de uno de los escasos vestigios de la arquitectura militar del pasado siglo XV y uno de los pocos castillos que ha sobrevivido al paso del tiempo. Bajo él y su entorno, existen restos de asentamientos antiguos desde la Edad del Bronce hasta la Época Romana.En el edificio se realizan talleres para escolares y actividades en verano.Accesibilidad Rampas de acceso.Aseos adaptados para personas con movilidad reducida.Información en Braille para invidentes.Metro: Alameda de Osuna y El Capricho (línea 5) Bus: 101, 105, 112, 114, 115 y 151",
+			"accesibility": "1",
+			"schedule": "Abierto solo en fin de semana (sábado y domingo) y festivos (lunes festivos incluidos)Del 1 de abril al 15 de junio de 10 a 21 horas.Del 16 de junio al 15 de septiembre de 10 a 20 horas.Del 15 al 30 de septiembre de 10 a 21 horas.De octubre a marzo de 10 a 18 horas.Cerrado: 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre.",
+			"services": "",
+			"organization-name": "Castillo de la Alameda"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3361-catedral-santa-maria-real-almudena.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3361",
+		"title": "Catedral Santa María la Real de la Almudena",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=15647b503a71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "CALLE BAILEN 10"
+		},
+		"location": {
+			"latitude": 40.415547923977506,
+			"longitude": -3.713669638684312
+		},
+		"organization": {
+			"organization-desc": "Su construcción comienza a finales del siglo XIX por el Marqués de Cubas, sobre el primer recinto amurallado del Madrid musulmán, y finaliza en el año 1993.Metro: Ópera (líneas 2, 5, Ramal), Sol (Línea 1, 2, 3).Bus: 3.Bicimad: Estación 36 (plaza Ramales, 1).Cercanías Renfe: Sol (líneas C3 y C4).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Catedral Santa María la Real de la Almudena"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2000-centro-estudios-politicos-constitucionales.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2000",
+		"title": "Centro de Estudios Políticos y Constitucionales",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=8c5d1e79ee71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "PLAZA MARINA ESPA&amp;Ntilde;OLA 9"
+		},
+		"location": {
+			"latitude": 40.42063654129458,
+			"longitude": -3.7124503472242387
+		},
+		"organization": {
+			"organization-desc": "Metro: Plaza España (líneas 3, 10)Bus: 138, 148, 25, 39, 46, 62, 75, C1, C2",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Centro de Estudios Políticos y Constitucionales"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/103331-centro-social-cultural-casa-encendida.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "103331",
+		"title": "Centro Social y Cultural La Casa Encendida",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=c27f8899fc81c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Embajadores"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "RONDA VALENCIA 2"
+		},
+		"location": {
+			"latitude": 40.40595710517701,
+			"longitude": -3.699779793558763
+		},
+		"organization": {
+			"organization-desc": "Edificio de carácter monumental. De estilo neomudéjar, fue diseñado por el arquitecto Fernando Arbós e inaugurado en el año 1913. Cuenta con más de 6000 metros cuadrados de instalaciones divididas en 4 plantas y una azotea.Metro: Embajadores (línea 3).Bus: 119, 27, 34, 36, 41, C2, C1, M1.Cercanías Renfe: Embajadores (línea C5).Bicimad: Estación 49 (ronda de Atocha, 34).",
+			"accesibility": "1",
+			"schedule": "De martes a domingo de 10 a 22 horas.Cierre de salas de exposiciones 21:45 horas.Más horarios en la pestaña 'Servicios'.",
+			"services": "Biblioteca: Biblioteca (Hemeroteca, Mediateca y Sala de ofimática): de martes a domingos de 10 a 21 horas. El servicio de mediateca los fines de semana es de 10 a 14 y de 17 a 21 horas. Biblioteca joven: de martes a viernes de 14 a 20:30, sábados y domingos de 10 a 13 horas (horario condicionado por las actividades programadas en la Biblioteca Joven). Ecotienda solidaria: De martes a jueves de 11 a 15 y de 17 a 21.Viernes y sábados de 10 a 15 y de 17 a 22 horas.Domingos de 10 a 14 y de 17 a 21 horas. Cafetería: De martes a domingo de 10 a 19:30 horas. Cerrada del 6 de agosto al 1 de septiembre inclusive. Punto de información de voluntariado:De martes a juves de 16 a 20 horas.Viernes de 10 a 14 horas.Julio: martes y viernes de 10 a 14 horas, agosto cerrado.",
+			"organization-name": "Centro Social y Cultural La Casa Encendida"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2045-circulo-bellas-artes.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/Consorcios",
+		"id": "2045",
+		"title": "Círculo de Bellas Artes",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=8fdf1e79ee71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE ALCALÁ 42"
+		},
+		"location": {
+			"latitude": 40.41842683569739,
+			"longitude": -3.6965967618484465
+		},
+		"organization": {
+			"organization-desc": "Descripción monumental  Arquitecto: Antonio Palacios (1919 - 1926). Este edificio de imagen urbana, monumental y ecléctica, gracias a su volumetría y al tratamiento de las fachadas, se remata con una torre a modo de faro cultural y una Minerva en bronce esculpida por Juan Luis Vassallo. Los altorrelieves fueron realizados por José Capuz, Juan Adsuara y la colaboración de Ángel García Díaz.Metro: Banco de España (línea 2).Bus: 146, 150, 5, 51, 52, 53, 9, 1, 2, 46, 74, M2, 15, 20.Bicimad: Estación 20 a (calle Alcalá 49), estación 28 (calle Alcalá 27).",
+			"accesibility": "3",
+			"schedule": "Salas de exposiciones: martes a domingo de 11 a 14 y de 17 a 21 horas. Lunes cerrado. Azotea: de lunes a domingo (y festivos) de 9 a 0 horas. Horario sujeto a cambios. Taquilla (cine y espectáculos): miércoles a domingo de 16 a 22 horas. Horario sujeto a cambios. Cafetería 'La Pecera': de 8 a 1 horas (viernes, sábado y domingo hasta las 3 horas).",
+			"services": "Terraza - azotea visitable.Cafetería.Visitas guiadas al edificio de martes a viernes, de 10 a 13 y de 16:30 a 17:30 horas, más información 913 892 435 y visitaguiadas@cbamadrid.es.",
+			"organization-name": "Círculo de Bellas Artes"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3355-concepcion-real-calatrava.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3355",
+		"title": "Concepción Real de Calatrava",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e8013d232e91f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE ALCALA 25"
+		},
+		"location": {
+			"latitude": 40.418196333786035,
+			"longitude": -3.698963613858259
+		},
+		"organization": {
+			"organization-desc": "Metro: Sevilla (línea 2).Bus: 46, M2, 150, 5, 52, 15, 20, 51, 53, 9, 1, 146, 2, 74, 26, 3, 32, 6.Bicimad: Estación 28 (calle Alcalá, 27).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Concepción Real de Calatrava"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/1916-conde-duque.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "1916",
+		"title": "Conde Duque",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=64463d0b5e71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Universidad"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28015",
+			"street-address": "CALLE CONDE DUQUE 11"
+		},
+		"location": {
+			"latitude": 40.42802889001877,
+			"longitude": -3.710182353581842
+		},
+		"organization": {
+			"organization-desc": "Conde Duque es un espacio cultural vinculado a la memoria y a la la difusión de Madrid.Entre sus fines se encuentran: la difusión de la historia de Madrid, el intercambio de conocimientos históricos con la sociedad, la conservación de  los fondos históricos y artísticos del Ayuntamiento y la producción y exhibición de manifestaciones artísticas relacionadas con el mundo de la escena y de la música.Teatro, Auditorio  Venta de entradas: en la página y taquilla del recintoContacto: 917 220 573 (de lunes a viernes de 10 a 14:30 horas y de 16 a 17 horas)Correo electrónico: actividades@condeduquemadrid.es  Salón de actos, Salas de ensayo y Eventos Contacto: 917 220 573 (de lunes a viernes de 10 a 14:30 horas y de 16 a 17 horas)Correo electrónico: actividades@condeduquemadrid.es  Exposiciones: entrada gratuita Contacto: 914 800 401Correo electrónico: cdinfoexposiciones@madrid.esMetro: Ventura Rodríguez (línea 3), San Bernardo (línea 2 y 4) y Noviciado (línea 2).Bus: 1, 2, 44, 74, 133, 202, 749, Minibús M-2BICIMAD: Estación 13 (calle Conde Duque, 22)",
+			"accesibility": "1",
+			"schedule": "Exposiciones (entrada gratuita) De martes a sábado de 10 a 14 y de 17:30 a 21 horas.Domingos y festivos de 10:30 a 14 horas.",
+			"services": "Salas de Exposiciones: espacios expositivos con más de mil quinientos metros cuadrados, caracterizada por sus muros de ladrillo y por los espacios abovedados. Auditorio Conde Duque: 1300 metros cuadrados, renovados en el 2011. Teatro Conde Duque: espacio escénico moderno y versátil, con una escena de 12 por 17 metros de superficie y un peine de 5,99 metros de altura. Cuenta, además, con dos grandes salas de ensayo adyacentes.  Salon de Actos: una gran sala de doble altura, totalmente forrada de madera, que está preparada para la realización de conferencias, presentaciones, congresos y seminarios. Ocupa las plantas primera y segunda de la zona del edificio que se sitúa encima del vestíbulo general desde el que tiene acceso. Dotado de medios de audición y gran pantalla de proyección, dispone de una capacidad de 293 asientos.   Zona wifi.",
+			"organization-name": "Conde Duque"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20-congreso-diputados.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20",
+		"title": "Congreso de los Diputados",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=365f29ea9281c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "PLAZA CORTES 1"
+		},
+		"location": {
+			"latitude": 40.41626174493484,
+			"longitude": -3.697081267552528
+		},
+		"organization": {
+			"organization-desc": "El Congreso de los Diputados está configurado por un complejo de cinco edificios con una superficie de cerca de setenta mil metros cuadrados.Descripción monumental El edificio fue construído por Pascual Colomer entre 1843 y 1850. Destaca su planta adaptada al edificio anterior y la conjugación de salas de diferente superficie, entre ellas el Salón de Sesiones, que es semicircular, cerrado por la tribuna de la presidencia. La fachada principal está compuesta por un potente pórtico clásico de orden corintio con frontón triangular. Los leones de bronce de la entrada y el relieve del frontón fueron realizados por Ponciano Ponzano. También destacan las pinturas interiores de Luis Ribera y Vicente Camarón.Metro: Sevilla (línea 2), Banco de España (línea 2)Bus: 10, 14, 26, 27, 32, 34, 37, 45, 6Bicimad: Estación 29 (calle Marqués de Cubas, 25)",
+			"accesibility": "1",
+			"schedule": "",
+			"services": "Visitas al Congreso: 913 906 525 / 913 906 526",
+			"organization-name": "Congreso de los Diputados"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/14218-consejo-estado.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "14218",
+		"title": "Consejo de Estado",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ff4ed4985261c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "CALLE MAYOR 79"
+		},
+		"location": {
+			"latitude": 40.4149668099875,
+			"longitude": -3.7129445136801347
+		},
+		"organization": {
+			"organization-desc": "Es el supremo órgano consultivo del Gobierno. Actualmente se rige por la Ley Orgánica 3/1980, de 22 de abril, y su Reglamento es de 18 de julio del mismo año. (Modificados por Ley Orgánica 3/2004 de 28 de diciembre) y (Real Decreto 449/2005 de 22 de abril).  No forma parte de la Administración activa ni está integrado en ninguno de los Departamentos ministeriales y, aunque la Constitución de 1978 lo califique literalmente de órgano consultivo del Gobierno, tiene en realidad el carácter de órgano del Estado (Sentencia del Tribunal Constitucional 56/1990, de 29 de marzo).Metro: Ópera (líneas 2 y 5)Bus: 3Bicimad: Estación 166 (calle Segovia, 26)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Consejo de Estado"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3354-convento-comendadoras-santiago.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3354",
+		"title": "Convento de las Comendadoras de Santiago",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ee6b13db5b71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Universidad"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28015",
+			"street-address": "PLAZA COMENDADORAS 10"
+		},
+		"location": {
+			"latitude": 40.4273968151307,
+			"longitude": -3.708949668437218
+		},
+		"organization": {
+			"organization-desc": "El templo fue construido entre 1667 y 1679 por Manuel del Olmo y José del Olmo. El convento data del siglo XVIII  y es obra de Francisco de Sabatini. Es destacable la iglesia de planta cruciforme con gran cúpula central y cuatro exedras semicirculares, así como la sacristía de planta elíptica construida entre 1745 y 1754 por Francisco Moradillo.Más información en la página web de Monumenta MadridMetro: San Bernardo (líneas 2, 4), Ventura Rodríguez (línea 3) Bus: 1, 2, 21, 44, 74, 133, 147, C",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Convento de las Comendadoras de Santiago"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20432-edificio-metropolis.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20432",
+		"title": "Edificio Metrópolis",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6c3c7d448b51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE ALCALA 39"
+		},
+		"location": {
+			"latitude": 40.41866416622284,
+			"longitude": -3.6975775550486154
+		},
+		"organization": {
+			"organization-desc": "Arquitectos: Jules y Reymond Fevrier y Luis Esteve (1906 - 1910) Edificio de carácter monumental de estilo clasicista - francés de fin de siglo, aporta una buena solución de esquina para el arranque de la Gran Vía en la rotonda de columnas corintias de orden gigante que sostienen un tercer piso profuso en grupos escultóricos de Saint Marceux, Landousky, Lambert y Benlliure.  La Compañía Metrópolis sustituyó en 1975 el grupo escultórico de la Unión y el Fénix que coronaba la cúpula por una victoria alada de Federico Coullaut Valera.Metro: Sevilla (línea 2), Banco de España (línea 2) Bus: 1, 2, 5, 9, 15, 20, 51, 52, 53, 74, 146, 150, 202",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Edificio Metrópolis"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/6469186-ermita-san-antonio-florida-museo-.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "6469186",
+		"title": "Ermita de San Antonio de la Florida (Museo)",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=75950204770e7310VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca/Barrio/CasaCampo"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28008",
+			"street-address": "GLORIETA SAN ANTONIO DE LA FLORIDA 5"
+		},
+		"location": {
+			"latitude": 40.425256682855846,
+			"longitude": -3.725725718176111
+		},
+		"organization": {
+			"organization-desc": "Ermita dedicada a San Antonio de Padua y pequeño museo. Las pinturas murales que la decoran son de Francisco de Goya. Alberga los restos mortales del artista desde 1919. Para preservar sus pinturas, en 1929 se trasladó el culto a una ermita gemela construida a su lado, dejando el edificio original como museo.Metro: Príncipe Pío (líneas 5, 10 y ramal Ópera - Príncipe Pío) Bus: 41, 46 y 75 (Intercambiador Príncipe Pío) Renfe: Príncipe Pío BICIMAD: Estación 161 (Paseo de la Florida 8)",
+			"accesibility": "2",
+			"schedule": "General de martes a domingos de 9:30 a 20 horas. Verano del 15 de junio al 15 de septiembre: de martes a viernes de 9:30 a 14 horas.sábados, domingos y festivos de 9:30 a 19 horas. Cerrado:  lunes (incluidos festivos), 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre. Último pase de visita: 20 minutos antes del cierre (el desalojo de las salas comenzará 10 minutos antes)Este horario y la apertura de salas pueden sufrir modificaciones.",
+			"services": "Tienda, en la que se pueden adquirir las guías y publicaciones sobre la ermita editadas por el Museo y otros organismos públicos, así como catálogos y publicaciones de instituciones culturales del Ayuntamiento de Madrid.",
+			"organization-name": "Ermita de San Antonio de la Florida (Museo)"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/6079820-ermita-san-isidro.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "6079820",
+		"title": "Ermita de San Isidro",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=913cfa8389c10310VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/SanIsidro"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28019",
+			"street-address": "PASEO ERMITA DEL SANTO 72"
+		},
+		"location": {
+			"latitude": 40.40061741587043,
+			"longitude": -3.725670113017977
+		},
+		"organization": {
+			"organization-desc": "Descripción monumental: construida en 1528, sufre una completa transformación en 1725.Bus: 25, 50.",
+			"accesibility": "3",
+			"schedule": "Ermita: abierta todos los días de domingo a viernes de 10 a 14 horas, los sábados se celebra Misa por todos los difuntos de la semana. Fuente del Santo: sólo permanece abierta desde la semana anterior a la fiesta de San Isidro hasta la semana posterior.",
+			"services": "",
+			"organization-name": "Ermita de San Isidro"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3357-ermita-virgen-puerto.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3357",
+		"title": "Ermita Virgen del Puerto",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=fd7755004e91f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "PASEO VIRGEN DEL PUERTO 4"
+		},
+		"location": {
+			"latitude": 40.41556461689203,
+			"longitude": -3.7211426105677465
+		},
+		"organization": {
+			"organization-desc": "Descripción monumental: Construido por Pedro Ribera en 1718.  Se encuadra en un proyecto urbanístico propuesto por el propio arquitecto para toda la ribera del Manzanares. De planta octogonal con exedras, lleva cubierta de pizarra.Metro: Príncipe Pio (líneas 6 y 10).Bus: 148, 3, 41, 62, C2, 138, 25, 33, 39, C1, 31, 65. Cercanías Renfe: Príncipe Pío (líneas C1, C7 y C10).  Bicimad: Estación 167 (calle Segovia, 45).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Ermita Virgen del Puerto"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/13151-estacion-ferroviaria-madrid-puerta-atocha.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "13151",
+		"title": "Estación ferroviaria Madrid Puerta de Atocha",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=28518a856b51c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "PLAZA EMPERADOR CARLOS V"
+		},
+		"location": {
+			"latitude": 40.409567615732286,
+			"longitude": -3.692651480759636
+		},
+		"organization": {
+			"organization-desc": "Edificio con carácter monumental construído en 1889 por Alberto del Palacio para la Compañía Madrid - Zaragoza - Alicante, en sustitución de la de los años 50Teléfonos de interés: Renfe (información, reserva, venta, cambio y anulación de billetes): 912 320 320Información Estaciones ADIF: 912 432 343Atención a viajeros con discapacidad: 912 140 505Metro: Atocha Renfe (línea 1)Bus: 27, 34, C1, 6, 59, E1, 85, 86, 102, C2, 119, 41, 36, 14, 10, 19, 45, SE78, 32Renfe: AtochaBicimad: Estación 51 (Ronda de Atocha, 2)",
+			"accesibility": "1",
+			"schedule": "Horario de la estación:  diario, de 05 a 01 horas.Horario consignas: diario, de 5:30 a 22:20 horas",
+			"services": "Adaptada a personas sordas y con discapacidad auditiva.  Servicios adaptados : atención a viajeros con discapacidad - aseos para personas con discapacidad - Vestíbulo zona comercial - Sillas de ruedas - Ascensores adaptados  - Andenes adaptados",
+			"organization-name": "Estación ferroviaria Madrid Puerta de Atocha"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/162905-fundacion-bbva-palacio-marques-salamanca.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "162905",
+		"title": "Fundación BBVA. Palacio del Marqués de Salamanca",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=c43a8f90a581c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Recoletos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28001",
+			"street-address": "PASEO RECOLETOS 10"
+		},
+		"location": {
+			"latitude": 40.42144182034705,
+			"longitude": -3.6910993927829567
+		},
+		"organization": {
+			"organization-desc": "",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Fundación BBVA. Palacio del Marqués de Salamanca"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/5703491-galeria-cristal-palacio-cibeles.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "5703491",
+		"title": "Galería de Cristal del Palacio de Cibeles",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=1f65ef881edd8210VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE MONTALBAN 1"
+		},
+		"location": {
+			"latitude": 40.418291440980205,
+			"longitude": -3.69213979278398
+		},
+		"organization": {
+			"organization-desc": "Una gran bóveda acristalada, de geometría irregular y forma orgánica, cobija  2.800 m&amp;sup2;   de este lugar de representación, celebración y encuentro para los ciudadanos y las ciudadanas, bajo el cielo de Madrid. Eleva a 30 metros de altura su transparente levedad (500 toneladas). Está construida con casi 2.000 cristales triangulares, todos diferentes entre sí, formados por 2.966 barras y 1.034 nudos unidos uno a uno.Tras haber sufrido diversas alteraciones, este espacio, que nace al cubrir el antiguo pasaje Ruiz de Alarcón, antes ocupado por vehículos de reparto de correo, restaurado y rehabilitado, constituye un elemento esencial de la sede del Ayuntamiento de Madrid.Importe: entrada gratuita (acceso por pórtico de la calle Alcalá o calle Montalbán).   Más información: este  lugar formó parte del entorno del Palacio Real del Buen Retiro en el siglo XVII, y en el XIX albergó un jardín de recreo. Se incorporó definitivamente como pasaje y patio de descarga del Palacio de Comunicaciones (1904-1919), proyectado por los arquitectos Palacios y Otamendi.Metro: Banco de España (línea 2)Bus: 1, 2, 5, 9, 10, 15, 20, 27, 34, 45, 51, 52, 53, 74, 146, 150Renfe: Recoletos",
+			"accesibility": "1",
+			"schedule": "De lunes a domingo de 10 a 20 horas, siempre que no haya actividad en el espacio.",
+			"services": "",
+			"organization-name": "Galería de Cristal del Palacio de Cibeles"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3356-iglesia-catedral-fuerzas-armadas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3356",
+		"title": "Iglesia Catedral de las Fuerzas Armadas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=23e03d232e91f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "CALLE SACRAMENTO 11"
+		},
+		"location": {
+			"latitude": 40.414889947123754,
+			"longitude": -3.7122600779776733
+		},
+		"organization": {
+			"organization-desc": "Metro: Ópera (Líneas , 2, 5 y Ramal).Bus: 31, 50, 65.Bicimad: Estación 35 (plaza del Cordón, 1).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Catedral de las Fuerzas Armadas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3363-iglesia-corpus-christi.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3363",
+		"title": "Iglesia Corpus Christi",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e5f03d232e91f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "PLAZA CONDE DE MIRANDA 3"
+		},
+		"location": {
+			"latitude": 40.41481486646874,
+			"longitude": -3.7098194568632374
+		},
+		"organization": {
+			"organization-desc": "Metro: Ópera (Lineas Ramal , 2 , 5), La Latina (Línea, 5), Tirso de Molina (línea 1), Sol (líneas 1, 2 y 3).Bus: 3, 50, 65.Cercanías Renfe: Sol (líneas C3 y C4).Bicimad: Estación 35 (plaza del Cordón, 1).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Corpus Christi"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3365-iglesia-san-antonio-alemanes.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3365",
+		"title": "Iglesia San Antonio de los Alemanes",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=614013db5b71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Universidad"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "CALLE PUEBLA 20"
+		},
+		"location": {
+			"latitude": 40.422294329828986,
+			"longitude": -3.703603319643193
+		},
+		"organization": {
+			"organization-desc": "Descripción monumental:  Proyectada por Pedro Sánchez, año 1624  y Francisco Seseña, año 1624 - 1633.  Fachada, por Juan Gómez de Mora, año 1624 - 1630.  Fundación de Felipe III, 1606.  Magnífico ejemplo del Barroco madrileño con interesantes elementos arquitectónicos y frescos en paredes y cúpula que forman una unidad de espacio irreal.  La gran cúpula oval, decorada con arquitecturas fingidas y escenas de la Apoteosis de San Francisco de Paula, de Francisco Ricci y Carreño de Miranda,refuerza esta impresión.  Lucas Jordán, sin pauta de continuidad, decora los muros curvos con escenas de la vida del San Antonio.  El retablo mayor, de mediados del siglo XVIII, es obra del arquitecto Miguel Fernández con el escultor Francisco Gutiérrez. Obra compleja, fue replanteada por Juan Gómez de Mora quien redibujó la fachada. Muestra un edificio anexo en ladrillo y planta triangular para la Hermandad del Refugio y Piedad de Madrid, fundada en 1615 con su tradicional 'ronda del pan y huevo'.  Dicho edificio data de la década de 1880, quizá por Ruiz de Salces quien proyectó la reforma de la fachada buscando la armonía total.Metro: Callao (líneas 3, 5), Gran Vía (líneas 1, 5), Noviciado (línea 2), Santo Domingo (línea 2), Chueca (línea 5).Bus: M2.Bicimad: Estación 52 (plaza Santa Ana, 10).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia San Antonio de los Alemanes"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3368-iglesia-san-ildefonso.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3368",
+		"title": "Iglesia San Ildefonso",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=4c1013db5b71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE LOPE DE VEGA 18"
+		},
+		"location": {
+			"latitude": 40.41367254153843,
+			"longitude": -3.6976792276700987
+		},
+		"organization": {
+			"organization-desc": "El monumento conmemorativo alberga los restos hallados en la cripta del convento. Con la colocación de los restos de Miguel de Cervantes en la nave de la actual iglesia del siglo XVIII  se cumple la voluntad testamentaria del autor de 'El Quijote'. Miguel de Cervantes, que fue enterrado en la primitiva iglesia el 23 de abril de 1616, expresó en su última voluntad descansar allí en agradecimiento a los Trinitarios que le liberaron de los cinco años y medio de cautiverio en Argel, en manos de los piratas berberiscos. Descripción monumental. Construido por Marcos López entre 1673 y 1688 con gran austeridad constructiva y decorativa.Metro: Antón Martín (Línea 1).Bus: 26, 32, 6, 10, 14, 27, 34, 37, 45.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia San Ildefonso"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3346-iglesia-san-pedro-viejo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3346",
+		"title": "Iglesia San Pedro el Viejo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=f35013db5b71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "CALLE NUNCIO 14"
+		},
+		"location": {
+			"latitude": 40.41320112124687,
+			"longitude": -3.71000286701288
+		},
+		"organization": {
+			"organization-desc": "Metro: La Latina (Línea 5) Tirso de Molina (Línea 1).Bus: 31, 50, 65.Bicimad: Estación 52 (plaza de Santa Ana, 10).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia San Pedro el Viejo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/4280-instituto-cervantes.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "4280",
+		"title": "Instituto Cervantes",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e6c50a47f441f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE ALCALA 49"
+		},
+		"location": {
+			"latitude": 40.419245261976,
+			"longitude": -3.6953321647484363
+		},
+		"organization": {
+			"organization-desc": "El antiguo Banco Español del Río de la Plata eligió para su construcción el solar en el que estuvo situado el palacio de Casa Irujo y seleccionó a dos arquitectos de la época, Palacios y Otamendi. Para algunos autores es su mejor edificio, dentro de ese característico estilo grandioso y monumental que incorpora los órdenes clásicos con vigor, rotundidad y correcta modulación y los conjuga con la innovación de las superficies lisas de grandes vanos acristalados. En el chaflán, un grupo de cariátides preside la entrada. Ese mismo argumento de monumentalidad fue el que se utilizó para conceder la licencia constructiva, pues el exceso de altura (25 metros en vez de los 18 permitidos) retrasó el permiso para iniciar las obras. La gran carga simbólica del edificio se subrayaba en el patio central de operaciones, que abarcaba la altura de todas las plantas y se remataba con una magnífica cúpula vidriera. En torno a él se abrían perimetralmente las distintas dependencias bancarias, conjugando asimismo modernidad y monumentalidad en los elementos constructivos. Ese grandioso espacio central se perdió con la reforma y ampliación de la década de 1940, en la que se añadió un nuevo edificio por la calle del Barquillo y se cambió por completo el interior. La fachada de esta ampliación aspira a repetir el esquema de Palacios y Otamendi sin mimetizarlo.El Instituto Cervantes es la institución pública creada por España en 1991 para promover universalmente la enseñanza, el estudio y el uso del español y contribuir a la difusión de las culturas hispánicas en el exterior. En sus actividades, el Instituto Cervantes atiende fundamentalmente al patrimonio ling&amp;uuml;ístico y cultural que es común a los países y pueblos de la comunidad hispanohablante. Está presente en 87 centros distribuidos en 44 países por los cinco continentes. Además, cuenta con dos sedes en España, la sede central de Madrid y la sede de Alcalá de Henares.Metro: Banco de España (línea 2).Bus: 5, 9, 51, 52, 53, 146,150,1, 2, 74, 15, 20, 203, 46, M2.Bicimad: Estación 20 (calle Alcalá 49).",
+			"accesibility": "3",
+			"schedule": "Consultar",
+			"services": "",
+			"organization-name": "Instituto Cervantes"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/6619-istituto-italiano-di-cultura-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "6619",
+		"title": "Istituto Italiano di Cultura de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6c4e42be9971c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "CALLE MAYOR 86"
+		},
+		"location": {
+			"latitude": 40.41523808103924,
+			"longitude": -3.7127823633086336
+		},
+		"organization": {
+			"organization-desc": "Descripción monumental: el Palacio de Abrantes inicia su construcción en 1652, aunque las reformas más importantes se acometen en el siglo XIX por Aníbal Alvárez Bouquel. Su estilo sigue criterios italianizantes, reflejados en los detalles neorrenacentistas del exterior, semejando los palacios italianos del siglo XVI.Objetivo: promover y difundir la lengua y la cultura italianas en España a través de la organización de actividades culturales para favorecer la circulación de las ideas, de las artes y de las ciencias.Metro: Opera (líneas 2 y 5)Bus: 3, 148Bicimad:Estación 166 (calle Segovia, 26)Estación 36 (plaza Ramales, 1)",
+			"accesibility": "3",
+			"schedule": "De lunes a viernes de 9 a 18 horas.",
+			"services": "Actividades culturalesCursos de italiano",
+			"organization-name": "Istituto Italiano di Cultura de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/94391-jardines-campo-moro.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "94391",
+		"title": "Jardines del Campo del Moro",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=bb3a34c0e2c5f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "PASEO VIRGEN DEL PUERTO En las proximidades de la Glorieta de San Vicente"
+		},
+		"location": {
+			"latitude": 40.41898630733354,
+			"longitude": -3.719976836914711
+		},
+		"organization": {
+			"organization-desc": "Jardín declarado Histórico Artístico en 1931. Los jardines salvan un pronunciado desnivel que comunica el Palacio Real con las riberas del Río Manzanares.Este parque se incluye entre las visitas recomendadas a turistas que visitan la ciudad, según la web oficial de turismo de Madrid.El parque es accesible a personas con movilidad reducida en las partes principales del mismo.Descripción monumental En el trazado inicial, sus paseos principales se realizaron durante el reinado de Isabel II y fueron proyectados en 1844 por el arquitecto mayor de Palacio, Narciso Pascual y Colomer, siguiendo un diseño formalista con ejes y paseos regulares. Durante esta etapa se instalaron las fuentes de los Tritones, procedente del Jardín de la Isla en Aranjuez, y la Fuente de las Conchas, trasladada desde el Palacio del Infante don Luis en Boadilla del Monte.Debido al deterioro sufrido tras la revolución de 1868, se inició un nuevo proyecto de jardín durante la Regencia de María Cristina de de Habsburgo en 1890, dirigidas las obras por el jardinero Ramón Oliva según las corrientes paisajista y romántica acorde al gusto de la época: trazados de paseos curvilíneos con suaves pendientes y una gran plantación de árboles y arbustos. Se instalaron pabellones de recreo, bancos y columpios. Destacan el Chalet de la Reina, de estilo Alpino, el Chalet de Corcho y la Casa del Jardinero, así como la decoración de rocalla en la gruta que comunicaba con los Jardines de la Casa de Campo, cuyo diseño original es del arquitecto Juan de Villanueva.Durante la guerra Civil sufrió importantes daños lo que obligó a una nueva campaña de acondicionamiento y realización de nuevas plantaciones conformando su diseño actual. Se crearon nuevas infraestructuras que permitían la visita del público y se instaló el Museo de Carruajes en las proximidades, actualmente destinado a otros usos. Especies predominantes: Destacan los ejemplares de arbolado muy longevos, incluido en el Catálogo de Árboles ejemplares de la Comunidad de Madrid. Uno de los de mejor porte es el gran ejemplar de Pinus halepensis que podremos observar en el Paseo de Damas, con más de 30 metros de altura.Metro: Ópera (líneas 2, 5, ramal), Principe Pío (líneas 6, 10, ramal)Bus: 25, 33, 39, 41, 46, 62, 75, 138, 148, CRenfe: Príncipe Pío Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones.",
+			"accesibility": "1",
+			"schedule": "Horario de invierno (octubre a marzo): todos los días de 10 a 18 horasHorario de verano (abril a septiembre): todos los días 10 a 20 horas",
+			"services": "Los Jardines del Moro dependen de Patrimonio Nacional, para más información puede acceder a través del enlace adjunto: Palacio Real",
+			"organization-name": "Jardines del Campo del Moro"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/5853414-ministerio-hacienda-sede-calle-alcala.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "5853414",
+		"title": "Ministerio de Hacienda. Sede calle Alcalá",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=2828cbfc0ab0c210VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE ALCALA 9"
+		},
+		"location": {
+			"latitude": 40.417489335230385,
+			"longitude": -3.7011604823997892
+		},
+		"organization": {
+			"organization-desc": "Edificio declarado bien de interés cultural, con categoría de monumento.Construido por Francisco Sabatini en 1769 para Real Casa de Aduanas. Es uno de los primeros edificios neoclásicos de Madrid. Destaca su fachada romana y escalera que forma el núcleo del edificio, lugar de intersección de toda la circulación dentro de la organización de los tres patios.Metro: Sol (líneas 1, 2, 3), Sevilla (línea 5)Bus: 15, 20, 5, 150, 51, 51, 53, M1, 3, M2Renfe: SolBICIMAD: Estación 1 a y b (Plaza Puerta del Sol, 1)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Ministerio de Hacienda. Sede calle Alcalá"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/4-ministerio-justicia.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "4",
+		"title": "Ministerio de Justicia",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=98fb29ea9281c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Universidad"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28015",
+			"street-address": "CALLE SAN BERNARDO 45"
+		},
+		"location": {
+			"latitude": 40.42412618887789,
+			"longitude": -3.707536103996874
+		},
+		"organization": {
+			"organization-desc": "Edificio construido por el arquitecto Evaristo del Castillo para la Marquesa de Sonora en 1797, sobre el solar donde se encontraba la casa de Don Bernardo Grimaldo, destruida en un incendio en 1789. En 1851 pasa a ser propiedad del Estado y entre 1942 y 1947 es transformado por Javier Barroso, que le da el estilo nacionalista - herreriano, introduciendo las torres con sus chapiteles y revistiendo éstas con piedra.Metro: Noviciado (línea 2), Plaza de España (líneas 3, 10)Bus: M2, 3, 147BICIMAD: Estación 16 (calle San Bernardo, 22)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Ministerio de Justicia"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3364-monasterio-benedictinas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3364",
+		"title": "Monasterio de Benedictinas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=b90013db5b71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Universidad"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "CALLE SAN ROQUE 9"
+		},
+		"location": {
+			"latitude": 40.422820373636355,
+			"longitude": -3.704504689941362
+		},
+		"organization": {
+			"organization-desc": "Metro: Noviciado (línea 2), Santo domingo (línea 2), Callao (línea 3 y 5).Bus: M2.Bicimad: Estación 17 (plaza Carlos Carbonero, 2).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Monasterio de Benedictinas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3348-monasterio-descalzas-reales.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3348",
+		"title": "Monasterio de las Descalzas Reales",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=12e113db5b71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "PLAZA DESCALZAS 3"
+		},
+		"location": {
+			"latitude": 40.418233359889484,
+			"longitude": -3.706213134639163
+		},
+		"organization": {
+			"organization-desc": "Convento fundado por la Princesa Juana de Austria, transformando un antiguo palacio de su madre Isabel de Portugal.Metro: Ópera (líneas 2, 5 y Ramal Ópera-Príncipe Pío)Bus: 3, 25, 39, 148Bicimad: Estación 25 a y b (Plaza de Celenque)",
+			"accesibility": "3",
+			"schedule": "Sólo con visita guiada .  De martes a sábado de 10 a 14 horas y de 16 a 18:30 horas.Domingos y festivos, de 10 a 15 horas. Cerrado los lunes.Cierre taquillas y acceso al Monasterio una hora antes.Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente.",
+			"services": "",
+			"organization-name": "Monasterio de las Descalzas Reales"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/4539061-monumento-homenaje-victimas-11-marzo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "4539061",
+		"title": "Monumento Homenaje a las Víctimas del 11 de marzo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=7ae4134fcbf41110VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "GLORIETA Emperador Carlos V  semiesquina ALFONSO XII. Entrada por la Estación de Renfe de Atocha"
+		},
+		"location": {
+			"latitude": 40.40774080279238,
+			"longitude": -3.6892974870165984
+		},
+		"organization": {
+			"organization-desc": "",
+			"accesibility": "0",
+			"schedule": "De martes a domingos, de 11 a 14 horas y de 17 a 19 horas. Lunes Cerrado.",
+			"services": "Acceso para personas discapacitadas",
+			"organization-name": "Monumento Homenaje a las Víctimas del 11 de marzo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2071-museo-escultura-al-aire-libre-castellana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2071",
+		"title": "Museo de Escultura al Aire Libre de la Castellana",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=eca9ef4d7f71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Castellana"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28046",
+			"street-address": "PASEO CASTELLANA 40"
+		},
+		"location": {
+			"latitude": 40.433219398671156,
+			"longitude": -3.6876122680805956
+		},
+		"organization": {
+			"organization-desc": "El Museo de Escultura al Aire Libre de La Castellana, está situado bajo el paso elevado que une las calles de Juan Bravo y Eduardo Dato, contiene una excelente colección de escultura abstracta española.Transporte público más próximo  Metro: Rubén Darío (línea 5) Bus: 5, 14, 27, 45, 150 BICIMAD: Estación 142 (Paseo de la Castellana n&amp;ordm;42)",
+			"accesibility": "0",
+			"schedule": "Entrada libre. Espacio urbano abiertoAbierto 24 horas al día los 365 días del año.",
+			"services": "",
+			"organization-name": "Museo de Escultura al Aire Libre de la Castellana"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2054-museo-historia-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2054",
+		"title": "Museo de Historia de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=8f3079262ef5d010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "CALLE FUENCARRAL 78"
+		},
+		"location": {
+			"latitude": 40.42577054821346,
+			"longitude": -3.700845660719608
+		},
+		"organization": {
+			"organization-desc": "Creado como Museo Municipal en 1929 y rebautizado como Museo de Historia de Madrid en 2007, tras una profunda remodelación, el año 2014 reabre sus puertas con un montaje moderno y una puesta al día de sus colecciones.Accesibilidad física: Rampa de acceso a la entrada.Ascensores.Aseos adaptados.Silla de ruedas.Metro: Tribunal, Bilbao y Alonso Martínez. Bus: 3, 21, 37, 40, 147 y 149. BICIMAD: Estación 54 (Calle Barceló 7) Aparcamiento público: Barceló.",
+			"accesibility": "1",
+			"schedule": "De martes a domingos de 10 a 20 horas. Verano: de martes a domingos de 10 a 19 horas. Cerrado: lunes y los días 1 y 6 de enero, 1 de mayo,  24, 25 y 31 de diciembre. El desalojo de las salas se hará diez minutos antes del cierre.",
+			"services": "Biblioteca de investigaciónServicio de documentaciónGuardarropaZona wifi",
+			"organization-name": "Museo de Historia de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2114-museo-real-academia-bellas-artes-san-fernando.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2114",
+		"title": "Museo de la Real Academia de Bellas Artes de San Fernando",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=924aef4d7f71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE ALCALA 13"
+		},
+		"location": {
+			"latitude": 40.41765456031193,
+			"longitude": -3.7006553517170633
+		},
+		"organization": {
+			"organization-desc": "Construido inicialmente para palacio de Don Juan de Goyeneche, el edificio fue adquirido por la Academia de Bellas Artes en 1773 y reformado bajo la dirección de Fernando Chueca Goitia en 1973 y la fachada por Diego de Villanueva en 1774.Visitas guiadas (no grupos): 25 personas máximo.Martes, jueves y viernes no festivos a las 11 horas, excepto Navidad, Semana Santa y agosto. Visitas para grupos (8 a 14 personas) a otras instalaciones diferentes del Museo: jueves no festivos a las 11:30 horas.Gratuitas y guiadas a los centros escolares y asociaciones a cargo de voluntarios culturales del Museo. Previa solicitud: Visitas de grupo: museo.visitas@rabasf.org Visitas privadas a museo cerrado:  actos.culturales@rabasf.org  Cumplimentando formulario de petición de reservas en la webMetro: Sol (líneas 1, 2, 3), Sevilla (línea 2)Bus: 3, 15, 20, 53, 150, M1, 3Renfe Cercanías: SolBicimad: Estación 28 (calle Alcalá, 27)",
+			"accesibility": "1",
+			"schedule": "Colección permanente:De martes a domingos y festivos de 10 a 15 horas.Último sábado de cada mes de 10 a 20 horas.Cerrado: todos los lunes y el mes de agosto.Exposiciones temporales: consultar el apartado específico de la exposición temporal.Días cerrados: 1 y 6 de enero; 1 y 30 de mayo; 9 de noviembre; 24, 25 y 31 de diciembre. En periodos vacacionales pueden sufrir cambios.",
+			"services": "Sala de exposiciones - Accesible a personas con minusvalía (física).",
+			"organization-name": "Museo de la Real Academia de Bellas Artes de San Fernando"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2066-museo-ferrocarril-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2066",
+		"title": "Museo del Ferrocarril de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=091c4291ae91f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Arganzuela"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Arganzuela/Barrio/Delicias"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28045",
+			"street-address": "PASEO DELICIAS 61"
+		},
+		"location": {
+			"latitude": 40.400281290485566,
+			"longitude": -3.693817192160563
+		},
+		"organization": {
+			"organization-desc": "Edificio de carácter monumental. Construido como cabecera de la línea Madrid - Extremadura - Portugal en el año 1880 por E. Cachelievre.Metro: Delicias (línea 3).Bus: 19, 247, 45, 47, 59, 85, 86, 8, 55, 6.Cercanías Renfe: Delicias (líneas C1, C7, C10 y Regional).Bicimad: Estación 172 (Bustamante, 1).",
+			"accesibility": "1",
+			"schedule": "De octubre a mayo: Lunes a viernes, de 9.30 a 15.00 horas.Sábados y festivos de 10.00 a 19.00 horas.Domingos, de 10 a 15 horas. De junio a septiembre: Lunes a domingo, de 10.00 a 15.00 horas. Cerrado: 25 de diciembre, 1 y 6 de enero.",
+			"services": "Mercado de Motores : segundo sábado y domingo del mes, de 11 a 21 horas (excepto agosto). El Museo cierra en su actividad ordinaria y el acceso es gratuito (www.mercadodemotores.es)   Feria del coleccionismo &amp;lsquo;La Estación&amp;rsquo;: primeros sábados de cada mes (excepto agosto) de 10 horas a 19 horas (de 10 a 15 horas los meses de junio, julio y septiembre). Mercadillo de Modelismo: primer domingo de cada mes (excepto el mes de agosto) de 10 a 14 horas. Tren de jardín: todos los sábados, de 11:30 a 14 horas (excepto julio y agosto).  Teatro familiar: sábados, domingos y festivos, a las 13 horas (excepto julio y agosto)",
+			"organization-name": "Museo del Ferrocarril de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2053-museo-lazaro-galdiano.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2053",
+		"title": "Museo Lázaro Galdiano",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=7d1aef4d7f71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Castellana"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28006",
+			"street-address": "CALLE SERRANO 122"
+		},
+		"location": {
+			"latitude": 40.436750328725985,
+			"longitude": -3.6861980129207894
+		},
+		"organization": {
+			"organization-desc": "Metro: Gregorio Marañón (línea 7 y 10)Bus: 12, 16, 9, 19, 51, 61",
+			"accesibility": "1",
+			"schedule": "Martes a sábados de 10 a 16:30 horas.Domingos de 10 a 15 horas.Cerrado todos los lunes, 1 y 6 de enero, jueves y viernes santo, 12 octubre, 2 y 9 noviembre,  7, 24, 25 y 31 diciembre 2020.Grupos y visitas guiadas consultar.",
+			"services": "",
+			"organization-name": "Museo Lázaro Galdiano"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2055-museo-nacional-artes-decorativas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2055",
+		"title": "Museo Nacional de Artes Decorativas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=287079262ef5d010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE MONTALBAN 12"
+		},
+		"location": {
+			"latitude": 40.417891279015194,
+			"longitude": -3.689754685481908
+		},
+		"organization": {
+			"organization-desc": "Inaugurado en 1912, su sede es un típico palacete madrileño del último tercio del siglo XIX. El museo posee muebles, cerámicas, vidrios, joyas, tejidos, arte oriental, y hasta 30 000 objetos distintos que a lo largo de la historia han servido para embellecer las casas, palacios y los monumentos de distintas culturas.El museo posee muestras como el Jarrón de Sevres regalo de Napoleón III, la Cocina Valenciana del siglo XVIII compuesta por más de 1500 azulejos de Manises, la Mesa de plata del siglo XVI o la colección de alfombras españolas de los siglos XV al XVII.El Museo dispone de una rampa de acceso al edificio en la calle Montalbán. Para su uso, es necesario avisar con antelación al personal del Museo.El acceso a las diferentes plantas, puede realizarse mediante ascensor. Debido a las dimensiones del mismo, es necesario emplear en él las sillas de ruedas que el Museo pone a su disposición, previa solicitud.Metro: Retiro (línea 2).Bus: 19, 1, 146, 15, 2, 20, 51, 52, 74, 9, E1, 203, 14, 27, 37, 45.Cercanías Renfe: Recoletos (líneas C1, C2, C7, C8 Y C10).Bicimad: Estaciones 65 (calle Antonio Maura, 15) y 60 (plaza de la Independencia, 6).",
+			"accesibility": "2,6",
+			"schedule": "Martes a sábados de 9:30 a 15 horas.Domingo y festivos: de 10 a 15 horas.Jueves tarde de 17 a 20 horas (excepto julio y agosto). Cerrado:  todos los lunes, 1 y 6 de enero, 1 y 15 de mayo, 24, 25 y 31 de diciembre.  La venta de entradas finalizará 30 minutos antes del cierre.",
+			"services": "",
+			"organization-name": "Museo Nacional de Artes Decorativas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2056-museo-nacional-ciencias-naturales.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2056",
+		"title": "Museo Nacional de Ciencias Naturales",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=8edbef4d7f71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin/Barrio/ElViso"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28006",
+			"street-address": "CALLE JOSE GUTIERREZ ABASCAL 2"
+		},
+		"location": {
+			"latitude": 40.44042007613476,
+			"longitude": -3.690220716379925
+		},
+		"organization": {
+			"organization-desc": "Metro: Gregorio Marañón (líneas 7, 10).Bus: 12, 45, 14, 147, 150, 27, 40, 7.Bicimad: Estación 139 (Calle José Gutiérrez Abascal, 2).",
+			"accesibility": "1,6",
+			"schedule": "De martes a viernes de 10 a 17 horas.Sábados, domingos y festivos de 10 a 20 horas.Cerrado los lunes (excepto los festivos).Cerrado el 1 y 6 de enero, el 1 de mayo y el 25 de diciembre.Los días 24 y 31 de diciembre el museo permanecerá abierto de 10 a 15 horas.",
+			"services": "",
+			"organization-name": "Museo Nacional de Ciencias Naturales"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2099-museo-nacional-thyssen-bornemisza.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2099",
+		"title": "Museo Nacional Thyssen-Bornemisza",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0b8079262ef5d010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "PASEO PRADO 8"
+		},
+		"location": {
+			"latitude": 40.41600553697803,
+			"longitude": -3.694744831131079
+		},
+		"organization": {
+			"organization-desc": "El Palacio donde se ubica la colección fue el antiguo palacio del duque de Villahermosa. Edificación neoclásica. Posteriormente se adapta como entidad bancaria perdiento sus espacios interiores. Más tarde, pasó a formar parte de los edificios del Museo del Prado. Desde principios de los 90 alberga la Colección Thyssen. El museo ofrece un recorrido por la historia de la pintura europea desde sus inicios en el siglo XIII, hasta finales del siglo XX.Arquitecto: Antonio López Aguado (1805 - 1806)Adecuación: Rafael Moneo (1989 - 1992)Ampliación: BOPBAA (1999 - 2004)Metro: Banco de España (línea 2)Bus: 10, 14, 27, 34, 37, 45Cercanías Renfe: RecoletosBicimad:Estación 27 (calle Jesús, 1)Estación 29 (calle Marqués de Cubas, 25)",
+			"accesibility": "1",
+			"schedule": "Colecciones permanentes:  lunes de 12 a 16 horas (acceso gratuito gracias al patrocinio de MasterCard). Martes a domingos de 10 a 19 horas.  Exposiciones temporales: consultar horario específico en Museo.Último acceso 1 hora antes del cierre. El desalojo de todas las salas tendrá lugar 5 minutos antes del cierre. Avisos y aperturas extraordinarias: los días 1 de enero, 1 de mayo y 25 de diciembre el Museo permanecerá cerrado. El 24 y el 31 de diciembre el horario de apertura del Museo será de 10 a 15 horas.",
+			"services": "Accesible a personas con discapacidad (física y sensorial)Folleto y señalización en braille para invidentesLibreríaTiendaCafeteríaRestauranteGuardarropaServicio de venta anticipada en las taquillasServicio de Audio Guía",
+			"organization-name": "Museo Nacional Thyssen-Bornemisza"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20484-palacio-buenavista-cuartel-general-ejercito-tierra.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20484",
+		"title": "Palacio de Buenavista. Cuartel General del Ejército de Tierra",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e9c292355c51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "PLAZA CIBELES 3"
+		},
+		"location": {
+			"latitude": 40.419660627134164,
+			"longitude": -3.6936744082913036
+		},
+		"organization": {
+			"organization-desc": "El actual Cuartel General del Ejército está formado por un conjunto de edificios entre los cuales destaca por su importancia y tamaño el palacio de Buenavista. Fue construido por el duodécimo duque de Alba, que compró en 1769 una finca situada en el lugar conocido como Altillo de Buenavista, que había tenido varios propietarios, entre ellos la Corona.  En 1847 se amplía con un nuevo cuerpo que se destina a Ministerio de la Guerra. El grupo escultórico de la fachada es obra de Aniceto Marías.Toda la información en la página web de MonumentamadridMetro: Banco de España (línea 2)Bus: 1, 2, 5, 9, 10, 14, 15, 20, 27, 34, 37, 45, 51, 52, 53, 74, 146, 150, 203BICIMAD: Estación 86 (Paseo del Prado, 1)",
+			"accesibility": "3",
+			"schedule": "Relevo de la Guardia: último viernes de cada mes, a las 11 horas en la fachada de la calle de Alcalá.",
+			"services": "",
+			"organization-name": "Palacio de Buenavista. Cuartel General del Ejército de Tierra"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/13815-palacio-cibeles.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "13815",
+		"title": "Palacio de Cibeles",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=535e5a0f8161c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "PLAZA CIBELES 1"
+		},
+		"location": {
+			"latitude": 40.419011767401095,
+			"longitude": -3.692206111679657
+		},
+		"organization": {
+			"organization-desc": "Metro: Banco de España (línea 2)Bus: 1 , 2 , 5 , 9 , 10 , 15 , 20 , 27 , 34 , 45 , 51 , 52 , 53 , 74 , 146 , 150Renfe: Recoletos",
+			"accesibility": "1",
+			"schedule": "",
+			"services": "Sede de la Alcaldía de MadridCentroCentro Galería de CristalMirador MadridCafetería Colección Cibeles (planta 2)Restaurante Palacio de Cibeles (planta 6)Tienda-Librería (planta 2) (cerrada provisionalmente)",
+			"organization-name": "Palacio de Cibeles"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/10999576-palacio-liria.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "10999576",
+		"title": "Palacio de Liria",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=f78bb8a28658c610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Universidad"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28008",
+			"street-address": "CALLE PRINCESA 20"
+		},
+		"location": {
+			"latitude": 40.426837593736934,
+			"longitude": -3.7126361453494083
+		},
+		"organization": {
+			"organization-desc": "El PalacioPalacio Palacio de Liria es uno de los losPalaciosPalacios Palacios más importantes importantes de España y el único de Madrid.Entre sus muros alberga alberga unade las colecciones privadas de arte más exclusivas de España,una colección que muy pocos privilegiados han podido ver y disfrutar.250 años años después de su construcción por primera vez abre sus puertas al público.El itinerario incluye estancias como la biblioteca, que contiene más de 18.000 volúmenes y donde se exhiben joyas  como la Biblia de la Casa de Alba, la primera traducida al castellano, una colecciónde cartas de Cristóbal Colón,el último testamento de  Fernando El Católico, la primera edición de 'El Quijote' (1605).El Palacio de Liria no es un palacio - museo al uso, es especial, es el único único palacio habitado de Madrid.Las visitas se realizarán en grupos, con inicio cada 30 minutos y una duración de 65 minut os.Cada entrada llevará asignada una hora de visita. Una vez dé comienzo la visita, no se podrá acceder al Palacio. Se debe llegar con 10 minutos de antelación.Visita privada Esta entrada permite la visita exclusiva en grupo, máximo 20 personas, de 9 a 10 horas, antes de la apertura al público. También ofrece la posibilidad de realizar la visita una vez concluido el último turno del día (se debe consultar disponibilidad). Diferencias con la visita general Visita ampliada: recorrido general, capilla, salón de música y jardines (si el tiempo lo permite).Visita con guía experto en Historia del Arte (español, inglés, francés, italiano y alemán, según disponibilidad). Importe: 1.200 euros, incluidos gastos de gestión.",
+			"accesibility": "0",
+			"schedule": "Horario de visitas De noviembre a febreroLunes de 09:45 a 14 horas.De martes a domingo de 9:45 a 14 horas y de 15:45 a 18:30 horas.De marzo a octubreLunes de 09:45 a 14 horas.De martes a domingo de 9:45 a 14 horas y de 15:45 a 19:30 horas.Horario reducido días 31 diciembre y 5 enero de 9:45 a 13 horas.Horario para grupos gratuito: lunes no festivos a las 9:45 y a las 10:15 horas.Cerrado los días 1 y 6 enero, 24 y 25 diciembre.",
+			"services": "",
+			"organization-name": "Palacio de Liria"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/114984-palacio-santona.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "114984",
+		"title": "Palacio de Santoña",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=3790007f8441f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "CALLE HUERTAS 13"
+		},
+		"location": {
+			"latitude": 40.413979743685495,
+			"longitude": -3.700511154527751
+		},
+		"organization": {
+			"organization-desc": "Es una construcción del siglo XVI, reformada posteriormente en el siglo XVIII  por el arquitecto Pedro de Ribera, y en el siglo XIX por Antonio Ruiz de Salces.Metro: Antón Martín (línea 1) Bus: 6, 26, 32, 50, 65",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Palacio de Santoña"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2061-palacio-real-pardo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2061",
+		"title": "Palacio Real de El Pardo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=9f9def4d7f71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo/Barrio/ElPardo"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28048",
+			"street-address": "CALLE MANUEL ALONSO 8"
+		},
+		"location": {
+			"latitude": 40.520522342970146,
+			"longitude": -3.7762390614462853
+		},
+		"organization": {
+			"organization-desc": "Recinto en el que se conserva el Palacio, construido sobre el castillo del siglo XV, la Casita del Príncipe, del siglo XVIII y la Quinta del Duque de Arco (Palacete que fue Casa de Labor y sus tierras). Desde 1983 ha sido adecuado para residencia de Jefes de Estado extranjeros en visita oficial.Bus: 601 (Madrid - Colonia Mingorrubio)",
+			"accesibility": "1",
+			"schedule": "Horario (Palacio y Casa del Príncipe Don Carlos) De octubre a marzo: todos los días de 10 a 18 horas. De abril a septiembre: todos los días de 10 a 20 horas.  Cierre taquillas y acceso a Palacio una hora antes.  Pradera de San Francisco: todos los días de 8 a 21 horas. Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente.",
+			"services": "",
+			"organization-name": "Palacio Real de El Pardo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2062-palacio-real-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2062",
+		"title": "Palacio Real de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=47ddef4d7f71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "CALLE BAILEN"
+		},
+		"location": {
+			"latitude": 40.42075212551193,
+			"longitude": -3.712699107286406
+		},
+		"organization": {
+			"organization-desc": "Construido sobre el solar del antiguo Alcázar tras un incendio en 1734. Proyectado por Juvara en 1735 y construido por Sachet de 1738 a 1764 bajo las influencias del clasicismo barroco. A partir de 1770, Sabatini añadió el ala sudeste y realizó la gran escalera. Es de destacar el gran patio que articula el edificio y la fachada principal que aloja el balcón y Escudo Real.Metro: Ópera (líneas 2, 5 y Ramal Ópera Norte)Bus: 3, 138, 148, 25, 39, 46, 62, 75, C1Cercanías: Príncipe PíoBicimad: Estación 36 (Plaza de Ramales, 1)",
+			"accesibility": "1",
+			"schedule": "Horario De octubre a marzo: de 10 a 18 horas.De abril a septiembre: de 10 a 20 horas.Cierre taquillas y acceso a Palacio una hora antes.Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente. Jardines del Campo del Moro De octubre a marzo: de 10 a 18 horas.De abril a septiembre: de 10 a 20 horas.",
+			"services": "Relevo solemne de la Guardia en el Palacio Real de Madrid La Guardia Real realiza este relevo los primeros miércoles de cada mes, a las 12 horas (excepcionalmente puede haber cambios, consultar en http://www.guardiareal.org/. El acto tiene una duración aproximada de 50 minutos, y se desarrolla en la Plaza de la Armería, finalizando con un concierto de la Unidad de Música en la Puerta del Príncipe (calle Bailén). La entrada es libre y gratuita, hasta completar aforo. Se accede por el Arco de Santiago (calle Bailén esquina con Requena).No se celebra en enero, agosto y septiembre, ni cuando coincide con actos oficiales. Relevo de la Guardia en la Puerta del Príncipe del Palacio Real de Madrid El acto se lleva a cabo todos los miércoles y sábados del mes, desde las 11 hasta las 14 horas, exceptuando del 19 de junio al 18 de septiembre que será desde las 10 hasta las 12 horas, siempre y cuando los actos oficiales o la climatología lo permitan.Tiene lugar en la calle Bailén.",
+			"organization-name": "Palacio Real de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2079-panteon-hombres-ilustres.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2079",
+		"title": "Panteón de Hombres Ilustres",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=361cef4d7f71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/Pacifico"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE JULIAN GAYARRE 3"
+		},
+		"location": {
+			"latitude": 40.40622617519116,
+			"longitude": -3.683413041846525
+		},
+		"organization": {
+			"organization-desc": "La construcción de este edificio responde a dos de las constantes de fines de siglo: la arquitectura historicista y la escultura funeraria. En él reposan trece personajes ilustres de la historia política y militar española.Metro: Estación del Arte (Atocha) (línea 1)Bus: 10, 14, 24, 32, 37, 54, 57, 141, 26, C1, C2, 102Renfe: Atocha",
+			"accesibility": "1",
+			"schedule": "De martes a sábado de 10 a 14 y de 16 a 18:30 horasDomingos y festivos de 10 a 15 horasCerrado todos los lunes del añoPara cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente.",
+			"services": "",
+			"organization-name": "Panteón de Hombres Ilustres"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3351-parroquia-nuestra-senora-buen-consejo-san-isidro.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3351",
+		"title": "Parroquia Nuestra Señora del Buen Consejo y San Isidro",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=88a513db5b71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Embajadores"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "CALLE TOLEDO 37"
+		},
+		"location": {
+			"latitude": 40.412964921671964,
+			"longitude": -3.707383827213788
+		},
+		"organization": {
+			"organization-desc": "Metro: La Latina (línea 5), Tirso de Molina (línea 1)Bus: 17, 18, 23, 35",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia Nuestra Señora del Buen Consejo y San Isidro"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3374-parroquia-san-fermin-navarros.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3374",
+		"title": "Parroquia San Fermín de los Navarros",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=26390713fb71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi/Barrio/Almagro"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28010",
+			"street-address": "PASEO EDUARDO DATO 10"
+		},
+		"location": {
+			"latitude": 40.432757364795805,
+			"longitude": -3.692571049214642
+		},
+		"organization": {
+			"organization-desc": "Metro: Rubén Darío (Línea 5).Bus: 40, 147, 7.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia San Fermín de los Navarros"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3352-parroquia-san-gines.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3352",
+		"title": "Parroquia San Ginés",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=520a0713fb71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "CALLE ARENAL 13"
+		},
+		"location": {
+			"latitude": 40.41728242858594,
+			"longitude": -3.707028284837054
+		},
+		"organization": {
+			"organization-desc": "Metro: Opera (líneas 2, 5, Ramal)Bus:  3Renfe: SolBicimad:Estación 25b (plaza de Celenque, 1)Estación 31 (calle Mayor, 20)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia San Ginés"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3370-parroquia-san-jose.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3370",
+		"title": "Parroquia San José",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e41a0713fb71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE ALCALA 43"
+		},
+		"location": {
+			"latitude": 40.41904792380414,
+			"longitude": -3.6966856794698795
+		},
+		"organization": {
+			"organization-desc": "Descripción monumental. Convento de Carmelitas Descalzas trazado por Pedro de Ribera entre los años 1730 y 1742.Metro: Banco de España (línea 2).Bus: 146, 74, 1, 2, 51, 53, 150, 5, 52, 9, M2, 46, 20, 15.Bicimad: Estación 20a (calle Alcalá 49).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia San José"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3375-parroquia-san-manuel-san-benito.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3375",
+		"title": "Parroquia San Manuel y San Benito",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=b17a0713fb71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Recoletos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28009",
+			"street-address": "CALLE ALCALA 83"
+		},
+		"location": {
+			"latitude": 40.42074217866137,
+			"longitude": -3.6860471147515685
+		},
+		"organization": {
+			"organization-desc": "Metro: Retiro (línea 2)Bus: 2, 20, 28",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia San Manuel y San Benito"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3372-parroquia-san-marcos.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3372",
+		"title": "Parroquia San Marcos",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=448a0713fb71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Universidad"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28015",
+			"street-address": "CALLE SAN LEONARDO 10"
+		},
+		"location": {
+			"latitude": 40.42476160196848,
+			"longitude": -3.7111617863516715
+		},
+		"organization": {
+			"organization-desc": "Bus: 1, 138, 2, 44, 74, M2, 46. Metro: Plaza de España (líneas 3, 10), Noviciado (línea 2).Bicimad: Estación 116b (plaza de España).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia San Marcos"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3369-parroquia-san-millan-san-cayetano.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3369",
+		"title": "Parroquia San Millán y San Cayetano",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d69a0713fb71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Embajadores"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "CALLE EMBAJADORES 15"
+		},
+		"location": {
+			"latitude": 40.409461123751505,
+			"longitude": -3.705791428982776
+		},
+		"organization": {
+			"organization-desc": "Metro: Latina (línea 5), Tirso de Molina (línea 1), Lavapiés (línea 3).Bus: M1.Bicimad: Estación 44 (calle Mesón de Paredes, 35).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia San Millán y San Cayetano"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/63393-parroquia-san-nicolas-bari-servitas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "63393",
+		"title": "Parroquia San Nicolás de Bari de los Servitas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=7838f0bde551c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "PLAZA SAN NICOLAS 6"
+		},
+		"location": {
+			"latitude": 40.415793260849824,
+			"longitude": -3.7118688527171226
+		},
+		"organization": {
+			"organization-desc": "Metro: Opera (líneas 2, 5, ramal).Bus: 3, 148.Bicimad: Estación 68 (plaza de Ramales, 1).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia San Nicolás de Bari de los Servitas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3358-parroquia-santa-barbara.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3358",
+		"title": "Parroquia Santa Bárbara",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6effb069a541f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "CALLE GENERAL CASTA&amp;Ntilde;OS 2"
+		},
+		"location": {
+			"latitude": 40.42428879388528,
+			"longitude": -3.6940873878242177
+		},
+		"organization": {
+			"organization-desc": "Metro: Colón (línea 4).Bus: 5, 14, 27, 45, 53, 150.Cercanías Renfe: Recoletos (líneas C1, C2, C7, C8 y C10).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia Santa Bárbara"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3362-parroquia-santa-cruz.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3362",
+		"title": "Parroquia Santa Cruz",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=40e0b069a541f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "CALLE ATOCHA 6"
+		},
+		"location": {
+			"latitude": 40.414608558946085,
+			"longitude": -3.705255882048698
+		},
+		"organization": {
+			"organization-desc": "Metro: Sol (líneas 1, 2, 3), Tirso de Molina (línea 1).Bus: 50, 26, 32, 6, 65, 18, 23, 17, M1, 31.Cercanías Renfe: Sol (líneas C3 y C4).Bicimad: Estaciones 32 (plaza de la Provincia, 1), 34 (plaza de Jacinto Benavente), 40 (plaza del Conde Romanones, 9).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia Santa Cruz"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3373-parroquia-santiago-san-juan-bautista.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3373",
+		"title": "Parroquia Santiago y San Juan Bautista",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e235b069a541f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "PLAZA SANTIAGO 24"
+		},
+		"location": {
+			"latitude": 40.41652031892383,
+			"longitude": -3.7108392672110684
+		},
+		"organization": {
+			"organization-desc": "Metro: Ópera (línea 2, 5, Ramal).Bus: 3.Bicimad: Estación 9 (plaza de San Miguel, 9).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Parroquia Santiago y San Juan Bautista"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20557-plaza-oriente.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20557",
+		"title": "Plaza de Oriente",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=773492355c51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "PLAZA ORIENTE"
+		},
+		"organization": {
+			"organization-desc": "Diseñada por González Velázquez. Se empieza a construir en 1816, tomándose como eje el Teatro Real enfrentado al Palacio Real. Su trazado definitivo se realiza en 1850 por Narciso Pascual Colomer. Entre 1994 y 1997 se llevó a cabo la remodelación que integra en un conjunto peatonal el Palacio Real y el Teatro de la Opera, siguiendo el proyecto de los arquitectos Miguel Oriol e Ibarra y Miguel Botella Ruiz-Castillo. Los jardines situados frente al Palacio Real. En el centro de la plaza se encuentra la estatua ecuestre de Felipe IV, obra fundida por Pietro Tacca según cálculos de Galileo Galilei.Metro: Ópera (líneas 2, 5, R) Bus: 3, 25, 33, 39, 148",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Plaza de Oriente"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20563-plaza-mayor.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20563",
+		"title": "Plaza Mayor",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0a4492355c51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "PLAZA MAYOR"
+		},
+		"location": {
+			"latitude": 40.41498735934118,
+			"longitude": -3.706662448203068
+		},
+		"organization": {
+			"organization-desc": "Lugar emblemático de Madrid con origen en la antigua Plaza del Arrabal, extramuros del recinto medieval y foco comercial del primitivo Madrid. Tuvo forma irregular debido a su crecimiento espontáneo,  y fue objeto de varios proyectos de regularización. Al ser elegida Madrid como capital, se vio la necesidad de crear una auténtica Plaza Mayor y Felipe II  se lo encargó a Juan de Herrera. En el siglo XIX  se colocó la estatua de Felipe III a cuyo reinado pertenece la construcción de la plaza.Este año se celebra el IV Centenario de su construcción.Más información en la  https://plazamayormadrid4c.esMetro: Sol (líneas 1, 2, 3), Tirso de Molina (línea 1)Bus: 3, 17, 18, 23, 31",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "Todos los domingos de 9 a 14 horas se celebra un mercadillo filatélico (sellos)",
+			"organization-name": "Plaza Mayor"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2430-plaza-monumental-toros-ventas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2430",
+		"title": "Plaza Monumental de Toros de las Ventas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=5d7d0713fb71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Guindalera"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28028",
+			"street-address": "CALLE ALCALA 237"
+		},
+		"location": {
+			"latitude": 40.431580111585106,
+			"longitude": -3.6628728693917627
+		},
+		"organization": {
+			"organization-desc": "De estilo neomudéjar se terminó de construir en el año 1931. Basada en un proyecto de José Espelius, quien murió antes de la conclusión de las obras, fue terminada por Manuel Muñoz Monasterio. El terreno se presenta en talud, salvado desde la Avenida de los Toreros mediante escalinatas que interrumpen el trazado ajardinado.Contacto Taquillas de la plaza de toros: taquillas@plazauno.es Contacto departamento comunicación: comunicacion@plazauno.es  Adquisición de entradas por teléfono: 91 235 2343 Restaurante &amp;ldquo;Sala Alcalá&amp;rdquo;: 676 00 26 82 Las Ventas Tour: Tels. 910 242 844 - 687 73 90 32 Tienda de recuerdos: 910 46 86 20Metro: Ventas (líneas 2, 5)Bus: 12, 21, 38, 53, 74, 106, 110, 146, 210.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Plaza Monumental de Toros de las Ventas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7714918-puerta-sol.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "7714918",
+		"title": "Puerta del Sol",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=af0ae1abeee79410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "PLAZA PUERTA DEL SOL 1"
+		},
+		"location": {
+			"latitude": 40.416887979993966,
+			"longitude": -3.7022740027977377
+		},
+		"organization": {
+			"organization-desc": "Toma su nombre de un postigo de la antigua muralla medieval que estaba decorado con un Sol y que se derribó en el siglo XVII, el lugar conservó el nombre. En origen fue un punto exterior de la ciudad, aunque debido al crecimiento de Madrid y a su  situación fue convirtiéndose poco a poco en el centro de la capital. En 1857 ,el Ministerio de Fomento  convoca un concurso quedando aprobada la reforma de Lucio del Valle, Juan Rivera y José Morer, que conservaba la alineación de la antigua Casa de Correos en uno de los lados, mientras que el otro adoptaba una forma semicircular.Metro: Sol (líneas 1, 2, 3) Bus: 15, 20, 51, 52, 53",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Puerta del Sol"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2124-real-academia-ciencias-morales-politicas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2124",
+		"title": "Real Academia de Ciencias Morales y Políticas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=f35bff632081c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "PLAZA DE LA VILLA 2"
+		},
+		"location": {
+			"latitude": 40.4151547271264,
+			"longitude": -3.71022377531515
+		},
+		"organization": {
+			"organization-desc": "Metro: Sol (líneas 1, 2, 3), Ópera (líneas 2, 5)Bus: 3, 31, 50, 65Renfe: SolBICIMAD:Estación 9 (Plaza San Miguel, 9)Estación 35 (Plaza del Cordón, 1)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Real Academia de Ciencias Morales y Políticas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2128-real-academia-jurisprudencia-legislacion.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2128",
+		"title": "Real Academia de Jurisprudencia y Legislación",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=866bff632081c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE MARQUÉS DE CUBAS 13"
+		},
+		"location": {
+			"latitude": 40.41749648159225,
+			"longitude": -3.6955027540085243
+		},
+		"organization": {
+			"organization-desc": "Metro: Banco de España (línea 2)Bus: 14, 27, 37, 45, 146, 150, 5, 51, 52, 53, 9BICIMAD: Estación 29 (calle Marqués de Cubas, 25)",
+			"accesibility": "3",
+			"schedule": "De lunes a jueves  9:30 a 14 y de 17 a 20 horas. Viernes de 9:30 a 14 horas.",
+			"services": "",
+			"organization-name": "Real Academia de Jurisprudencia y Legislación"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2127-real-academia-historia.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2127",
+		"title": "Real Academia de la Historia",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=197bff632081c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE DE LEÓN 21"
+		},
+		"location": {
+			"latitude": 40.41346631071615,
+			"longitude": -3.699008959181709
+		},
+		"organization": {
+			"organization-desc": "Metro: Antón Martín (línea 1)Bus: M1, 6, 26, 32BICIMAD: Estación 41 (calle Atocha, 54)",
+			"accesibility": "3",
+			"schedule": "De 8:30 a 15:30 horas.",
+			"services": "",
+			"organization-name": "Real Academia de la Historia"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2126-real-academia-nacional-farmacia.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2126",
+		"title": "Real Academia Nacional de Farmacia",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=3e9bff632081c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "CALLE FARMACIA 9 TAMBIÉN NÚMERO 11"
+		},
+		"location": {
+			"latitude": 40.423966629698484,
+			"longitude": -3.6997070566405665
+		},
+		"organization": {
+			"organization-desc": "Metro: Chueca (línea 5), Tribunal (líneas 1 y 10)Bus: 3BICIMAD: Estación 6 (calle Hortaleza, 63)",
+			"accesibility": "3",
+			"schedule": "De lunes a jueves (no festivos) de 9:30 a 14:30 y de 15:30 a 21:30 horas.",
+			"services": "",
+			"organization-name": "Real Academia Nacional de Farmacia"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3359-real-basilica-san-francisco-grande.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3359",
+		"title": "Real Basílica San Francisco el Grande",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ef8d0713fb71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "CALLE SAN BUENAVENTURA 1"
+		},
+		"location": {
+			"latitude": 40.41084005024222,
+			"longitude": -3.714503845728281
+		},
+		"organization": {
+			"organization-desc": "Conjunto conventual que sustituyó al monasterio franciscano medieval, construido por Francisco de las Cabezas entre 1761 y 1768, que fue relevado por Antonio Polo y que concluye Francisco Sabatini en 1784 donde se exponen colecciones de pinturas de los siglos XVII al XIX.Metro: La Latina (línea 5) , Puerta de Toledo (línea 5)Bus:  3Bicimad: Estación 37 (Plaza San Francisco, 5)",
+			"accesibility": "3",
+			"schedule": "Museo:  De martes a viernes de 10:30 a 12:30 y de 16 a 18 horasSábados de 10:30 a 12:30 y de 16 a 18 horas (si no se ofician actos religiosos).Julio, agosto y septiembre: de martes a domingo de 10:30 a 12:30 y de 17 a 19 horas.",
+			"services": "",
+			"organization-name": "Real Basílica San Francisco el Grande"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/6070-real-colegio-santa-isabel-asuncion.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "6070",
+		"title": "Real Colegio Santa Isabel - La Asunción",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=b2b9f3216571c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Embajadores"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "CALLE SANTA ISABEL 46"
+		},
+		"location": {
+			"latitude": 40.40962511552305,
+			"longitude": -3.6965767139076444
+		},
+		"organization": {
+			"organization-desc": "ENSEÑANZA: Educación Infantil (segundo ciclo) - Primaria - ESO - BACHILLERATO (Humanidades y C. Sociales - Ciencias y Tecnología) - Enseñanza biling&amp;uuml;eMetro: Atocha , Antón Martín  Bus: 6 , 19 , 26 , 27 , 32 , 34 , 37 , 41 , 45 , 119 , C  Renfe: Atocha",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "Horario ampliado - Comedor",
+			"organization-name": "Real Colegio Santa Isabel - La Asunción"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2087-real-fabrica-tapices.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2087",
+		"title": "Real Fábrica de Tapices",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=53cbff632081c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/Pacifico"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE FUENTERRABIA 2"
+		},
+		"location": {
+			"latitude": 40.406087329011655,
+			"longitude": -3.682515969574079
+		},
+		"organization": {
+			"organization-desc": "Metro: Menéndez Pelayo (línea 1).Bus: 10, 14, 26, 32, C1, C2, 141, 24, 37, 54, 57, 152.Bicimad: Estación 79 (avenida de menéndez Pelayo, 38).",
+			"accesibility": "3",
+			"schedule": "Visitas guiadas: Lunes a viernes a las 10, 11, 12 y 13 horas (en castellano) 12:30 (en inglés). Duración de la visita 45 minutos.Se recomienda realizar una reserva antes de la llegada al museo.",
+			"services": "",
+			"organization-name": "Real Fábrica de Tapices"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/6113673-real-jardin-botanico.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "6113673",
+		"title": "Real Jardín Botánico",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e9234477786b0310VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "PLAZA MURILLO 2"
+		},
+		"location": {
+			"latitude": 40.41238214985831,
+			"longitude": -3.692032097926277
+		},
+		"organization": {
+			"organization-desc": "Centro de investigación del CSIC que alberga cuatro terrazas con plantas de América, Europa y el Pacífico, así como una colección de bonsáis.Metro: Atocha (línea 1)Bus: 10, 14, 19, 24, 26, 27, 32, 34, 45, 57, 140, CircularRENFE: Atocha Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones.",
+			"accesibility": "2",
+			"schedule": "El Jardín está abierto al público todos los días del año, excepto los días de Navidad y Año Nuevo.Enero y febrero: de 10 a 18 horasMarzo: de 10 a 19 horasAbril: de 10 a 20 horasDe mayo a agosto de 10 a 21 horasSeptiembre: de 10 a 20 horasOctubre: de 10 a 19 horasNoviembre y diciembre: de 10 a 18 horas",
+			"services": "",
+			"organization-name": "Real Jardín Botánico"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3349-real-monasterio-encarnacion.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3349",
+		"title": "Real Monasterio de la Encarnación",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=72ad0713fb71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "PLAZA ENCARNACION 1"
+		},
+		"location": {
+			"latitude": 40.41967800877382,
+			"longitude": -3.711567962866152
+		},
+		"organization": {
+			"organization-desc": "Edificio construído por Juan Gómez de Mora de 1611 a 1616 como monasterio anejo al Alcázar Real, modelo de lo que se ha dado en llamar barroco madrileño. Cuenta con la reliquia de San Pantaleón.Metro:  Ópera (líneas 2, 5 y Ramal Ópera Príncipe Pío), Plaza de España (líneas 3, 10)Bus:  3, 25, 39, 148Bicimad: Estación 25 a y b (Plaza Celenque, 1)",
+			"accesibility": "3",
+			"schedule": "De martes a sábado: de 10 a 14 horas y de 16 a 18:30 horasDomingos y festivos: de 10 a 15 horas. Tardes cerradoCerrado todos los lunes del año Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente.",
+			"services": "",
+			"organization-name": "Real Monasterio de la Encarnación"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/4707297-real-monasterio-santa-isabel.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "4707297",
+		"title": "Real Monasterio de Santa Isabel",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=545b544a249c6110VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Embajadores"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "CALLE SANTA ISABEL 48"
+		},
+		"location": {
+			"latitude": 40.41213027498252,
+			"longitude": -3.6994547941964946
+		},
+		"organization": {
+			"organization-desc": "El Real Monasterio de Santa Isabel está situado en Madrid, dentro de la ciudad histórica, en una gran manzana, próxima a Atocha.Santa Isabel agrupa dos fundaciones, un colegio de niñas, establecido por Felipe II, y un convento de clausura de monjas agustinas recoletas, fundado por la esposa de Felipe III, doña Margarita de Austria.La arquitectura de la iglesia se debe a Gómez de Mora, de mediados del siglo XVIII. En la clausura se conservan numerosas obras pictóricas de los siglos XVII y XVIII.Metro: Estación del Arte (Atocha) (línea 1)Bus: 26, 32, 6, 27, 34, C1Renfe: Atocha",
+			"accesibility": "3",
+			"schedule": "El acceso al templo sólo es posible en horario de culto.",
+			"services": "",
+			"organization-name": "Real Monasterio de Santa Isabel"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3360-real-oratorio-caballero-gracia.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "3360",
+		"title": "Real Oratorio del Caballero de Gracia",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ef153d232e91f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "CALLE CABALLERO DE GRACIA 5"
+		},
+		"location": {
+			"latitude": 40.41953675995833,
+			"longitude": -3.700769178078419
+		},
+		"organization": {
+			"organization-desc": "Construído por Juan de Villanueva entre 1786 y 1795 de planta basilical y en un sentir muy cercano al de las iglesias venecianas de Palladio. La fachada es de Custodio Moreno.Entre 1976 y 1981 el arquitecto Fernando Chueca Goitia emprendió un proyecto de restauración  con polémicos resultados. Los trabajos se interrumpieron durante largos años; convocándose finalmente un concurso de arquitectura que fue ganado en 1987 por Javier Feduchi Benlliure.Metro: Gran Vía (líneas 1 y 5).Bus: 1, 2, 46, 74, 126.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Real Oratorio del Caballero de Gracia"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/2135-sala-exposiciones-canal-isabel-ii.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "2135",
+		"title": "Sala de Exposiciones Canal de Isabel II",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=7ea629ea9281c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi/Barrio/RiosRosas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28003",
+			"street-address": "CALLE SANTA ENGRACIA 125"
+		},
+		"location": {
+			"latitude": 40.43917634033899,
+			"longitude": -3.7007844119216258
+		},
+		"organization": {
+			"organization-desc": "Singular espacio expositivo ubicado en un antiguo depósito de agua, construido entre 1907 y 1911 por el ingeniero Diego Martín Montalvo y el arquitecto Ramón de Aguinaga, de estilo ecléctico con una estructura exterior de ladrillo en planta circular, restaurado y acondicionado como sala de exposiciones en 1986 por los arquitectos Javier Alau y Antonio Lopera.Las exposiciones temporales que se realizan en este espacio están destinadas exclusivamente a la creación fotográfica y audiovisual contemporánea. La sala acoge tanto a artistas clásicos internacionales como a representantes de la joven fotografía española e internacional y se ha consolidado como un espacio emblemático en la difusión de las últimas tendencias.Metro: Ríos Rosas (línea 1), Alonso Cano (línea 7)Bus: 3, 37, 149Bicimad: Estación 130 (calle Santa Engracia, 127)",
+			"accesibility": "2",
+			"schedule": "De martes a sábados de 11 a 20:30 horas. Domingos y festivos de 11 a 14 horas. Cerrado: lunes, 24, 25 y 31 de diciembre; 1 y 6 de enero; 1 de mayo.Consultar horario específico de cada exposición.",
+			"services": "",
+			"organization-name": "Sala de Exposiciones Canal de Isabel II"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/21-senado-espana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "21",
+		"title": "Senado de España",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=c86f29ea9281c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "CALLE BAILEN 3"
+		},
+		"location": {
+			"latitude": 40.42145565624762,
+			"longitude": -3.712565078821235
+		},
+		"organization": {
+			"organization-desc": "Metro: Plaza España (líneas 3, 10)Bus: 138, 148, 25, 39, 46, 62, 75, C1, C2",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "Visitas:Teléfonos 915 381 375 / 915 381 938 / 915 381 911 visitas@senado.es Formulario solicitud",
+			"organization-name": "Senado de España"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20592-sociedad-general-autores-editores-sgae-.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20592",
+		"title": "Sociedad General de Autores y Editores (SGAE)",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=7b9332df1d51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "CALLE FERNANDO VI 4"
+		},
+		"location": {
+			"latitude": 40.425444297155785,
+			"longitude": -3.6966927307702515
+		},
+		"organization": {
+			"organization-desc": "La SGAE, Sociedad General de Autores y Editores, es una entidad privada dedicada a la defensa y gestión colectiva de los derechos de propiedad intelectual de sus más de 106.000 socios. Su misión fundamental es la protección y reparto de la remuneración de los socios por la utilización de sus obras (reproducción, distribución, comunicación pública, transformación y copia privada) y la gestión de licencias entre los clientes para su uso.Descripción monumental: antiguo Palacio Longoria. Obra madrileña que más se identifica con el estilo modernista, al menos en lo que se refiere al revestimiento ornamental. Aunque en la estructura interior Grases (su arquitecto) se alejó del modernismo para adoptar criterios más tradicionales. En 1950 la Sociedad General de Autores compra el edificio y encargó a Arniches una radical transformación. Más información en la página web de Monumenta MadridMetro: Alonso Martínez (líneas 4, 5, 10), Tribunal (líneas 1, 10) Bus: 3, 37,",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Sociedad General de Autores y Editores (SGAE)"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20605-templo-debod.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20605",
+		"title": "Templo de Debod",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=13b432df1d51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca/Barrio/CasaCampo"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28008",
+			"street-address": "CALLE FERRAZ 1"
+		},
+		"location": {
+			"latitude": 40.42425096551599,
+			"longitude": -3.716531855540272
+		},
+		"organization": {
+			"organization-desc": "Templo egipcio dedicado a Amón de Debod y a Isis, construido entre 185 AC y el siglo I de la Era. Fue donado por Egipto a España en 1968, en agradecimiento por la ayuda en el salvamento de los templos de Abu Simbel. Egyptian temple dedicated to Amun of Debod and Isis. It was built between 185 BC and the 1st century. It was donated by Egypt to Spain in 1968 for its help in the rescue of the temples of Abu Simbel.El templo de Debod no cuenta en la actualidad con accesos adaptados a personas con movilidad reducida y la circulación en su interior es igualmente difícil. Debod temple has currently no access adapted for people with reduced mobility.   El templo es un monumento histórico de una antig&amp;uuml;edad de 2.200 años. Su estructura interna, que constituye el espacio de actual de exposición, está formada por distintas salas de dimensiones reducidas, con vanos estrechos y numerosas barreras, que responden a los fines y necesidades de los cultos religiosos que en él tuvieron lugar, pero que imposibilitan la circulación con sillas de ruedas convencionales.  La legislación sobre accesibilidad vigente en nuestra Comunidad (Ley 8/1993 de 22 de Junio de Promoción de la Accesibilidad y Supresión de Barreras Arquitectónicas), en su disposición adicional 7&amp;ordf;, exime de su aplicación en los inmuebles declarados Bien de Interés Cultural o en aquellos edificios de valor histórico-artístico. No obstante, se está trabajando en hacer accesibles las plataformas en las que se levanta el templo y sus dos portales.Metro: Plaza de España (líneas 3 y 10) y Ventura Rodríguez (línea 3) Bus: 1, 2, 3, 25, 39, 44, 46, 74, 75, 133, 138, 148, C1 y C2 Renfe: Príncipe Pío  Bus turístico: Ruta 1. PARADA 10 - Templo de Debod Otras formas de acceso: Aparcamiento de coches: dentro del Área de Estacionamiento Regulado de la ciudad de Madrid. BICIMAD (Servicio público de bicicletas de la ciudad de Madrid): Estación 115 (calle Evaristo San Miguel s/n.,entre Paseo Pintor Rosales y calle Ferraz)",
+			"accesibility": "0",
+			"schedule": "Martes a domingos y festivos, de 10 a 20 horas / Tuesday to Sundays and holidays, from 10 a.m. to 8 p.m.  Cerrado los lunes y los días 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre./ Closed Mondays and January 1 and 6, May 1, December 24, 25 and 31 Último pase de visita 30 minutos antes del cierre / Last visit pass 30 minutes before closing El horario y la apertura de salas pueden sufrir modificaciones. Ppor favor, confírmelo en el teléfono de información del museo./ The schedule  is subjects to change. Please, confirm it in the information telephone of the museum.",
+			"services": "Actividades didácticas: talleres para grupos escolares, talleres de profesores, talleres para familias.Obtención de información sobre sus fondos y colecciones con fines de investigación, enseñanza o difusión. Se pueden realizar fotografías o grabaciones de vídeo libremente en el exterior o en el interior del templo, siempre y cuando no se utilicen flash o trípode y su fin no sea comercial.Para la obtención de reproducciones de fotografías del archivo del templo de Debod con fines editoriales, de investigación, difusión o comerciales el interesado deberá cumplimentar la solicitud de Reproducciones Fotográficas.La realización de reportajes fotográficos y grabaciones profesionales en el recinto del templo de Debod (estanque delantero, plataformas y edificio) sólo será autorizada cuando los fines para los que se solicita sean la divulgación y difusión cultural del monumento o de las actividades museísticas que en él se desarrollen. Cualquier otra finalidad, gratuita o comercial, será desestimada.",
+			"organization-name": "Templo de Debod"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/1634-tribunal-cuentas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "1634",
+		"title": "Tribunal de Cuentas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=9ca01e79ee71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Universidad"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "CALLE FUENCARRAL 81"
+		},
+		"location": {
+			"latitude": 40.42578440202823,
+			"longitude": -3.7011941612651236
+		},
+		"organization": {
+			"organization-desc": "Supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado, así como del Sector Público, sin perjuicio de su propia jurisdicción.Metro: Bilbao (líneas 1 y 4)Bus: 149, 40, M2Bicimad: Estación 54 (calle Barceló, 7)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Tribunal de Cuentas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/541-tribunal-supremo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "541",
+		"title": "Tribunal Supremo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=eafde3914381c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "PLAZA VILLA DE PARIS acceso por Marqués de la Ensenada,1"
+		},
+		"location": {
+			"latitude": 40.4247497561406,
+			"longitude": -3.6933000719659024
+		},
+		"organization": {
+			"organization-desc": "Metro: Colón (línea 4)Bus: 5, 14, 21 , 27, 37, 45, 53, 150 Cercanías: RecoletosBICIMAD:Estación 10 (calle Marqués de la Ensenada, 16)Estación 26 (Plaza Salesas, 7)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Tribunal Supremo"
+		}
+	}	  
+]
