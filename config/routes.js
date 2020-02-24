@@ -15,7 +15,7 @@ router.post('/tourists/new', authMiddleware.isNotAuthenticated, touristsControll
 router.get('/tourists/:token/validate', touristsController.validate)
 router.get('/tourists/me', authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.profile)
 router.patch('/tourists/me', authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.update)
-router.delete('/tourists/me', authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.delete)
+router.delete('/tourists/me', authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.delete) 
 
 //cities
 router.get('/cities', authMiddleware.isAuthenticated, userMiddleware.isTourist, citiesController.list)
@@ -25,11 +25,10 @@ router.get('/cities/me', authMiddleware.isAuthenticated, userMiddleware.isCity, 
 router.patch('/cities/me', authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.update)
 router.delete('/cities/me', authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.delete)
 router.get('/cities/:cityName', authMiddleware.isAuthenticated, userMiddleware.isTourist, citiesController.detail)
-//router.get('/cities/:cityName/places?', authMiddleware.isAuthenticated, userMiddleware.isTourist, citiesController.detail)
 
 //places
 router.post('/places/new', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.create)
-//router.get('/places', authMiddleware.isAuthenticated, placesController.list) //// => dev FILTER & SORT (query params)
+router.get('/places', authMiddleware.isAuthenticated, userMiddleware.isTourist, placesController.list)
 router.get('/places/:id', authMiddleware.isAuthenticated, placesController.detail)
 router.patch('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, userMiddleware.isPlaceOwner, placesController.update)
 router.delete('/places/:id', authMiddleware.isAuthenticated, userMiddleware.isCity, userMiddleware.isPlaceOwner, placesController.delete)
