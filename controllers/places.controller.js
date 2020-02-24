@@ -3,6 +3,8 @@ const createError = require('http-errors')
 const Place = require('../models/place.model')
 const Like = require('../models/like.model')
 
+const { setCriteria, setSort } = require('../helpers/controllers.helper')
+
 module.exports.create = (req, res, next) => {
   const { name, photo, category, cityRate } = req.body
 
@@ -19,14 +21,13 @@ module.exports.create = (req, res, next) => {
     .catch(next)
 }
 
-
-//////////////////////////////////////////////////
-
 module.exports.list = (req, res, next) => {
-  Place.findOne({
-    city: req.params.city
-  })
+  const criteria = setCriteria(req.query)
+  const sort = setSort(req.query)
+  
+  Place.find(criteria)
     .populate('touristsLikes')
+    .sort(sort)
     .then(places => {
       if(places) {
         res.status(200).json(places)
@@ -36,10 +37,6 @@ module.exports.list = (req, res, next) => {
     })
     .catch(next)
 }
-
-///////////////////////////////////////////////////
-
-
 
 module.exports.detail = (req, res, next) => {
   Place.findOne({ _id: req.params.id })
