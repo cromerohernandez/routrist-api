@@ -1,6 +1,6 @@
 const nodemailer = require('nodemailer')
 
-const APP_HOST = process.env.APP_HOST || 'http://localhost:3000'
+const APP_HOST = process.env.APP_HOST || 'http://localhost:5000'
 
 const user = process.env.MAIL_USER
 const pass = process.env.MAIL_PASS
