@@ -10,21 +10,23 @@ const routesController = require('../controllers/routes.controller')
 const authMiddleware = require('../middlewares/auth.middleware')
 const userMiddleware = require('../middlewares/user.middleware')
 
+//cities
+router.get('/cities', authMiddleware.isAuthenticated, userMiddleware.isTourist, citiesController.list)
+router.post('/cities/new', authMiddleware.isNotAuthenticated, citiesController.create)
+router.get('/cities/:token/validate', citiesController.validate)
+router.get('/cities/me', authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.profile)
+router.get('/cities/me/places', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.list)
+// router.get('/cities/me/places', authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.getPlaces)
+router.patch('/cities/me', authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.update)
+router.delete('/cities/me', authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.delete)
+router.get('/cities/:cityName', authMiddleware.isAuthenticated, userMiddleware.isTourist, citiesController.detail)
+
 //tourists
 router.post('/tourists/new', authMiddleware.isNotAuthenticated, touristsController.create)
 router.get('/tourists/:token/validate', touristsController.validate)
 router.get('/tourists/me', authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.profile)
 router.patch('/tourists/me', authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.update)
 router.delete('/tourists/me', authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.delete) 
-
-//cities
-router.get('/cities', authMiddleware.isAuthenticated, userMiddleware.isTourist, citiesController.list)
-router.post('/cities/new', authMiddleware.isNotAuthenticated, citiesController.create)
-router.get('/cities/:token/validate', citiesController.validate)
-router.get('/cities/me', authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.profile)
-router.patch('/cities/me', authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.update)
-router.delete('/cities/me', authMiddleware.isAuthenticated, userMiddleware.isCity, citiesController.delete)
-router.get('/cities/:cityName', authMiddleware.isAuthenticated, userMiddleware.isTourist, citiesController.detail)
 
 //places
 router.post('/places/new', authMiddleware.isAuthenticated, userMiddleware.isCity, placesController.create)

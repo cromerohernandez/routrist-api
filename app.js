@@ -63,6 +63,9 @@ app.use(function (error, req, res, next) {
     data.errors = error.errors
   } else if (error instanceof mongoose.Error.CastError) {
     error = createError(404, 'Resource not found')
+  } else if (error.code === 11000) {
+    res.status(500)
+    data.errors = { email: "Already exists" }
   }
 
   data.message = error.message;
