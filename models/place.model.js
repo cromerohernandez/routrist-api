@@ -23,6 +23,7 @@ const placeSchema = new mongoose.Schema({
     enum: [
       'facade',
       'interior',
+      'garden',
       'museum',
       'park'
     ],

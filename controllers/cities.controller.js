@@ -2,6 +2,7 @@ const createError = require('http-errors')
 const mailer = require('../config/mailer.config')
 
 const City = require('../models/users/city.model')
+const Place = require('../models/place.model')
 
 module.exports.create = (req, res, next) => {
   const { name, country, email, password, photo } = req.body
@@ -52,6 +53,18 @@ module.exports.profile = (req, res, next) => {
         res.status(200).json(city)
       } else {
         throw createError(404, 'City not found')
+      }
+    })
+    .catch(next)
+}
+
+module.exports.getPlaces = (req, res, next) => {
+  Place.find({ city: req.currentUser.id })
+    .then(places => {
+      if (places) {
+        res.status(200).json(places)
+      } else {
+        throw createError(404, 'Places not found')
       }
     })
     .catch(next)
