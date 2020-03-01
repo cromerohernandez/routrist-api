@@ -22,11 +22,10 @@ module.exports.create = (req, res, next) => {
 }
 
 module.exports.list = (req, res, next) => {
-  console.log(req.query)
   req.query.city = req.query.city || req.currentUser.id
   const criteria = setCriteria(req.query)
-  const sort = setSort(req.query)
   const criteriaAndSearch = addSearch(req.query.name, criteria)
+  const sort = setSort(req.query)
 
   Place.find(criteriaAndSearch)
     .populate('touristsLikes')

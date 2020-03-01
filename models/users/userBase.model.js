@@ -24,7 +24,7 @@ const userBaseSchema = new mongoose.Schema({
   },
   validated: {
     type: Boolean,
-    default: false
+    default: true
   }
 },
 {

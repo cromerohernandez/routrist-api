@@ -4,6 +4,8 @@ const mailer = require('../config/mailer.config')
 const City = require('../models/users/city.model')
 const Place = require('../models/place.model')
 
+const CORS_ORIGIN = process.env.CORS_ORIGIN || 'http://localhost:3000'
+
 module.exports.create = (req, res, next) => {
   const { name, country, email, password, photo } = req.body
 
@@ -30,7 +32,7 @@ module.exports.validate = (req, res, next) => {
         city.validated = true
         city.save()
           .then(city => {
-            res.status(200).json(city)
+            res.status(200).redirect(`${CORS_ORIGIN}/`)
           })
           .catch(next)
       } else {
