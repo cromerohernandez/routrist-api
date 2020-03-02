@@ -26,6 +26,7 @@ router.get('/cities/:cityName', authMiddleware.isAuthenticated, userMiddleware.i
 router.post('/tourists/new', authMiddleware.isNotAuthenticated, uploadMiddleware.uploadCloudTourist('photo'), touristsController.create)
 router.get('/tourists/:token/validate', touristsController.validate)
 router.get('/tourists/me', authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.profile)
+router.get('/tourists/me/routes', authMiddleware.isAuthenticated, userMiddleware.isTourist, routesController.list)
 router.patch('/tourists/me', authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.update)
 router.delete('/tourists/me', authMiddleware.isAuthenticated, userMiddleware.isTourist, touristsController.delete) 
 
