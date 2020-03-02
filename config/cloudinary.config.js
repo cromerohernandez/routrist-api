@@ -8,15 +8,32 @@ cloudinary.config({
   api_secret: process.env.CLOUDINARY_SECRET
 })
 
-let storage = cloudinaryStorage({
+let storage = (folderCloud) => cloudinaryStorage({
   cloudinary: cloudinary,
-  folder: 'routrist',
+  folder: folderCloud,
   allowedFormats: ['jpg', 'png'],
   filename: function (req, file, cb) {
     cb(null, file.originalname)
   }
 })
 
-const uploadCloud = multer({ storage: storage })
+const uploadCloudCity = (cityPhoto) => {
+  let storageCity = storage('cities')
+  return multer({ storage: storageCity }).single(cityPhoto)
+}
 
-module.exports = uploadCloud
+const uploadCloudTourist = (touristPhoto) => {
+  let storageTourist = storage('tourists')
+  return multer({ storage: storageTourist }).single(touristPhoto)
+}
+
+const uploadCloudPlace = (placePhoto) => {
+  let storagePlace = storage('places')
+  return multer({ storage: storagePlace }).single(placePhoto)
+}
+
+module.exports = {
+  uploadCloudCity,
+  uploadCloudTourist,
+  uploadCloudPlace
+}

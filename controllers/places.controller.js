@@ -6,12 +6,12 @@ const Like = require('../models/like.model')
 const { setCriteria, addSearch, setSort } = require('../helpers/controllers.helper')
 
 module.exports.create = (req, res, next) => {
-  const { name, photo, category, cityRate } = req.body
+  const { name, category, cityRate } = req.body
 
   const place = new Place({
     name: name,
     city: req.currentUser.id,
-    photo: photo,
+    photo: req.file ? req.file.url : undefined,
     category: category,
     cityRate: cityRate
   })

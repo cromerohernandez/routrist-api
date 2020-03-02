@@ -7,14 +7,14 @@ const Place = require('../models/place.model')
 const CORS_ORIGIN = process.env.CORS_ORIGIN || 'http://localhost:3000'
 
 module.exports.create = (req, res, next) => {
-  const { name, country, email, password, photo } = req.body
+  const { name, country, email, password } = req.body
 
   const city = new City({
     name: name,
     country: country,
     email: email,
     password: password,
-    photo: photo
+    photo: req.file ? req.file.url : undefined
   })
 
   city.save()
