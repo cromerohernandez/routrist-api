@@ -1,0 +1,1627 @@
+[	
+	{
+		"title": "Jardines Gregorio Ordóñez",
+		"photo": "JardinesGregorioOrdóñez.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines San Francisco el Grande",
+		"photo": "JardinesSanFranciscoelGrande.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de Andrés Saborit",
+		"photo": "JardinesdeAndrésSaborit.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de El Buen Retiro",
+		"photo": "JardinesdeElBuenRetiro.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Horario del parque  Primavera y verano (de abril a septiembre): desde las 6 hasta las 24 h. Otoño e invierno (de octubre a marzo): desde las 6 hasta las 22 h.  Horario de las áreas caninas  Desde las 7:30 h hasta el cierre del parque.Para labores puntuales de mantenimiento o reparaciones, se cerrará parcialmente el área, permitiendo el paso por una de las dos puertas a la zona que quede libre de la actuación.Se instalarán carteles para informar de estos periodos de cierre parcial del espacio con 24 h de antelación a su comienzo."
+		}
+	},
+	{
+		"title": "Jardines de Gloria Fuertes",
+		"photo": "JardinesdeGloriaFuertes.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de José Luis Jiménez Manso",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de Perón",
+		"photo": "JardinesdePerón.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de Sabatini",
+		"photo": "JardinesdeSabatini.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Está abierto al público todos los días del año. No cierra al medio día.       Invierno (de octubre a abril): de 9 a 21 horas.       Verano (de mayo a septiembre): de 9 a 22 horas."
+		}
+	},
+	{
+		"title": "Jardines de San Fernando",
+		"photo": "JardinesdeSanFernando.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de la Avenida de Brasil",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de la Basílica",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+
+		"title": "Jardines de la Plaza Conde del Valle de Suchil",
+		"photo": "JardinesdelaPlazaCondedelValledeSuchil.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de la Plaza de Chamberí",
+		"photo": "JardinesdelaPlazadeChamberí.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de la Plaza de Olavide",
+		"photo": "JardinesdelaPlazadeOlavide.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de la Plaza de Oriente, Lepanto y Cabo Noval",
+		"photo": "JardinesdelaPlazadeOriente,LepantoyCaboNoval.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de la Plaza de la Villa de París",
+		"photo": "JardinesdelaPlazadelaVilladeParís.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de la Vega",
+		"photo": "JardinesdelaVega.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de la calle Teresita González Quevedo",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines de las Vistillas",
+		"photo": "JardinesdelasVistillas.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines del Arquitecto Ribera",
+		"photo": "JardinesdelArquitectoRibera.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines del Descubrimiento",
+		"photo": "JardinesdelDescubrimiento.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines del Doctor Fleming",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines del Mundial. Castellana",
+		"photo": "JardinesdelMundial.Castellana.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardines del Príncipe de Anglona",
+		"photo": "JardinesdelPríncipedeAnglona.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Invierno: de 10 a 18:30 horas Verano: de 10 a 22:00 horas"
+		}
+	},
+	{
+		"title": "Jardín Botánico de Pradolongo",
+		"photo": "JardínBotánicodePradolongo.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "De noviembre a febrero de lunes a sábado de 9 a 17:30 horas.De marzo a octubre de lunes a sábado de 9 a 19:30 horas."
+		}
+	},
+	{
+		"title": "Jardín Concejal Alejandro Muñoz Revenga",
+		"photo": "JardínConcejalAlejandroMuñozRevenga.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín Doña Concha Piquer",
+		"photo": " JardínDoñaConchaPiquer.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín Fachada Pirámides I",
+		"photo": "JardínFachadaPirámidesI.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín Glorieta de Azorín",
+		"photo": "JardínGlorietadeAzorín.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín Jazmín",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín Palacio O'Reilly",
+		"photo": "JardínPalacioO'Reilly.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Entrada por la calle Sacramento 7: de lunes a viernes de 7:00 a 17:30 horas. Sábados, domingos y festivos cerradoEntrada por la calle Rollo: de lunes a viernes de 7:15 a 19:00 horas. Sábados, domingos y festivos cerrado"
+		}
+	},
+	{
+		"title": "Jardín de Embajadores M-30",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín de Larra",
+		"photo": "JardíndeLarra.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín de la Colonia Congosto",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín de las Bellas Artes",
+		"photo": "",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín del Bulevar de Peña Gorbea",
+		"photo": "JardíndelBulevardePeñaGorbea.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín del Maestro Padilla",
+		"photo": "JardíndelMaestroPadilla.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín del Templo de Debod",
+		"photo": "JardíndelTemplodeDebod.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín del paseo Federico García Lorca",
+		"photo": "JardíndelpaseoFedericoGarcíaLorca.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín el Torero",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Jardín histórico El Capricho de la Alameda Osuna",
+		"photo": "JardínhistóricoElCaprichodelaAlamedaOsuna.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Del 1 de octubre al 31 de marzo sábados, domingos y festivos de 9 a 18:30 horas.Del 1 de abril al 30 de septiembre sábados, domingos y festivos de 9 a 21 horas.Los días 25 de diciembre y 1 de enero el parque permance cerrado al público."
+		}
+	},
+	{
+		"title": "Palacio de Cristal de la Arganzuela: Invernadero",
+		"photo": "PalaciodeCristaldelaArganzuela.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Invierno. De 16 de sptiembre a 14 de junio.De martes a viernes de 9 a 15 horas.Sábados, domingos y festivos de 10 a 14 horas. Verano. De 15 de junio a 15 de septiembre.De martes a viernes de 9 a 14 horas.Sábados, domingos y festivos de 10 a 14 horas."
+		}
+	},
+	{
+		"title": "Parque Agustín Rodríguez Sahagún",
+		"photo": "ParqueAgustínRodríguezSahagún.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Alcalde Jesús Pérez Quijano",
+		"photo": "ParqueAlcaldeJesúsPérezQuijano.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Alfredo Kraus",
+		"photo": "ParqueAlfredoKraus.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "Abierto todo el año."
+		}
+	},
+	{
+		"title": "Parque Almansa",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Aluche",
+		"photo": "ParqueAluche.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Aluche - Poblados",
+		"photo": "ParqueAluche-Poblados.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Alzola",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Antonio Pirala",
+		"photo": "ParqueAntonioPirala.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Anunciación",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Arquitecto Antonio Palacios",
+		"photo": "ParqueArquitectoAntonioPalacios.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Arroyo Fontarrón",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Arroyo Fresno",
+		"photo": "ParqueArroyoFresno.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Arroyo Pozuelo",
+		"photo": "ParqueArroyoPozuelo.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Arroyo de los Pinos",
+		"photo": "ParqueArroyodelosPinos.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Avenida de Portugal",
+		"photo": "ParqueAvenidadePortugal.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Azorín",
+		"photo": "ParqueAzorín.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Barrio Las Musas",
+		"photo": "ParqueBarrioLasMusas.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Begoña",
+		"photo": "ParqueBegoña.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Biosaludable",
+		"photo": "ParqueBiosaludable.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Campo de la Paloma",
+		"photo": "ParqueCampodelaPaloma.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Caramuel",
+		"photo": "ParqueCaramuel.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Cerro Almodóvar",
+		"photo": "ParqueCerroAlmodóvar.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Cerro Peñabel",
+		"photo": "ParqueCerroPeñabel.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Cerro del Tío Pío",
+		"photo": "ParqueCerrodelTíoPío.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Cerro Águila",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Ciudad de los Ángeles",
+		"photo": "ParqueCiudaddelosÁngeles.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Cuesta del Galbán",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Cuña Verde de Vicálvaro. Zona A",
+		"photo": "ParqueCuñaVerdedeVicálvaro.ZonaA.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Cuña Verde de Vicálvaro. Zona B",
+		"photo": "ParqueCuñaVerdedeVicálvaro.ZonaB.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Cuña Verde de Vicálvaro. Zona C",
+		"photo": "",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Dehesa de la Villa",
+		"photo": "ParqueDehesadelaVilla.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Duque de Ahumada",
+		"photo": "ParqueDuquedeAhumada.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque El Calero",
+		"photo": "ParqueElCalero.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque El Cedral",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque El Cruce",
+		"photo": "ParqueElCruce.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Emir Mohamed I",
+		"photo": "ParqueEmirMohamedI.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "10:00 a 21:00 horas, fines de semana y festivos"
+		}
+	},
+	{
+		"title": "Parque Emperatriz María de Austria",
+		"photo": "ParqueEmperatrizMaríadeAustria.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Enrique Tierno Galván",
+		"photo": "ParqueEnriqueTiernoGalván.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Entrevías Forestal",
+		"photo": "ParqueEntrevíasForestal.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Entrevías Urbano",
+		"photo": "ParqueEntrevíasUrbano.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Este de Valdebernardo",
+		"photo": "ParqueEstedeValdebernardo.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Eugenia de Montijo",
+		"photo": "ParqueEugeniadeMontijo.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Eva Duarte",
+		"photo": "ParqueEvaDuarte.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "Abierto de 7:30 a 00 horas"
+		}
+	},
+	{
+		"title": "Parque Forestal Fuente Carrantona",
+		"photo": "ParqueForestalFuenteCarrantona.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Forestal Julio Alguacil Gómez",
+		"photo": "ParqueForestalJulioAlguacilGómez.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Forestal de Valdebebas-Felipe VI",
+		"photo": "ParqueForestaldeValdebebas-FelipeVI.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "Primavera: 2 de marzo al 31 de mayo de 8 a 20:30 horasVerano: 1 de junio al 14 de octubre de 8 a 22 horasInvierno: 15 de octubre al 1 de marzo de 9 a 18:30 horas"
+		}
+	},
+	{
+		"title": "Parque Forestal de Vicálvaro",
+		"photo": "ParqueForestaldeVicálvaro.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Félix Rodríguez de la Fuente",
+		"photo": "ParqueFélixRodríguezdelaFuente.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque General Fanjul - Santa Margarita",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Hortaleza",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Abierto las 24 horas."
+		}
+	},
+	{
+		"title": "Parque Huerta del Obispo.",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Juan Carlos I",
+		"photo": "ParqueJuanCarlosI.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "De junio a septiembre: Todos los días de 7 a 1 horas.De octubre a mayo: Viernes y sábados de 7 a 24 horas. Resto de la semana de 7 a 23 horas.Para más información consultar 'Información detallada del Parque Juan Carlos I'"
+		}
+	},
+	{
+		"title": "Parque Juan Pablo II",
+		"photo": "ParqueJuanPabloII.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "Abierto de 7 a 23 horas."
+		}
+	},
+	{
+		"title": "Parque Juan de la Cosa",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque La Rinconada",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque La Viña",
+		"photo": "ParqueLaViña.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Ladera de los Almendros",
+		"photo": "ParqueLaderadelosAlmendros.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Lineal de Palomeras",
+		"photo": "ParqueLinealdePalomeras.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Lineal del Manzanares (Usera - Pte de Vallecas)",
+		"photo": "ParqueLinealdelManzanares(Usera-PtedeVallecas).jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "En Otoño e Invierno: de 7 a 22 horas.En Primavera y Verano: de 7 a 24 horas (se inicia el fin de semana del cambio a horario de verano)."
+		}
+	},
+	{
+		"title": "Parque Madrid Río",
+		"photo": "ParqueMadridRío.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Martala",
+		"photo": "ParqueMartala.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Martin Luther King",
+		"photo": "ParqueMartinLutherKing.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Meseta de Orcasitas",
+		"photo": "ParqueMesetadeOrcasitas.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Mirador de Tierno Galván",
+		"photo": "ParqueMiradordeTiernoGalván.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Mirador de las Cárcavas",
+		"photo": "ParqueMiradordelasCárcavas.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "Abierto las 24 horas."
+		}
+	},
+	{
+		"title": "Parque Norte",
+		"photo": "ParqueNorte.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Nudo Norte de Begoña",
+		"photo": "ParqueNudoNortedeBegoña.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Olof Palme",
+		"photo": "ParqueOlofPalme.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Orlando Zapata Tamayo",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Paseo Muñoz Grandes",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Payaso Fofó",
+		"photo": "ParquePayasoFofó.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Peñuelas",
+		"photo": "ParquePeñuelas.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Pinar de la Elipa",
+		"photo": "ParquePinardelaElipa.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Pinar del Rey",
+		"photo": "ParquePinardelRey.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "Abierto las 24 horas."
+		}
+	},
+	{
+		"title": "Parque Plaza Chozas de Canales",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Plaza Colonia Oroquieta",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Plaza de España",
+		"photo": "ParquePlazadeEspaña.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Quinta de los Molinos",
+		"photo": "ParqueQuintadelosMolinos.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "De 6:30 a 22 horas (durante todo el año)"
+		}
+	},
+	{
+		"title": "Parque Ramírez de Prado",
+		"photo": "ParqueRamírezdePrado.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Roma",
+		"photo": "ParqueRoma.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Salvador de Madariaga",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque San Blas. El Paraíso",
+		"photo": "ParqueSanBlas.ElParaíso.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque San José de Calasanz",
+		"photo": "ParqueSanJosédeCalasanz.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque San Juan Bautista",
+		"photo": "ParqueSanJuanBautista.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Sancho Dávila",
+		"photo": "ParqueSanchoDávila.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Santa Eugenia",
+		"photo": "ParqueSantaEugenia.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Santa Rita",
+		"photo": "ParqueSantaRita.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Segura",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Soto de Entrevías",
+		"photo": "ParqueSotodeEntrevías.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Urpisa",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Valdebernardo Este",
+		"photo": "ParqueValdebernardoEste.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Valle de Enmedio",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Vallecas Villa",
+		"photo": "ParqueVallecasVilla.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Vandel",
+		"photo": "ParqueVandel.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque Virgen de la Esperanza",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Alfonso XIII",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Amos Acero",
+		"photo": "ParquedeAmosAcero.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Ana Tutor",
+		"photo": "ParquedeAnaTutor.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Arriaga",
+		"photo": "ParquedeArriaga.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Atenas",
+		"photo": "ParquedeAtenas.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Berlín",
+		"photo": "ParquedeBerlín.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Breogán",
+		"photo": "ParquedeBreogán.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Canillejas",
+		"photo": "ParquedeCanillejas.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Comillas",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Darwin",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Enrique Herreros",
+		"photo": "ParquedeEnriqueHerreros.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "De 8 a 22 horas"
+		}
+	},
+	{
+		"title": "Parque de Francos Rodríguez",
+		"photo": "ParquedeFrancosRodríguez.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Fuencarral",
+		"photo": "ParquedeFuencarral.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Fuentechica",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Fuentelarreina",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Gabriela Mistral",
+		"photo": "ParquedeGabrielaMistral.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Isabel Clara Eugenia",
+		"photo": "ParquedeIsabelClaraEugenia.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Verano: de 7 a 1:30 horasInvierno: de 7 a 24 horas Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones."
+		}
+	},
+	{
+		"title": "Parque de Juan XXIII",
+		"photo": "ParquedeJuanXXIII.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Las Cruces",
+		"photo": "ParquedeLasCruces.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Malmoe",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Manoteras",
+		"photo": "ParquedeManoteras.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Pan Bendito",
+		"photo": "ParquedePanBendito.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Peñagrande",
+		"photo": "ParquedePeñagrande.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Pinar de Barajas",
+		"photo": "ParquedePinardeBarajas.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "Abierto las 24 horas."
+		}
+	},
+	{
+		"title": "Parque de Plata y Castañar",
+		"photo": "ParquedePlatayCastañar.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Pradolongo",
+		"photo": "ParquedePradolongo.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Rafael Finat",
+		"photo": "ParquedeRafaelFinat.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Salvador Allende",
+		"photo": "ParquedeSalvadorAllende.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de San Isidro",
+		"photo": "ParquedeSanIsidro.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Santa Ana",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de Villa Rosa-Paco Caño",
+		"photo": "ParquedeVillaRosa-PacoCaño.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Abierto las 24 horas."
+		}
+	},
+	{
+		"title": "Parque de la Alcazaba",
+		"photo": "ParquedelaAlcazaba.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Almudena",
+		"photo": "",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Amistad",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Bombilla",
+		"photo": "ParquedelaBombilla.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Casa de Campo",
+		"photo": "ParquedelaCasadeCampo.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Durante todo el año, ininterrumpido para peatones.Cerrado al tráfico privado.Los accesos del Zoo, Parque de Atracciones, Paseo de Extremadura y zona del Lago se cierran de 1 a 6 horas."
+		}
+	},
+	{
+		"title": "Parque de la Cuña Verde de Latina",
+		"photo": "ParquedelaCuñaVerdedeLatina.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Cuña Verde de O´Donnell",
+		"photo": "ParquedelaCuñaVerdedeO´Donnell.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Dehesa Boyal",
+		"photo": "ParquedelaDehesaBoyal.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Gavia",
+		"photo": "ParquedelaGavia.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Maceta",
+		"photo": "ParquedelaMaceta.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Supermanzana",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Ventilla",
+		"photo": "ParquedelaVentilla.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Vicalvarada",
+		"photo": "ParquedelaVicalvarada.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de la Volatería",
+		"photo": "ParquedelaVolatería.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de las Avenidas",
+		"photo": "ParquedelasAvenidas.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de las Delicias",
+		"photo": "ParquedelasDelicias.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque de los Llanos",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Abierto las 24 horas."
+		}
+	},
+	{
+		"title": "Parque de los Tilos",
+		"photo": "",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque del Bronce",
+		"photo": "ParquedelBronce.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque del Espinillo",
+		"photo": "ParquedelEspinillo.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque del Museo del Prado",
+		"photo": "ParquedelMuseodelPrado.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque del Oeste",
+		"photo": "ParquedelOeste.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parque del Pueblo del Pardo",
+		"photo": "ParquedelPueblodelPardo.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Pinar Santa Eugenia",
+		"photo": "",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Plaza Mayor de Barajas",
+		"photo": "PlazaMayordeBarajas.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Plaza de Murillo",
+		"photo": "PlazadeMurillo.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Plaza de la Lealtad",
+		"photo": "PlazadelaLealtad.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Quinta de Torre Arias",
+		"photo": "QuintadeTorreArias.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "Horario:Del 1 de octubre al 31 de marzo de 10,00 a 17,30 horas.Del 1 de abril al 30 de septiembre de 10,00 a 20,30 horasLas visitas guiadas por educadores ambientales, http://www.madrid.es/habitatmadrid Las visitas serán gratuitas y pueden reservarse en el teléfono 916 397 869 ó a través del correo electrónico paa@talher.com"
+		}
+	},
+	{
+		"title": "Quinta de la Fuente del Berro",
+		"photo": "QuintadelaFuentedelBerro.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "Del 1 de octubre al 31 de marzo de 6:30 a 22 horas.Del 1 de abril al 30 de septiembre de 6:30 a 24 horas."
+		}
+	},
+	{
+		"title": "Rosaleda de Madrid. Parque del Oeste",
+		"photo": "RosaledadeMadridParquedelOeste.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De 1 de noviembre a 1 de marzo: de 10:00 a 18:00 horas De 1 de marzo a 15 de abril: de 10:00 a 19:00 horasDe 16 de abril a 15 de septiembre: de 10:00 a 21:00 horasDe 16 de septiembre a 31 de octubre: de 10:00 a 19:00 horasLos días de la celebración del Concurso Internacional de Rosas Nuevas Villa de Madrid permanecerá cerrada hasta las 15:00 horas. Entrada gratuita"
+		}
+	},
+	{
+		"title": "Vivero Estufas de El Retiro",
+		"photo": "ViveroEstufasdeElRetiro.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "Invierno de 7 a 23 horas.El acceso al público está gestionado a través de visitas guiadas en grupos organizados."
+		}
+	},
+	{
+		"title": "Vivero de la Casa de Campo",
+		"photo": "ViverodelaCasadeCampo.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "Invierno de 8 a 15 horasVerano de 7 a 14 horasEl acceso al público está gestionado a través de visitas guiadas en grupos organizados."
+		}
+	},
+	{
+		"title": "Vivero municipal de Migas Calientes",
+		"photo": "",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "De 8 a 15 horas."
+		}
+	},
+	{
+		"title": "Zona verde C/ Fresnedillas",
+		"photo": "ZonaverdeCFresnedillas.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Área Forestal de Tres Cantos",
+		"photo": "ÁreaForestaldeTresCantos.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	}	  
+]

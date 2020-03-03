@@ -7,12 +7,11 @@ const Like = require('../models/like.model')
 const museumsMadrid = require('../data/mocked/museums.madrid.json')
 const museumsHandleMadrid = require('../data/mocked/museumsHandle.madrid.json')
 
-let DDBBMuseums = []
 
 function createMuseumsMadrid(cityMadrid) {
-  const createdMuseums = 0
+  let DDBBMuseums = []
 
-  for (let i = 0; i < 10 /*museumsMadridlength*/; i++) {
+  for (let i = 0; i < museumsMadrid.length; i++) {
     const newMuseum = new Place({
       name: museumsMadrid[i].title,
       city: cityMadrid._id,
@@ -21,40 +20,40 @@ function createMuseumsMadrid(cityMadrid) {
       cityRate: museumsHandleMadrid[i].cityRate
     })
 
-    newMuseum.save()
-      .then(() => createdMuseums++ )
+    DDBBMuseums.push(
+      newMuseum.save()
+    )
   }
-  console.log(`${createdMuseums} museums have been created`)
+  Promise.all(DDBBMuseums)
+    .then(museums => {
+      console.log(`${museums.length} museums have been created`)
+    })
+    .catch(error => console.log(error))
 }
 
-City.findOne({ name: 'Madrid' })
-  console.log('aquiiiiiiiiiiiii')
+City.findOne({ name: 'Madridtest' })  /////////////////////////////// CAMBIAR A MADRID!!!!!!
   .then(oldMadrid => {
     const oldMadridId = oldMadrid._id
     Promise.all([
-      City.findOneAndDelete({ name: 'Madrid' }),
+      City.findOneAndDelete({ name: 'Madridtest' }),  /////////////////////////////// CAMBIAR A MADRID!!!!!!
       Place.deleteMany({ city: oldMadridId})
     ])
       .then(() => {
         const madrid = new City({
-          __type: 'city',
-          name: 'Madrid',
-          country: 'Spain',
-          email: 'madrid@routrist.com',
-          password: 123456789,
-          photo: 'https://res.cloudinary.com/dewymafth/image/upload/v1583169321/cities/madrid.jpg',
-          validated: true,
+            name: "Madridtest",
+            country: "Spain",
+            email: "MadridTEST@routrist.com",
+            password: "123456789",
+            photo: 'https://res.cloudinary.com/dewymafth/image/upload/v1583169321/cities/madrid.png',
+            validated: true
         })
 
-        madrid.save()
-          .then(madrid => {
-            console.log(`${madrid.name} city has been created`)
-            /*Promise.all([
-              createMuseumsMadrid(madrid)
-            ])
-            .then(() => {
-              console.log('seeds finished')
-            })*/
-          })
+        return madrid.save()
+      })
+        .then(cityMadrid => {
+          console.log(`${cityMadrid.name} has been created`)
+          createMuseumsMadrid(cityMadrid)
+        })
+        .catch(error => console.log(error))
   })
   .catch(error => console.log(error))

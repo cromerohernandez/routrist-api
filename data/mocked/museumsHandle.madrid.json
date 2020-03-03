@@ -1,1622 +1,556 @@
 [	
 	{
-		"title": "Jardines Gregorio Ordóñez",
-		"photo": "JardinesGregorioOrdóñez.jpg",
+		"title": "Casa Museo Lope de Vega",
+		"photo": "CasaMuseoLopedeVega.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De martes a domingo de 10 a 18 horas (último pase a las 17 horas) Cerrado los lunes, días 1 y 6 de enero, 1 de mayo, 9 de noviembre y 24, 25 y 31 de diciembre."
+		}
+	},
+	{
+		"title": "Casita - Museo del Ratón Pérez",
+		"photo": "Casita-MuseodelRatónPérez.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Lunes  de 17 a 20 horas.De martes a viernes de 11 a 14 horas y de 17 a 20 horas.Sábados de 11 a 15 horas y de 16 a 20 horas.Domingos y festivos consultar"
+		}
+	},
+	{
+		"title": "Castillo de la Alameda",
+		"photo": "CastillodelaAlameda.jpg",
 		"cityRate": "2",
 		"organization": {
-			"schedule": ""
+			"schedule": "Abierto solo en fin de semana (sábado y domingo) y festivos (lunes festivos incluidos)Del 1 de abril al 15 de junio de 10 a 21 horas.Del 16 de junio al 15 de septiembre de 10 a 20 horas.Del 15 al 30 de septiembre de 10 a 21 horas.De octubre a marzo de 10 a 18 horas.Cerrado: 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre."
 		}
 	},
 	{
-		"title": "Jardines San Francisco el Grande",
-		"photo": "JardinesSanFranciscoelGrande.jpg",
+		"title": "Casón del Buen Retiro. Museo Nacional del Prado, Centro de Estudios",
+		"photo": "CasóndelBuenRetiro.MuseoNacionaldelPrado_CentrodeEstudios.jpg",
 		"cityRate": "4",
 		"organization": {
-			"schedule": "",
+			"schedule": "Mañanas (de 1 octubre a 31 mayo)Lunes y miércoles, de 8:30 a 17 horas (Servicio de libros y otros materiales hasta las 16:30 horas)Martes y jueves, de 8:30 a 15 horas (Servicio de libros y otros materiales hasta las 14:30 horas)Viernes, de 8:30 a 14 horas (Servicio de libros y otros materiales hasta las 13:30 horas) Horario de verano (de 1 junio a 30 septiembre)Lunes a jueves, de 9 a 14:30 horas (Servicio de libros y otros materiales hasta las 14 horas)Viernes, de 9 a 14 horas (Servicio de libros y otros materiales hasta las 13:30 horas)"
 		}
 	},
 	{
-		"title": "Jardines de Andrés Saborit",
-		"photo": "JardinesdeAndrésSaborit.jpg",
+		"title": "Centro Social y Cultural La Casa Encendida",
+		"photo": "CentroSocialyCulturalLaCasaEncendida.jpg",
 		"cityRate": "3",
 		"organization": {
-			"schedule": ""
+			"schedule": "De martes a domingo de 10 a 22 horas.Cierre de salas de exposiciones 21:45 horas.Más horarios en la pestaña 'Servicios'."
 		}
 	},
 	{
-		"title": "Jardines de El Buen Retiro",
-		"photo": "JardinesdeElBuenRetiro.jpg",
-		"cityRate": "5",
+		"title": "Ermita de San Antonio de la Florida (Museo)",
+		"photo": "ErmitadeSanAntoniodelaFlorida_Museo.jpg",
+		"cityRate": "4",
 		"organization": {
-			"schedule": "Horario del parque  Primavera y verano (de abril a septiembre): desde las 6 hasta las 24 h. Otoño e invierno (de octubre a marzo): desde las 6 hasta las 22 h.  Horario de las áreas caninas  Desde las 7:30 h hasta el cierre del parque.Para labores puntuales de mantenimiento o reparaciones, se cerrará parcialmente el área, permitiendo el paso por una de las dos puertas a la zona que quede libre de la actuación.Se instalarán carteles para informar de estos periodos de cierre parcial del espacio con 24 h de antelación a su comienzo."
+			"schedule": "General de martes a domingos de 9:30 a 20 horas. Verano del 15 de junio al 15 de septiembre: de martes a viernes de 9:30 a 14 horas.sábados, domingos y festivos de 9:30 a 19 horas. Cerrado:  lunes (incluidos festivos), 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre. Último pase de visita: 20 minutos antes del cierre (el desalojo de las salas comenzará 10 minutos antes)Este horario y la apertura de salas pueden sufrir modificaciones."
 		}
 	},
 	{
-		"title": "Jardines de Gloria Fuertes",
-		"photo": "JardinesdeGloriaFuertes.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines de José Luis Jiménez Manso",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines de Perón",
-		"photo": "JardinesdePerón.jpg",
+		"title": "EspacioFundaciónTelefónica",
+		"photo": "EspacioFundaciónTelefónica.jpg",
 		"cityRate": "3",
 		"organization": {
-			"schedule": ""
+			"schedule": "De martes a domingo, de 10 a 20 horas.Cerrado al público todos los lunes y días 25 de diciembre, 1 y 6 de enero."
 		}
 	},
 	{
-		"title": "Jardines de Sabatini",
-		"photo": "JardinesdeSabatini.jpg",
+		"title": "Fundación AMYC (Arte Moderno y Contemporáneo). Casa Museo Fuente del Rey",
+		"photo": "FundaciónAMYC_Arte_ModernoyContemporáneo_.CasaMuseoFuentedelRey.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Siempre con reserva previa telefónica, de lunes a viernes de 10 a 19 horas.Visitas para grupos de hasta 25 personas dentro de los horarios de apertura. Pueden ser con guía propio o con guía de la Fundación, y la duración de la misma es de una hora."
+		}
+	},
+	{
+		"title": "Monasterio de las Descalzas Reales",
+		"photo": "MonasteriodelasDescalzasReales.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Sólo con visita guiada .  De martes a sábado de 10 a 14 horas y de 16 a 18:30 horas.Domingos y festivos, de 10 a 15 horas. Cerrado los lunes.Cierre taquillas y acceso al Monasterio una hora antes.Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente."
+		}
+	},
+	{
+		"title": "Museo ABC",
+		"photo": "MuseoABC.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De martes a sábado de 12 a 20 horasDomingos de 10 a 14 horas Lunes cerrado Cerrado los días:1 y 6 de enero1 de mayo24, 25 y 31 de diciembre"
+		}
+	},
+	{
+		"title": "Museo Africano Mundo Negro",
+		"photo": "MuseoAfricanoMundoNegro.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "Grupos con cita previa: de lunes a viernes de 9:30 a 13:30 horas. Individuales: Visitas guiadas sin cita previa los domingos a las 11:30 horas."
+		}
+	},
+	{
+		"title": "Museo Arqueológico Nacional",
+		"photo": "MuseoArqueológicoNacional.jpg",
 		"cityRate": "5",
 		"organization": {
-			"schedule": "Está abierto al público todos los días del año. No cierra al medio día.       Invierno (de octubre a abril): de 9 a 21 horas.       Verano (de mayo a septiembre): de 9 a 22 horas."
+			"schedule": "De martes a sábados de 9:30 a 20 horas.Domingos y festivos de 9:30 a 15 horas. Cerrado Todos los lunes del año.1 y 6 de enero, 1 y 15 de mayo, 9 de noviembre y 24, 25 y 31 de diciembre.Además: días de cierre  Horario de cierre de las taquillas: 15 minutos antes del cierre del Museo."
 		}
 	},
 	{
-		"title": "Jardines de San Fernando",
-		"photo": "JardinesdeSanFernando.jpg",
-		"cityRate": "1",
+		"title": "Museo Casa de la Moneda",
+		"photo": "MuseoCasadelaMoneda.jpg",
+		"cityRate": "2",
 		"organization": {
-			"schedule": ""
+			"schedule": "De martes a viernes ininterrumpidamente de 10 a 20. Sábados, domingos y festivos de 10 a 14:15 horas.Cerrado los lunes (incluidos festivos), y los días 1 de enero;  1 y 2 de mayo;  24, 25 y 31 de diciembre."
 		}
 	},
 	{
-		"title": "Jardines de la Avenida de Brasil",
-		"photo": "",
-		"cityRate": "1",
+		"title": "Museo Cerralbo",
+		"photo": "MuseoCerralbo.jpg",
+		"cityRate": "4",
 		"organization": {
-			"schedule": ""
+			"schedule": "De martes a sábado de 9:30 a 15 horas.Jueves, aperturaextraordinaria por la tarde, de 17 a 20 horas, excepto festivos.Domingos y festivos de 10 a 15 horas.Cerrado: todos los lunes, 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre, una fiesta local."
 		}
 	},
 	{
-		"title": "Jardines de la Basílica",
-		"photo": "",
-		"cityRate": "1",
+		"title": "Museo EMT",
+		"photo": "MuseoEMT.jpg",
+		"cityRate": "2",
 		"organization": {
-			"schedule": ""
+			"schedule": "Visitas (con cita previa) Apertura estacional durante seis meses al año: todos los sábados de abril, mayo, junio, julio, septiembre y octubre), a las 10, a las 11:30 y a las 13 horas.Por ser un centro de trabajo únicamente pueden realizarse de forma organizada, previamente concertadas y limitadas a un máximo de 40 personas por turno.Duración: 60 minutos aproximadamente.Compra de entradas y reserva de horarios a través de la web: http://tienda.emtmadrid.es (a partir del 1 de marzo de 2018)."
+		}
+	},
+	{
+		"title": "Museo Félix Cañada",
+		"photo": "MuseoFélixCañada.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "Visitas guiadas para grupos: lunes, miércoles y viernes, de 10 a 13 horas, previa solicitud."
+		}
+	},
+	{
+		"title": "Museo Geominero",
+		"photo": "MuseoGeominero.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "De lunes a domingo y festivos de 9 a 14 horas.Cerrado los días 1 y 6 de enero y 24, 25 y 31 de diciembre."
+		}
+	},
+	{
+		"title": "Museo Histórico Minero Don Felipe de Borbón y Grecia",
+		"photo": "MuseoHistóricoMineroDonFelipedeBorbónyGrecia.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "De lunes a viernes, de 9 a 14 horas."
+		}
+	},
+	{
+		"title": "Museo ICO",
+		"photo": "MuseoICO.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De martes a sábados: de 11 a 20 horas.  Domingos y festivos: de 10 a 14 horas.  Cerrado: Todos los lunes del año."
+		}
+	},
+	{
+		"title": "Museo Los Caños del Peral. Estación de Metro Ópera",
+		"photo": "MuseoLosCañosdelPeral.EstacióndeMetroÓpera.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "Viernes, sábados y domingos de 11 a 13 y de 17 a 19 horas"
+		}
+	},
+	{
+		"title": "Museo Lázaro Galdiano",
+		"photo": "MuseoLázaroGaldiano.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Martes a sábados de 10 a 16:30 horas.Domingos de 10 a 15 horas.Cerrado todos los lunes, 1 y 6 de enero, jueves y viernes santo, 12 octubre, 2 y 9 noviembre,  7, 24, 25 y 31 diciembre 2020.Grupos y visitas guiadas consultar."
+		}
+	},
+	{
+		"title": "Museo Nacional Centro de Arte Reina Sofía (MNCARS)",
+		"photo": "MuseoNacionalCentrodeArteReinaSofía.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Lunes y de miércoles a sábado, de 10 a 21 horasMartes cerrado (incluso festivos)Domingos de 10 a 19 horasCerrado: 1 y 6 enero, 1 y 15 mayo, 9 noviuembre, 24, 25 y 31 diciembre"
+		}
+	},
+	{
+		"title": "Museo Nacional Thyssen-Bornemisza",
+		"photo": "MuseoNacionalThyssen-Bornemisza.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Colecciones permanentes:  lunes de 12 a 16 horas (acceso gratuito gracias al patrocinio de MasterCard). Martes a domingos de 10 a 19 horas.  Exposiciones temporales: consultar horario específico en Museo.Último acceso 1 hora antes del cierre. El desalojo de todas las salas tendrá lugar 5 minutos antes del cierre. Avisos y aperturas extraordinarias: los días 1 de enero, 1 de mayo y 25 de diciembre el Museo permanecerá cerrado. El 24 y el 31 de diciembre el horario de apertura del Museo será de 10 a 15 horas."
+		}
+	},
+	{
+		"title": "Museo Nacional de Antropología",
+		"photo": "MuseoNacionaldeAntropología.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De martes a sábado de 9:30 a 20 horas.Domingos y festivos: de 10 a 15 horas.Cerrado todos los lunes del año y los días 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre y un festivo local.La taquilla se cerrará 15 minutos antes del cierre."
+		}
+	},
+	{
+		"title": "Museo Nacional de Artes Decorativas",
+		"photo": "MuseoNacionaldeArtesDecorativas.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "Martes a sábados de 9:30 a 15 horas.Domingo y festivos: de 10 a 15 horas.Jueves tarde de 17 a 20 horas (excepto julio y agosto). Cerrado:  todos los lunes, 1 y 6 de enero, 1 y 15 de mayo, 24, 25 y 31 de diciembre.  La venta de entradas finalizará 30 minutos antes del cierre."
+		}
+	},
+	{
+		"title": "Museo Nacional de Ciencias Naturales",
+		"photo": "MuseoNacionaldeCienciasNaturales.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "De martes a viernes de 10 a 17 horas.Sábados, domingos y festivos de 10 a 20 horas.Cerrado los lunes (excepto los festivos).Cerrado el 1 y 6 de enero, el 1 de mayo y el 25 de diciembre.Los días 24 y 31 de diciembre el museo permanecerá abierto de 10 a 15 horas."
+		}
+	},
+	{
+		"title": "Museo Naval",
+		"photo": "MuseoNaval.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De martes a domingo de 10 a 19 horasCerrado los lunes y los festivos 1 y 6 de enero y 24, 25 y 31 de diciembreAgosto, martes a domingo de 10 a 15 horasPor motivos de seguridad el desalojo de las salas se realiza 15 minutos antes del cierre."
+		}
+	},
+	{
+		"title": "Museo Postal y Telegráfico",
+		"photo": "MuseoPostalyTelegráfico.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "De lunes a viernes de 9 a 14 y de 16 a 18 horas."
 		}
 	},
 	{
 
-		"title": "Jardines de la Plaza Conde del Valle de Suchil",
-		"photo": "JardinesdelaPlazaCondedelValledeSuchil.jpg",
-		"cityRate": "3",
+		"title": "Museo Sorolla",
+		"photo": "MuseoSorolla.jpg",
+		"cityRate": "4",
 		"organization": {
-			"schedule": ""
+			"schedule": "De martes a sábado: de 9:30 a 20 horas Domingos y festivos: de 10 a 15 horasCerrado: todos los lunes del año, 1 de enero, 6 de enero, 1 de mayo, 9 noviembre, 24, 25 y 31 de diciembre"
 		}
 	},
 	{
-		"title": "Jardines de la Plaza de Chamberí",
-		"photo": "JardinesdelaPlazadeChamberí.jpg",
-		"cityRate": "3",
+		"title": "Museo Taurino de la Comunidad de Madrid",
+		"photo": "MuseoTaurinodelaComunidaddeMadrid.jpg",
+		"cityRate": "1",
 		"organization": {
-			"schedule": ""
+			"schedule": "Fuera de Temporada: De lunes a domingo: de 10 a 18 horas. Temporada Taurina: De lunes a domingo: de 10 a 18 horas, exceptuando días de festejo que abrirá de 10 a 16 horas."
 		}
 	},
 	{
-		"title": "Jardines de la Plaza de Olavide",
-		"photo": "JardinesdelaPlazadeOlavide.jpg",
-		"cityRate": "3",
+		"title": "Museo Tiflológico",
+		"photo": "MuseoTiflológico.jpg",
+		"cityRate": "1",
 		"organization": {
-			"schedule": ""
+			"schedule": "Martes a viernes, de 10 a 15 horas y de 16 a 19 horas.Sábados de 10 a 14 horas.Cerrado: lunes, domingos y festivos.Consultar cierres especiales en http://museo.once.es  Última visita 30 minutos antes del cierre Las visitas colectivas de grupos se realizan previa reserva.Hay visita colectiva guiada en inglés previa reservaReservas de 8:30 a 13 horas y de 16 a 19 horas llamando al teléfono 915 894 219"
 		}
 	},
 	{
-		"title": "Jardines de la Plaza de Oriente, Lepanto y Cabo Noval",
-		"photo": "JardinesdelaPlazadeOriente,LepantoyCaboNoval.jpg",
+		"title": "Museo de Aeronáutica y Astronáutica",
+		"photo": "MuseodeAeronáuticayAstronáutica.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "De martes a domingo de 10 a 14 horasCerrado los días 1 y 6 de enero, Jueves y Viernes Santos, 12 de octubre, 10 de diciembre (Patrona de Aviación), 24, 25 y 31 de diciembre y días establecidos en calendario anual."
+		}
+	},
+	{
+		"title": "Museo de América",
+		"photo": "MuseodeAmérica.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "Horario: De martes a sábado, de 9:30 a 15 horas.Jueves, apertura continuada de 9:30 a 19 horas.Domingos y festivos de 10 a 15 horas. Horario de atención telefónica: de lunes a viernes de 10:00 a 14:00 horas. Cerrado: todos los lunes del año, días 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre y un festivo local."
+		}
+	},
+	{
+		"title": "Museo de Arte Contemporáneo de Madrid",
+		"photo": "MuseodeArteContemporáneodeMadrid.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "De martes a viernes:mañanas de 10 a 14 horastardes de 15 a 21 horas Sábados  mañas de 10 a 14 horastardes de 17:30 a 21 horasDomingos y festivos de 10:30 a 14:30 horas    Cerrado Todos los lunes, 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre.Las salas se desalojan 15 minutos antes del cierre."
+		}
+	},
+	{
+		"title": "Museo de Artes y Tradiciones Populares. Centro Cultural La Corrala",
+		"photo": "MuseodeArtesyTradicionesPopulares.CentroCulturalLaCorrala.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Lunes a viernes de 10 a 20 horas. Sábados de 10 a 14 horas.Cerrado domingos, festivos y mes de agosto, 24 y 31 diciembre."
+		}
+	},
+	{
+		"title": "Museo de Astronomía y Geodesia",
+		"photo": "MuseodeAstronomíayGeodesia.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Visita con cita previa."
+		}
+  },
+  {
+		"title": "Museo de Bomberos",
+		"photo": "MuseodeBomberos.jpg",
+		"cityRate": "1",
+		"organization": {
+      "schedule": "Abierto todos los días de 09'30 a 14 horas, excepto 25 de diciembre, 1 enero, 6 de enero y 1 de mayo. Visitas Guiadas Se pueden concertar en el teléfono: 914 786 572 (Museo)Más información: 915 889 907 - 915 888 240"
+    }
+	},
+	{
+		"title": "Museo de Calcografía Nacional",
+		"photo": "MuseodeCalcografíaNacional.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Abierto con el mismo horario que la exposición temporal. En ausencia de exposiciones temporales, consultar en la taquilla del museo, telefónicamente o en la web."
+		}
+	},
+	{
+		"title": "Museo de Cera",
+		"photo": "MuseodeCera.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "De lunes a viernes de 10 a 14 y de 16:30 a 20 horas.Sábados, domingos y festivos de 10 a 20 horas.Las taquillas cierran media hora antes."
+		}
+	},
+	{
+
+		"title": "Museo de Escultura al Aire Libre de la Castellana",
+		"photo": "MuseodeEsculturaalAireLibredelaCastellana.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "Entrada libre. Espacio urbano abiertoAbierto 24 horas al día los 365 días del año."
+		}
+	},
+	{
+		"title": "Museo de Historia de Madrid",
+		"photo": "MuseodeHistoriadeMadrid.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De martes a domingos de 10 a 20 horas. Verano: de martes a domingos de 10 a 19 horas. Cerrado: lunes y los días 1 y 6 de enero, 1 de mayo,  24, 25 y 31 de diciembre. El desalojo de las salas se hará diez minutos antes del cierre."
+		}
+	},
+	{
+		"title": "Museo de Historia de la Comunidad Judía de Madrid",
+		"photo": "MuseodeHistoriadelaComunidadJudíadeMadrid.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Visitas guiadas Para realizar las  visitas tienen que solicitarlas previamente en el correo electrónico visitas@cjmadrid.org, aportando nombre, apellidos y Documento Nacional de Identidad."
+		}
+	},
+	{
+		"title": "Museo de Mineralogía",
+		"photo": "MuseodeMineralogía.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Martes, miércoles y jueves, de 12:30 a 14:30 horas.Visitas guiadas o a otras horas, concertando previamente en el teléfono 913 974 132."
+		}
+	},
+	{
+		"title": "Museo de San Isidro. Los Orígenes de Madrid",
+		"photo": "MuseodeSanIsidro_LosOrígenesdeMadrid.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De martes a domingo y festivos de 10 a 20 horas.Último pase de visita 15 minutos antes del cierre. Verano, del 16 de junio al 15 de septiembre: de martes a domingo de 10 a 19 horas. Cerrado todos los lunes, el 1 y 6 de enero, el 1 de mayo y los días 24, 25 y 31 de diciembre."
+		}
+	},
+	{
+		"title": "Museo de Sanidad e Higiene Pública",
+		"photo": "MuseodeSanidadeHigienePública.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Sólo visitas de grupo con cita previa: de lunes a viernes laborables, de 10 a 14 horas."
+		}
+	},
+	{
+		"title": "Museo de la Biblioteca Nacional de España",
+		"photo": "MuseodelaBibliotecaNacionaldeEspaña.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "De lunes a sábados: de 10 a 20 horas.Domingos y festivos: de 10 a 14 horas.Consultar calendario de cierre."
+		}
+	},
+	{
+		"title": "Museo de la Catedral de la Almudena",
+		"photo": "MuseodelaCatedraldelaAlmudena.jpg",
 		"cityRate": "5",
 		"organization": {
-			"schedule": ""
+			"schedule": "De lunes a sábado de 10 a 14:30 horas.Cerrado los domingos, fiestas de precepto y días de actos de culto especiales en la Catedral. Consultar agenda."
 		}
 	},
 	{
-		"title": "Jardines de la Plaza de la Villa de París",
-		"photo": "JardinesdelaPlazadelaVilladeParís.jpg",
+		"title": "Museo de la Farmacia Hispana",
+		"photo": "MuseodelaFarmaciaHispana.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Se realizan durante el curso lectivo, de lunes a viernes y en horario de mañana. Consultar al pedir cita"
+		}
+	},
+	{
+		"title": "Museo de la Guardia Civil",
+		"photo": "MuseodelaGuardiaCivil.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "Horario: de lunes a viernes de 9 a 14 horas. Cerrado, sábados, domingos y festivos."
+		}
+	},
+	{
+		"title": "Museo de la Real Academia de Bellas Artes de San Fernando",
+		"photo": "MuseodelaRealAcademiadeBellasArtesdeSanFernando.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Colección permanente:De martes a domingos y festivos de 10 a 15 horas.Último sábado de cada mes de 10 a 20 horas.Cerrado: todos los lunes y el mes de agosto.Exposiciones temporales: consultar el apartado específico de la exposición temporal.Días cerrados: 1 y 6 de enero; 1 y 30 de mayo; 9 de noviembre; 24, 25 y 31 de diciembre. En periodos vacacionales pueden sufrir cambios."
+		}
+  },
+  {
+		"title": "Museo del Ferrocarril de Madrid",
+		"photo": "MuseodelFerrocarrildeMadrid.jpg",
 		"cityRate": "3",
 		"organization": {
-			"schedule": ""
+			"schedule": "De octubre a mayo: Lunes a viernes, de 9.30 a 15.00 horas.Sábados y festivos de 10.00 a 19.00 horas.Domingos, de 10 a 15 horas. De junio a septiembre: Lunes a domingo, de 10.00 a 15.00 horas. Cerrado: 25 de diciembre, 1 y 6 de enero."
 		}
 	},
 	{
-		"title": "Jardines de la Vega",
-		"photo": "JardinesdelaVega.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines de la calle Teresita González Quevedo",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines de las Vistillas",
-		"photo": "JardinesdelasVistillas.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines del Arquitecto Ribera",
-		"photo": "JardinesdelArquitectoRibera.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines del Descubrimiento",
-		"photo": "JardinesdelDescubrimiento.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines del Doctor Fleming",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": "",
-		}
-	},
-	{
-		"title": "Jardines del Mundial. Castellana",
-		"photo": "JardinesdelMundial.Castellana.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines del Príncipe de Anglona",
-		"photo": "JardinesdelPríncipedeAnglona.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": "Invierno: de 10 a 18:30 horas Verano: de 10 a 22:00 horas"
-		}
-	},
-	{
-		"title": "Jardín Botánico de Pradolongo",
-		"photo": "JardínBotánicodePradolongo.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": "De noviembre a febrero de lunes a sábado de 9 a 17:30 horas.De marzo a octubre de lunes a sábado de 9 a 19:30 horas."
-		}
-	},
-	{
-		"title": "Jardín Concejal Alejandro Muñoz Revenga",
-		"photo": "JardínConcejalAlejandroMuñozRevenga.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín Doña Concha Piquer",
-		"photo": " JardínDoñaConchaPiquer.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín Fachada Pirámides I",
-		"photo": "JardínFachadaPirámidesI.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín Glorieta de Azorín",
-		"photo": "JardínGlorietadeAzorín.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín Jazmín",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín Palacio O'Reilly",
-		"photo": "JardínPalacioO'Reilly.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": "Entrada por la calle Sacramento 7: de lunes a viernes de 7:00 a 17:30 horas. Sábados, domingos y festivos cerradoEntrada por la calle Rollo: de lunes a viernes de 7:15 a 19:00 horas. Sábados, domingos y festivos cerrado"
-	},
-	{
-		"title": "Jardín de Embajadores M-30",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín de Larra",
-		"photo": "JardíndeLarra.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín de la Colonia Congosto",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín de las Bellas Artes",
-		"photo": "",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín del Bulevar de Peña Gorbea",
-		"photo": "JardíndelBulevardePeñaGorbea.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín del Maestro Padilla",
-		"photo": "JardíndelMaestroPadilla.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín del Templo de Debod",
-		"photo": "JardíndelTemplodeDebod.jpg",
+		"title": "Museo del Prado",
+		"photo": "MuseodelPrado.jpg",
 		"cityRate": "5",
 		"organization": {
-			"schedule": ""
+			"schedule": "De lunes a sábado de 10 a 20 horasDomingos y festivos de 10 a 19 horasCerrado los días 1 de enero, 1 de mayo y 25 de diciembreHorario reducido, de 10 a 14 horas, los días 6 de enero, 24 y 31 de diciembreHorario gratuito, de lunes a sábado de 18 a 20 horas y domingos y festivos de 17 a 19 horas Durante las dos últimas horas de apertura, 50% de reducción en el precio de la entrada a las exposiciones temporales"
 		}
 	},
 	{
-		"title": "Jardín del paseo Federico García Lorca",
-		"photo": "JardíndelpaseoFedericoGarcíaLorca.jpg",
+		"title": "Museo del Reloj Grassy",
+		"photo": "MuseodelRelojGrassy.jpg",
 		"cityRate": "1",
 		"organization": {
-			"schedule": ""
+			"schedule": "Las visitas se efectúan con cita previa en el teléfono 915 321 007."
 		}
 	},
 	{
-		"title": "Jardín el Torero",
-		"photo": "",
+		"title": "Museo del Romanticismo",
+		"photo": "MuseodelRomanticismo.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Horario de invierno (de noviembre a abril)De martes a sábado: de 9:30 a 18:30. Domingos y festivos: de 10 a 15 horas Horario de verano (de mayo a octubre)De martes a sábado: de 9:30 a 20:30. Domingos y festivos: de 10 a 15 horas Cerrado: Todos los lunes, 1 y 6 enero, 1 mayo, 9 noviembre, 24, 25 y 31 diciembre"
+		}
+	},
+	{
+		"title": "Museo del Seguro. Fundación Mapfre",
+		"photo": "MuseodelSeguro.FundaciónMapfre.jpg",
 		"cityRate": "1",
 		"organization": {
-			"schedule": ""
+			"schedule": "De lunes a viernes previa reserva a través de este enlace."
 		}
 	},
 	{
-		"title": "Jardín histórico El Capricho de la Alameda Osuna",
-		"photo": "JardínhistóricoElCaprichodelaAlamedaOsuna.jpg",
+		"title": "Museo del Traje. Centro de Investigación del Patrimonio Etnológico (CIPE)",
+		"photo": "MuseodelTraje.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Exposiciones Temporales Martes a sábado, de 9:30 a 19:00 horasDomingos y festivos, de 10 a 15:00 horasLa taquilla finaliza su actividad de venta de entradas 15 minutos antes de la hora del cierre de la exposición. Noches de verano - Verano en el Museo Los jueves de julio y agosto, apertura extraordinaria: 9:30 - 22:30 horasCerrado: lunes, 1 enero, 1 y 15 mayo, 24, 25 y 31 diciembre"
+		}
+	},
+	{
+		"title": "Palacio Real de El Pardo",
+		"photo": "PalacioRealdeElPardo.jpg",
 		"cityRate": "5",
 		"organization": {
-			"schedule": "Del 1 de octubre al 31 de marzo sábados, domingos y festivos de 9 a 18:30 horas.Del 1 de abril al 30 de septiembre sábados, domingos y festivos de 9 a 21 horas.Los días 25 de diciembre y 1 de enero el parque permance cerrado al público."
+			"schedule": "Horario (Palacio y Casa del Príncipe Don Carlos) De octubre a marzo: todos los días de 10 a 18 horas. De abril a septiembre: todos los días de 10 a 20 horas.  Cierre taquillas y acceso a Palacio una hora antes.  Pradera de San Francisco: todos los días de 8 a 21 horas. Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente."
 		}
 	},
 	{
-		"title": "Palacio de Cristal de la Arganzuela: Invernadero",
-		"photo": "PalaciodeCristaldelaArganzuela.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": "Invierno. De 16 de sptiembre a 14 de junio.De martes a viernes de 9 a 15 horas.Sábados, domingos y festivos de 10 a 14 horas. Verano. De 15 de junio a 15 de septiembre.De martes a viernes de 9 a 14 horas.Sábados, domingos y festivos de 10 a 14 horas."
-		}
-	},
-	{
-		"title": "Parque Agustín Rodríguez Sahagún",
-		"photo": "ParqueAgustínRodríguezSahagún.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Alcalde Jesús Pérez Quijano",
-		"photo": "ParqueAlcaldeJesúsPérezQuijano.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Alfredo Kraus",
-		"photo": "ParqueAlfredoKraus.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": "Abierto todo el año."
-		}
-	},
-	{
-		"title": "Parque Almansa",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Aluche",
-		"photo": "ParqueAluche.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-	},
-	{
-		"title": "Parque Aluche - Poblados",
-		"photo": "ParqueAluche-Poblados.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Alzola",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Antonio Pirala",
-		"photo": "ParqueAntonioPirala.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Anunciación",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Arquitecto Antonio Palacios",
-		"photo": "ParqueArquitectoAntonioPalacios.jpg",
-		"cityRate": "2",
-		"organization": 
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Arroyo Fontarrón",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": "",
-		}
-	},
-	{
-		"title": "Parque Arroyo Fresno",
-		"photo": "ParqueArroyoFresno.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Arroyo Pozuelo",
-		"photo": "ParqueArroyoPozuelo.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-	},
-	{
-		"title": "Parque Arroyo de los Pinos",
-		"photo": "ParqueArroyodelosPinos.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Avenida de Portugal",
-		"photo": "ParqueAvenidadePortugal.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Azorín",
-		"photo": "ParqueAzorín.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Barrio Las Musas",
-		"photo": "ParqueBarrioLasMusas.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Begoña",
-		"photo": "ParqueBegoña.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Biosaludable",
-		"photo": "ParqueBiosaludable.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Campo de la Paloma",
-		"photo": "ParqueCampodelaPaloma.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Caramuel",
-		"photo": "ParqueCaramuel.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Cerro Almodóvar",
-		"photo": "ParqueCerroAlmodóvar.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Cerro Peñabel",
-		"photo": "ParqueCerroPeñabel.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Cerro del Tío Pío",
-		"photo": "ParqueCerrodelTíoPío.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Cerro Águila",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Ciudad de los Ángeles",
-		"photo": "ParqueCiudaddelosÁngeles.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Cuesta del Galbán",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Cuña Verde de Vicálvaro. Zona A",
-		"photo": "ParqueCuñaVerdedeVicálvaro.ZonaA.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Cuña Verde de Vicálvaro. Zona B",
-		"photo": "ParqueCuñaVerdedeVicálvaro.ZonaB.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Cuña Verde de Vicálvaro. Zona C",
-		"photo": "",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Dehesa de la Villa",
-		"photo": "ParqueDehesadelaVilla.jpg",
+		"title": "Palacio Real de Madrid",
+		"photo": "PalacioRealdeMadrid.jpg",
 		"cityRate": "5",
 		"organization": {
-			"schedule": ""
+			"schedule": "Horario De octubre a marzo: de 10 a 18 horas.De abril a septiembre: de 10 a 20 horas.Cierre taquillas y acceso a Palacio una hora antes.Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente. Jardines del Campo del Moro De octubre a marzo: de 10 a 18 horas.De abril a septiembre: de 10 a 20 horas."
 		}
 	},
 	{
-		"title": "Parque Duque de Ahumada",
-		"photo": "ParqueDuquedeAhumada.jpg",
+		"title": "Panteón de Hombres Ilustres",
+		"photo": "PanteóndeHombresIlustres.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De martes a sábado de 10 a 14 y de 16 a 18:30 horasDomingos y festivos de 10 a 15 horasCerrado todos los lunes del añoPara cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente."
+		}
+	},
+	{
+		"title": "Parroquia Santa Cruz",
+		"photo": "ParroquiaSantaCruz.jpg",
 		"cityRate": "3",
 		"organization": {
 			"schedule": ""
 		}
 	},
 	{
-		"title": "Parque El Calero",
-		"photo": "ParqueElCalero.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque El Cedral",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque El Cruce",
-		"photo": "ParqueElCruce.jpg",
+		"title": "Planetario de Madrid",
+		"photo": "PlanetariodeMadrid.jpg",
 		"cityRate": "3",
 		"organization": {
-			"schedule": ""
+			"schedule": "Horario del centro. De martes a viernes, de 9:30 a 13:45 horas (reservadas a escolares) y de 17 a 19:45 horas. Fin de semana y festivos, de 10 a 13:45 horas y de 17 a 19:45 horas. Cerrado: Todos los lunes del año.El día 1 y 6 de enero. El día 1 de mayo. Días 24, 25 y 31 de diciembre."
 		}
 	},
 	{
-		"title": "Parque Emir Mohamed I",
-		"photo": "ParqueEmirMohamedI.jpg",
+		"title": "Real Basílica San Francisco el Grande",
+		"photo": "RealBasílicaSanFranciscoelGrande.jpg",
 		"cityRate": "4",
 		"organization": {
-			"schedule": "10:00 a 21:00 horas, fines de semana y festivos"
+			"schedule": "Museo:  De martes a viernes de 10:30 a 12:30 y de 16 a 18 horasSábados de 10:30 a 12:30 y de 16 a 18 horas (si no se ofician actos religiosos).Julio, agosto y septiembre: de martes a domingo de 10:30 a 12:30 y de 17 a 19 horas."
 		}
 	},
 	{
-		"title": "Parque Emperatriz María de Austria",
-		"photo": "ParqueEmperatrizMaríadeAustria.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Enrique Tierno Galván",
-		"photo": "ParqueEnriqueTiernoGalván.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Entrevías Forestal",
-		"photo": "ParqueEntrevíasForestal.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Entrevías Urbano",
-		"photo": "ParqueEntrevíasUrbano.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Este de Valdebernardo",
-		"photo": "ParqueEstedeValdebernardo.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Eugenia de Montijo",
-		"photo": "ParqueEugeniadeMontijo.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Eva Duarte",
-		"photo": "ParqueEvaDuarte.jpg",
+		"title": "Real Fábrica de Tapices",
+		"photo": "RealFábricadeTapices.jpg",
 		"cityRate": "3",
 		"organization": {
-			"schedule": "Abierto de 7:30 a 00 horas"
+			"schedule": "Visitas guiadas: Lunes a viernes a las 10, 11, 12 y 13 horas (en castellano) 12:30 (en inglés). Duración de la visita 45 minutos.Se recomienda realizar una reserva antes de la llegada al museo."
 		}
 	},
 	{
-		"title": "Parque Forestal Fuente Carrantona",
-		"photo": "ParqueForestalFuenteCarrantona.jpg",
-		"cityRate": "2",
+		"title": "Real Monasterio de Santa Isabel",
+		"photo": "RealMonasteriodeSantaIsabel.jpg",
+		"cityRate": "3",
 		"organization": {
-			"schedule": ""
+			"schedule": "El acceso al templo sólo es posible en horario de culto."
 		}
 	},
 	{
-		"title": "Parque Forestal Julio Alguacil Gómez",
-		"photo": "ParqueForestalJulioAlguacilGómez.jpg",
-		"cityRate": "2",
+		"title": "Real Monasterio de la Encarnación",
+		"photo": "RealMonasteriodelaEncarnación.jpg",
+		"cityRate": "4",
 		"organization": {
-			"schedule": ""
+			"schedule": "De martes a sábado: de 10 a 14 horas y de 16 a 18:30 horasDomingos y festivos: de 10 a 15 horas. Tardes cerradoCerrado todos los lunes del año Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente."
 		}
 	},
 	{
-		"title": "Parque Forestal de Valdebebas-Felipe VI",
-		"photo": "ParqueForestaldeValdebebas-FelipeVI.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": "Primavera: 2 de marzo al 31 de mayo de 8 a 20:30 horasVerano: 1 de junio al 14 de octubre de 8 a 22 horasInvierno: 15 de octubre al 1 de marzo de 9 a 18:30 horas"
-		}
-	},
-	{
-		"title": "Parque Forestal de Vicálvaro",
-		"photo": "ParqueForestaldeVicálvaro.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Félix Rodríguez de la Fuente",
-		"photo": "ParqueFélixRodríguezdelaFuente.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque General Fanjul - Santa Margarita",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Hortaleza",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": "Abierto las 24 horas."
-		}
-	},
-	{
-		"title": "Parque Huerta del Obispo.",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Juan Carlos I",
-		"photo": "ParqueJuanCarlosI.jpg",
+		"title": "Templo de Debod",
+		"photo": "TemplodeDebod.jpg",
 		"cityRate": "5",
 		"organization": {
-			"schedule": "De junio a septiembre: Todos los días de 7 a 1 horas.De octubre a mayo: Viernes y sábados de 7 a 24 horas. Resto de la semana de 7 a 23 horas.Para más información consultar 'Información detallada del Parque Juan Carlos I'"
+			"schedule": "Martes a domingos y festivos, de 10 a 20 horas / Tuesday to Sundays and holidays, from 10 a.m. to 8 p.m.  Cerrado los lunes y los días 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre./ Closed Mondays and January 1 and 6, May 1, December 24, 25 and 31 Último pase de visita 30 minutos antes del cierre / Last visit pass 30 minutes before closing El horario y la apertura de salas pueden sufrir modificaciones. Ppor favor, confírmelo en el teléfono de información del museo./ The schedule  is subjects to change. Please, confirm it in the information telephone of the museum."
 		}
 	},
 	{
-		"title": "Parque Juan Pablo II",
-		"photo": "ParqueJuanPabloII.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": "Abierto de 7 a 23 horas."
-		}
-	},
-	{
-		"title": "Parque Juan de la Cosa",
-		"photo": "",
+		"title": "The Robot Museum (Museo del Robot)",
+		"photo": "TheRobotMuseum.jpg",
 		"cityRate": "1",
 		"organization": {
-			"schedule": ""
-		}
+      "schedule": "Visitas guiadas:  De lunes a viernes: 16 horas (inglés) / 17 y 20 horas Sábados: 16:15, 17:15, 18:15, 19:15 y 20:15 horas"
+    }
 	},
 	{
-		"title": "Parque La Rinconada",
-		"photo": "",
+		"title": "Yacimiento paleontológico. Estación de Metro Carpetana",
+		"photo": "Yacimientopaleontológico.EstacióndeMetroCarpetana.jpg",
 		"cityRate": "1",
 		"organization": {
-			"schedule": ""
+			"schedule": "Visitas todos los días durante la apertura de la estación, de 6 a 1:30 horas (excepto los accesos con horario especial)."
 		}
 	},
 	{
-		"title": "Parque La Viña",
-		"photo": "ParqueLaViña.jpg",
+		"title": "Zapadores Ciudad del Arte. Museo Siglo XXI",
+		"photo": "ZapadoresCiudaddelArte.MuseoSigloXXI.jpg",
 		"cityRate": "1",
 		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Ladera de los Almendros",
-		"photo": "ParqueLaderadelosAlmendros.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Lineal de Palomeras",
-		"photo": "ParqueLinealdePalomeras.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Lineal del Manzanares (Usera - Pte de Vallecas)",
-		"photo": "ParqueLinealdelManzanares(Usera-PtedeVallecas).jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": "En Otoño e Invierno: de 7 a 22 horas.En Primavera y Verano: de 7 a 24 horas (se inicia el fin de semana del cambio a horario de verano)."
-		}
-	},
-	{
-		"title": "Parque Madrid Río",
-		"photo": "ParqueMadridRío.jpg",
-		"cityRate": "5",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Martala",
-		"photo": "ParqueMartala.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Martin Luther King",
-		"photo": "ParqueMartinLutherKing.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Meseta de Orcasitas",
-		"photo": "ParqueMesetadeOrcasitas.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Mirador de Tierno Galván",
-		"photo": "ParqueMiradordeTiernoGalván.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Mirador de las Cárcavas",
-		"photo": "ParqueMiradordelasCárcavas.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": "Abierto las 24 horas."
-		}
-	},
-	{
-		"title": "Parque Norte",
-		"photo": "ParqueNorte.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Nudo Norte de Begoña",
-		"photo": "ParqueNudoNortedeBegoña.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Olof Palme",
-		"photo": "ParqueOlofPalme.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Orlando Zapata Tamayo",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Paseo Muñoz Grandes",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Payaso Fofó",
-		"photo": "ParquePayasoFofó.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Peñuelas",
-		"photo": "ParquePeñuelas.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Pinar de la Elipa",
-		"photo": "ParquePinardelaElipa.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Pinar del Rey",
-		"photo": "ParquePinardelRey.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": "Abierto las 24 horas."
-		}
-	},
-	{
-		"title": "Parque Plaza Chozas de Canales",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Plaza Colonia Oroquieta",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Plaza de España",
-		"photo": "ParquePlazadeEspaña.jpg",
-		"cityRate": "5",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Quinta de los Molinos",
-		"photo": "ParqueQuintadelosMolinos.jpg",
-		"cityRate": "5",
-		"organization": {
-			"schedule": "De 6:30 a 22 horas (durante todo el año)"
-		}
-	},
-	{
-		"title": "Parque Ramírez de Prado",
-		"photo": "ParqueRamírezdePrado.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Roma",
-		"photo": "ParqueRoma.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Salvador de Madariaga",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque San Blas. El Paraíso",
-		"photo": "ParqueSanBlas.ElParaíso.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque San José de Calasanz",
-		"photo": "ParqueSanJosédeCalasanz.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque San Juan Bautista",
-		"photo": "ParqueSanJuanBautista.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Sancho Dávila",
-		"photo": "ParqueSanchoDávila.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Santa Eugenia",
-		"photo": "ParqueSantaEugenia.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Santa Rita",
-		"photo": "ParqueSantaRita.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Segura",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Soto de Entrevías",
-		"photo": "ParqueSotodeEntrevías.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Urpisa",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Valdebernardo Este",
-		"photo": "ParqueValdebernardoEste.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Valle de Enmedio",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Vallecas Villa",
-		"photo": "ParqueVallecasVilla.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Vandel",
-		"photo": "ParqueVandel.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-		"title": "Parque Virgen de la Esperanza",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Alfonso XIII",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Amos Acero",
-		"photo": "ParquedeAmosAcero.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Ana Tutor",
-		"photo": "ParquedeAnaTutor.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Arriaga",
-		"photo": "ParquedeArriaga.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Atenas",
-		"photo": "ParquedeAtenas.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Berlín",
-		"photo": "ParquedeBerlín.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Breogán",
-		"photo": "ParquedeBreogán.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Canillejas",
-		"photo": "ParquedeCanillejas.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Comillas",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Darwin",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Enrique Herreros",
-		"photo": "ParquedeEnriqueHerreros.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": "De 8 a 22 horas"
-		}
-	},
-	{
-		"title": "Parque de Francos Rodríguez",
-		"photo": "ParquedeFrancosRodríguez.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Fuencarral",
-		"photo": "ParquedeFuencarral.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Fuentechica",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Fuentelarreina",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Gabriela Mistral",
-		"photo": "ParquedeGabrielaMistral.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Isabel Clara Eugenia",
-		"photo": "ParquedeIsabelClaraEugenia.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": "Verano: de 7 a 1:30 horasInvierno: de 7 a 24 horas Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones."
-		}
-	},
-	{
-		"title": "Parque de Juan XXIII",
-		"photo": "ParquedeJuanXXIII.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Las Cruces",
-		"photo": "ParquedeLasCruces.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": "",
-		}
-	},
-	{
-		"title": "Parque de Malmoe",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Manoteras",
-		"photo": "ParquedeManoteras.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Pan Bendito",
-		"photo": "ParquedePanBendito.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Peñagrande",
-		"photo": "ParquedePeñagrande.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Pinar de Barajas",
-		"photo": "ParquedePinardeBarajas.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": "Abierto las 24 horas."
-		}
-	},
-	{
-		"title": "Parque de Plata y Castañar",
-		"photo": "ParquedePlatayCastañar.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Pradolongo",
-		"photo": "ParquedePradolongo.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Rafael Finat",
-		"photo": "ParquedeRafaelFinat.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Salvador Allende",
-		"photo": "ParquedeSalvadorAllende.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de San Isidro",
-		"photo": "ParquedeSanIsidro.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": "",
-		}
-	},
-	{
-		"title": "Parque de Santa Ana",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Villa Rosa-Paco Caño",
-		"photo": "ParquedeVillaRosa-PacoCaño.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": "Abierto las 24 horas."
-		}
-	},
-	{
-		"title": "Parque de la Alcazaba",
-		"photo": "ParquedelaAlcazaba.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Almudena",
-		"photo": "",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Amistad",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Bombilla",
-		"photo": "ParquedelaBombilla.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Casa de Campo",
-		"photo": "ParquedelaCasadeCampo.jpg",
-		"cityRate": "5",
-		"organization": {
-			"schedule": "Durante todo el año, ininterrumpido para peatones.Cerrado al tráfico privado.Los accesos del Zoo, Parque de Atracciones, Paseo de Extremadura y zona del Lago se cierran de 1 a 6 horas."
-		}
-	},
-	{
-		"title": "Parque de la Cuña Verde de Latina",
-		"photo": "ParquedelaCuñaVerdedeLatina.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": "",
-	},
-	{
-		"title": "Parque de la Cuña Verde de O´Donnell",
-		"photo": "ParquedelaCuñaVerdedeO´Donnell.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Dehesa Boyal",
-		"photo": "ParquedelaDehesaBoyal.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Gavia",
-		"photo": "ParquedelaGavia.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Maceta",
-		"photo": "ParquedelaMaceta.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Supermanzana",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Ventilla",
-		"photo": "ParquedelaVentilla.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Vicalvarada",
-		"photo": "ParquedelaVicalvarada.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Volatería",
-		"photo": "ParquedelaVolatería.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de las Avenidas",
-		"photo": "ParquedelasAvenidas.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de las Delicias",
-		"photo": "ParquedelasDelicias.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de los Llanos",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": "Abierto las 24 horas."
-		}
-	},
-	{
-		"title": "Parque de los Tilos",
-		"photo": "",
-		"cityRate": "2",
-		"organization": {
-			"schedule": "",
-		}
-	},
-	{
-		"title": "Parque del Bronce",
-		"photo": "ParquedelBronce.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque del Espinillo",
-		"photo": "ParquedelEspinillo.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque del Museo del Prado",
-		"photo": "ParquedelMuseodelPrado.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque del Oeste",
-		"photo": "ParquedelOeste.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque del Pueblo del Pardo",
-		"photo": "ParquedelPueblodelPardo.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Pinar Santa Eugenia",
-		"photo": "",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Plaza Mayor de Barajas",
-		"photo": "PlazaMayordeBarajas.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Plaza de Murillo",
-		"photo": "PlazadeMurillo.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Plaza de la Lealtad",
-		"photo": "PlazadelaLealtad.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Quinta de Torre Arias",
-		"photo": "QuintadeTorreArias.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": "Horario:Del 1 de octubre al 31 de marzo de 10,00 a 17,30 horas.Del 1 de abril al 30 de septiembre de 10,00 a 20,30 horasLas visitas guiadas por educadores ambientales, http://www.madrid.es/habitatmadrid Las visitas serán gratuitas y pueden reservarse en el teléfono 916 397 869 ó a través del correo electrónico paa@talher.com"
-		}
-	},
-	{
-		"title": "Quinta de la Fuente del Berro",
-		"photo": "QuintadelaFuentedelBerro.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": "Del 1 de octubre al 31 de marzo de 6:30 a 22 horas.Del 1 de abril al 30 de septiembre de 6:30 a 24 horas.",
-		}
-	},
-	{
-		"title": "Rosaleda de Madrid. Parque del Oeste",
-		"photo": "RosaledadeMadridParquedelOeste.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": "De 1 de noviembre a 1 de marzo: de 10:00 a 18:00 horas De 1 de marzo a 15 de abril: de 10:00 a 19:00 horasDe 16 de abril a 15 de septiembre: de 10:00 a 21:00 horasDe 16 de septiembre a 31 de octubre: de 10:00 a 19:00 horasLos días de la celebración del Concurso Internacional de Rosas Nuevas Villa de Madrid permanecerá cerrada hasta las 15:00 horas. Entrada gratuita"
-		}
-	},
-	{
-		"title": "Vivero Estufas de El Retiro",
-		"photo": "ViveroEstufasdeElRetiro.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": "Invierno de 7 a 23 horas.El acceso al público está gestionado a través de visitas guiadas en grupos organizados."
-		}
-	},
-	{
-		"title": "Vivero de la Casa de Campo",
-		"photo": "ViverodelaCasadeCampo.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": "Invierno de 8 a 15 horasVerano de 7 a 14 horasEl acceso al público está gestionado a través de visitas guiadas en grupos organizados."
-		}
-	},
-	{
-		"title": "Vivero municipal de Migas Calientes",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": "De 8 a 15 horas."
-		}
-	},
-	{
-		"title": "Zona verde C/ Fresnedillas",
-		"photo": "ZonaverdeCFresnedillas.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Área Forestal de Tres Cantos",
-		"photo": "ÁreaForestaldeTresCantos.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": ""
+			"schedule": "Miércoles a domingos de 12 a 18 horas."
 		}
 	}	  
 ]

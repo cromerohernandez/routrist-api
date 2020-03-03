@@ -40,6 +40,7 @@ module.exports.list = (req, res, next) => {
 
 module.exports.detail = (req, res, next) => {
   Route.findOne({ _id: req.params.id })
+    .populate('city')
     .populate('places')
     .then(route => {
       if(route) {
