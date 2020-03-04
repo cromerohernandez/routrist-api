@@ -40,14 +40,6 @@
 		}
 	},
 	{
-		"title": "Ermita de San Antonio de la Florida (Museo)",
-		"photo": "ErmitadeSanAntoniodelaFlorida_Museo.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": "General de martes a domingos de 9:30 a 20 horas. Verano del 15 de junio al 15 de septiembre: de martes a viernes de 9:30 a 14 horas.sábados, domingos y festivos de 9:30 a 19 horas. Cerrado:  lunes (incluidos festivos), 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre. Último pase de visita: 20 minutos antes del cierre (el desalojo de las salas comenzará 10 minutos antes)Este horario y la apertura de salas pueden sufrir modificaciones."
-		}
-	},
-	{
 		"title": "EspacioFundaciónTelefónica",
 		"photo": "EspacioFundaciónTelefónica.jpg",
 		"cityRate": "3",
@@ -61,14 +53,6 @@
 		"cityRate": "1",
 		"organization": {
 			"schedule": "Siempre con reserva previa telefónica, de lunes a viernes de 10 a 19 horas.Visitas para grupos de hasta 25 personas dentro de los horarios de apertura. Pueden ser con guía propio o con guía de la Fundación, y la duración de la misma es de una hora."
-		}
-	},
-	{
-		"title": "Monasterio de las Descalzas Reales",
-		"photo": "MonasteriodelasDescalzasReales.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": "Sólo con visita guiada .  De martes a sábado de 10 a 14 horas y de 16 a 18:30 horas.Domingos y festivos, de 10 a 15 horas. Cerrado los lunes.Cierre taquillas y acceso al Monasterio una hora antes.Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente."
 		}
 	},
 	{
@@ -458,14 +442,6 @@
 		}
 	},
 	{
-		"title": "Parroquia Santa Cruz",
-		"photo": "ParroquiaSantaCruz.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Planetario de Madrid",
 		"photo": "PlanetariodeMadrid.jpg",
 		"cityRate": "3",
@@ -474,35 +450,11 @@
 		}
 	},
 	{
-		"title": "Real Basílica San Francisco el Grande",
-		"photo": "RealBasílicaSanFranciscoelGrande.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": "Museo:  De martes a viernes de 10:30 a 12:30 y de 16 a 18 horasSábados de 10:30 a 12:30 y de 16 a 18 horas (si no se ofician actos religiosos).Julio, agosto y septiembre: de martes a domingo de 10:30 a 12:30 y de 17 a 19 horas."
-		}
-	},
-	{
 		"title": "Real Fábrica de Tapices",
 		"photo": "RealFábricadeTapices.jpg",
 		"cityRate": "3",
 		"organization": {
 			"schedule": "Visitas guiadas: Lunes a viernes a las 10, 11, 12 y 13 horas (en castellano) 12:30 (en inglés). Duración de la visita 45 minutos.Se recomienda realizar una reserva antes de la llegada al museo."
-		}
-	},
-	{
-		"title": "Real Monasterio de Santa Isabel",
-		"photo": "RealMonasteriodeSantaIsabel.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": "El acceso al templo sólo es posible en horario de culto."
-		}
-	},
-	{
-		"title": "Real Monasterio de la Encarnación",
-		"photo": "RealMonasteriodelaEncarnación.jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": "De martes a sábado: de 10 a 14 horas y de 16 a 18:30 horasDomingos y festivos: de 10 a 15 horas. Tardes cerradoCerrado todos los lunes del año Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente."
 		}
 	},
 	{

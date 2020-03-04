@@ -4,6 +4,7 @@ const routeSchema = new mongoose.Schema({
   name: {
     type: String,
     required: [true, 'name is required'],
+    unique: true,
     trim: true,
     lowercase: true
   },
@@ -17,20 +18,6 @@ const routeSchema = new mongoose.Schema({
     ref: 'city',
     required: [true, 'city is required'],
   },
-  startDate: {
-    type: Date,
-    required: [true, 'start date is required']
-  },
-  endDate: {
-    type: Date,
-    required: [true, 'end date is required']
-  },
-  places: [
-    {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Place'
-    }
-  ],
   traveled: {
     type: Boolean,
     default: false
@@ -46,6 +33,13 @@ const routeSchema = new mongoose.Schema({
       return ret;
     }
   }
+})
+
+routeSchema.virtual('journeys', {
+  ref: 'Journey',
+  localField: '_id',
+  foreignField: 'route',
+  justOne: false
 })
 
 const Route = mongoose.model('Route', routeSchema)
