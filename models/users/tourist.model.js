@@ -6,27 +6,27 @@ const { capitalize } = require('../../helpers/models.helper')
 const touristSchema = new mongoose.Schema({
   firstName: {
     type: String,
-    required: [true, 'First name is required'],
+    required: [true, 'first name is required'],
     trim: true,
     set: capitalize
   },
   lastName: {
     type: String,
-    required: [true, 'Last name is required'],
+    required: [true, 'last name is required'],
     trim: true,
     set: capitalize
   },
   username: {
     type: String,
-    required: [true, 'Username is required'],
+    required: [true, 'username is required'],
     unique: true,
     trim: true,
     lowercase: true,
-    minlength: [4, 'Username needs at least 4 chars']
+    minlength: [4, 'username needs at least 4 chars']
   },
   photo: {
     type: String,
-    //default: '../../images/defaultTourist.png'
+    default: 'https://res.cloudinary.com/dewymafth/image/upload/v1583169321//default/defaultTourist.png'
   }
 })
 

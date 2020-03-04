@@ -1,0 +1,234 @@
+[
+  {
+		"title": "Basílica Pontificia de San Miguel",
+		"photo": "BasilicaPontificiadeSanMiguel.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+  },
+  {
+		"title": "Catedral Santa María la Real de la Almudena",
+		"photo": "CatedralSantaMarialaRealdelaAlmudena.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+  },
+  {
+		"title": "Concepción Real de Calatrava",
+		"photo": "ConcepcionRealdeCalatrava.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+  },
+  {
+		"title": "Convento de las Comendadoras de Santiago",
+		"photo": "ConventodelasComendadorasdeSantiago.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+  },
+  {
+		"title": "Ermita de San Antonio de la Florida",
+		"photo": "ErmitadeSanAntoniodelaFlorida.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": "General de martes a domingos de 9:30 a 20 horas. Verano del 15 de junio al 15 de septiembre: de martes a viernes de 9:30 a 14 horas.sábados, domingos y festivos de 9:30 a 19 horas. Cerrado:  lunes (incluidos festivos), 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre. Último pase de visita: 20 minutos antes del cierre (el desalojo de las salas comenzará 10 minutos antes)Este horario y la apertura de salas pueden sufrir modificaciones."
+		}
+	},
+	{
+		"title": "Ermita de San Isidro",
+		"photo": "ErmitadeSanIsidro.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": "Ermita: abierta todos los días de domingo a viernes de 10 a 14 horas, los sábados se celebra Misa por todos los difuntos de la semana. Fuente del Santo: sólo permanece abierta desde la semana anterior a la fiesta de San Isidro hasta la semana posterior."
+		}
+	},
+	{
+		"title": "Ermita Virgen del Puerto",
+		"photo": "ErmitaVirgendelPuerto.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+  },
+  {
+		"title": "Iglesia Catedral de las Fuerzas Armadas",
+		"photo": "IglesiaCatedraldelasFuerzasArmadas.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Iglesia Corpus Christi",
+		"photo": "IglesiaCorpusChristi.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Iglesia San Antonio de los Alemanes",
+		"photo": "IglesiaSanAntoniodelosAlemanes.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Iglesia San Ildefonso",
+		"photo": "IglesiaSanIldefonso.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Iglesia San Pedro el Viejo",
+		"photo": "IglesiaSanPedroelViejo.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+  },
+  {
+		"title": "Monasterio de Benedictinas",
+		"photo": "MonasteriodeBenedictinas.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Monasterio de las Descalzas Reales",
+		"photo": "MonasteriodelasDescalzasReales.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": "Sólo con visita guiada .  De martes a sábado de 10 a 14 horas y de 16 a 18:30 horas.Domingos y festivos, de 10 a 15 horas. Cerrado los lunes.Cierre taquillas y acceso al Monasterio una hora antes.Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente."
+		}
+  },
+  {
+		"title": "Parroquia Nuestra Señora del Buen Consejo y San Isidro",
+		"photo": "ParroquiaNuestraSeñoradelBuenConsejoySanIsidro.jpg",
+		"cityRate": "",	"longitude": -3.707383827213788,
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parroquia San Fermín de los Navarros",
+		"photo": "ParroquiaSanFermindelosNavarros.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parroquia San Ginés",
+		"photo": "ParroquiaSanGines.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parroquia San José",
+		"photo": "ParroquiaSanJose.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parroquia San Manuel y San Benito",
+		"photo": "ParroquiaSanManuelySanBenito.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parroquia San Marcos",
+		"photo": "ParroquiaSanMarcos.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parroquia San Millán y San Cayetano",
+		"photo": "ParroquiaSanMillanySanCayetano.jpg",
+		"cityRate": "","longitude": -3.705791428982776,
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parroquia San Nicolás de Bari de los Servitas",
+		"photo": "ParroquiaSanNicolasdeBaridelosServitas.jpg",
+		"cityRate": "",
+		"organization": {
+      "schedule": ""
+    }
+	},
+	{
+		"title": "Parroquia Santa Bárbara",
+		"photo": "ParroquiaSantaBarbara.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parroquia Santa Cruz",
+		"photo": "ParroquiaSantaCruz.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Parroquia Santiago y San Juan Bautista",
+		"photo": "ParroquiaSantiagoySanJuanBautista.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+  },
+  {
+		"title": "Real Basílica San Francisco el Grande",
+		"photo": "RealBasilicaSanFranciscoelGrande.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": "Museo:  De martes a viernes de 10:30 a 12:30 y de 16 a 18 horasSábados de 10:30 a 12:30 y de 16 a 18 horas (si no se ofician actos religiosos).Julio, agosto y septiembre: de martes a domingo de 10:30 a 12:30 y de 17 a 19 horas."
+		}
+  },
+  {
+		"title": "Real Monasterio de la Encarnación",
+		"photo": "RealMonasteriodelaEncarnacion.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": "De martes a sábado: de 10 a 14 horas y de 16 a 18:30 horasDomingos y festivos: de 10 a 15 horas. Tardes cerradoCerrado todos los lunes del año Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente."
+		}
+	},
+	{
+		"title": "Real Monasterio de Santa Isabel",
+		"photo": "RealMonasteriodeSantaIsabel.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": "El acceso al templo sólo es posible en horario de culto."
+		}
+	},
+	{
+		"title": "Real Oratorio del Caballero de Gracia",
+		"photo": "RealOratoriodelCaballerodeGracia.jpg",
+		"cityRate": "",
+		"organization": {
+			"schedule": ""
+		}
+	}
+]

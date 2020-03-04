@@ -1,0 +1,3685 @@
+[
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11025958-asambleas-evangelizacion-mundial-cristo-aemc-.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11025958",
+		"title": "Asambleas de Evangelización Mundial para Cristo (AEMC)",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=2a060d28e4e5d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Buenavista"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28044",
+			"street-address": "CALLE ANTONIA RODRIGUEZ SACRISTAN 8"
+		},
+		"location": {
+			"latitude": 40.372800292475574,
+			"longitude": -3.745073767335671
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: San Francisco (línea 11)Bus: 108, 118, 121, 131, 47",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Asambleas de Evangelización Mundial para Cristo (AEMC)"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/4530770-asociacion-darse-dar-ayuda-reinsercion-social-espana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "4530770",
+		"title": "Asociación Darse - Dar Ayuda para la Reinserción Social España",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=358393b8cb901110VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/SanIsidro"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28019",
+			"street-address": "CAMINO ALTO DE SAN ISIDRO 16 PLANTA 2º C C"
+		},
+		"location": {
+			"latitude": 40.39646987780765,
+			"longitude": -3.7228134710524623
+		},
+		"organization": {
+			"organization-desc": "Entidad inscrita en el Censo Municipal de Entidades y Colectivos Ciudadanos.Metro 5(calle Camino Viejo de Leganés 1):urgel",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Asociación Darse - Dar Ayuda para la Reinserción Social España"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3387-catedral-anglicana-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "3387",
+		"title": "Catedral Anglicana de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=94ef13db5b71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "CALLE BENEFICENCIA 18"
+		},
+		"location": {
+			"latitude": 40.42635120982088,
+			"longitude": -3.698682579292043
+		},
+		"organization": {
+			"organization-desc": "Metro: Alonso Martínez (líneas 4, 5, 10), Tribunal (líneas 1, 10)Bus: 149, 40, 37Bicimad: Estación 54 (calle Barceló, 7)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Catedral Anglicana de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3388-catedral-ortodoxa-griega.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "3388",
+		"title": "Catedral Ortodoxa Griega",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=82547b503a71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin/Barrio/Hispanoamerica"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28016",
+			"street-address": "CALLE NICARAGUA 12"
+		},
+		"location": {
+			"latitude": 40.45754917910687,
+			"longitude": -3.672905343222746
+		},
+		"organization": {
+			"organization-desc": "Metro: Colombia (líneas 8, 9)Bus: 7, 11, 40, 52, 87",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Catedral Ortodoxa Griega"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11030102-centro-apostolico-cristo-viene.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11030102",
+		"title": "Centro Apostólico Cristo Viene",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=cec2be0e48e6d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera/Barrio/Almendrales"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28026",
+			"street-address": "CALLE ANTONIO LOPEZ 236 PLANTA 1"
+		},
+		"location": {
+			"latitude": 40.383724492823504,
+			"longitude": -3.6960683266163925
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Puente de Vallecas (línea 1)Bus: 113, 8",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Centro Apostólico Cristo Viene"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7063869-centro-cristiano-ciudad-refugio.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7063869",
+		"title": "Centro Cristiano Ciudad de Refugio",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=9d28ec795b750410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde/Barrio/SanCristobal"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28021",
+			"street-address": "CALLE GODELLA 103 PLANTA 1 D"
+		},
+		"location": {
+			"latitude": 40.34192622597721,
+			"longitude": -3.6876586251390493
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: San Cristóbal (línea 3)Bus: 59, 79Cercanías: San Cristóbal del los Ángeles",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Centro Cristiano Ciudad de Refugio"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3751-centro-cultural-islamico-mezquita-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "3751",
+		"title": "Centro Cultural Islámico. Mezquita de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=a3b71e79ee71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal/Barrio/SanPascual"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28027",
+			"street-address": "CALLE SALVADOR DE MADARIAGA 4"
+		},
+		"location": {
+			"latitude": 40.438521492191306,
+			"longitude": -3.6573640044493407
+		},
+		"organization": {
+			"organization-desc": "Metro: Parque de las Avenidas: (línea 7), Barrio de la Concepción (línea 7)Bus: 21, 48",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Centro Cultural Islámico. Mezquita de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7066102-centro-evangelizacion-anuncio-paz.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7066102",
+		"title": "Centro de Evangelización Anuncio de Paz",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=17bb8105e2260410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/SanDiego"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28053",
+			"street-address": "CALLE PUERTO DEL MONASTERIO 10 PLANTA BAJO"
+		},
+		"location": {
+			"latitude": 40.39477355030102,
+			"longitude": -3.665233691809319
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Nueva Numancia (línea 1)Bus: 10, 24, 54, 57, 58, 111, 136, 310",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Centro de Evangelización Anuncio de Paz"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064897-centro-evangelico-restauracion-aliento-vida.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064897",
+		"title": "Centro Evangélico de Restauración Aliento de Vida",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=03479bd56dc50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/VillaDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/VillaDeVallecas/Barrio/CascoHVallecas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28031",
+			"street-address": "CALLE PUERTO DE LAS PILAS 12"
+		},
+		"location": {
+			"latitude": 40.37887387719392,
+			"longitude": -3.6268000188410188
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Sierra de Guadalupe (línea 1)Bus: 130, T31Cercanías: Vallecas",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Centro Evangélico de Restauración Aliento de Vida"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11025954-christ-international-ministries.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11025954",
+		"title": "Christ International Ministries",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=3ab50d28e4e5d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo/Barrio/Fuentelarreina"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28035",
+			"street-address": "CALLE LA ALBERCA 1"
+		},
+		"location": {
+			"latitude": 40.47790731731759,
+			"longitude": -3.750655777091982
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 83, 133",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Christ International Ministries"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11025949-christ-missions-evangelical-church.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11025949",
+		"title": "Christ Missions Evangelical Church",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=96350d28e4e5d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde/Barrio/VillaverdeAltoCH"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28021",
+			"street-address": " CIUDAD DE FRIAS 18"
+		},
+		"location": {
+			"latitude": 40.33811971589477,
+			"longitude": -3.713824312166029
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 22, T41  Cercanías (C4, C5)  Metro: Villaverde Alto (línea 3)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Christ Missions Evangelical Church"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064962-comunidad-cristiana-decision.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064962",
+		"title": "Comunidad Cristiana Decisión",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6b760ac0dfc50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Canillejas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28022",
+			"street-address": "CALLE MEQUINENZA 20 PLANTA local"
+		},
+		"location": {
+			"latitude": 40.44768356828449,
+			"longitude": -3.605497309069597
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Canillejas (línea 5)Bus: 77, 145",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Comunidad Cristiana Decisión"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3740-comunidad-cristiana-eben-ezer-villa-vallecas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "3740",
+		"title": "Comunidad Cristiana Eben-Ezer de la Villa de Vallecas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=04750a47f441f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/VillaDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/VillaDeVallecas/Barrio/CascoHVallecas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28031",
+			"street-address": "CALLE SIERRA DE TORTEJADA 2"
+		},
+		"location": {
+			"latitude": 40.37152812090639,
+			"longitude": -3.6181096496598038
+		},
+		"organization": {
+			"organization-desc": "Metro: Congosto (línea 1)Bus: 54, 142",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Comunidad Cristiana Eben-Ezer de la Villa de Vallecas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065794-comunidad-cristiana-eben-ezer-pueblo-nuevo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065794",
+		"title": "Comunidad cristiana Eben-ezer de Pueblo Nuevo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ac0a5ac33d160410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal/Barrio/PuebloNuevo"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28017",
+			"street-address": "CALLE ESTEBAN COLLANTES 37"
+		},
+		"location": {
+			"latitude": 40.431860693236985,
+			"longitude": -3.6402017241153257
+		},
+		"organization": {
+			"organization-desc": "Metro: Ascao (línea 7)Bus: 28, 109",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Comunidad cristiana Eben-ezer de Pueblo Nuevo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065892-comunidad-cristiana-faro.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065892",
+		"title": "Comunidad cristiana El Faro",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=306150adce160410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/SanDiego"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28053",
+			"street-address": "CALLE SIERRA DE ALCUBIERRE 2"
+		},
+		"location": {
+			"latitude": 40.39261217147179,
+			"longitude": -3.6672087802537865
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 24, 10, 111, 310Metro: Nueva Numancia (línea 1)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Comunidad cristiana El Faro"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065996-comunidad-cristiana-maranatha.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065996",
+		"title": "Comunidad Cristiana Maranatha",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=429604a5d0260410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/Pacifico"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28007",
+			"street-address": "CALLE GRANADA 8"
+		},
+		"location": {
+			"latitude": 40.40503855717772,
+			"longitude": -3.6800894670027358
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Menéndez Pelayo (línea 1)  Bus: 24, 37, 54, 57, 102, 141, 152",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Comunidad Cristiana Maranatha"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065908-comunidad-evangelica-habla-alemana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065908",
+		"title": "Comunidad Evangélica de habla alemana",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=95f550adce160410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Recoletos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28046",
+			"street-address": "PASEO CASTELLANA 6"
+		},
+		"location": {
+			"latitude": 40.42721250117197,
+			"longitude": -3.689422328230453
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Colón (línea 4)Bus:  27, 45, 150, 5, 14, 1, 19, 74, 51, 9, 21, 53Bicimad: Estación 104 (Paseo Castellana, 4)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Comunidad Evangélica de habla alemana"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11025240-comunidad-evangelica-internacional.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11025240",
+		"title": "Comunidad Evangélica Internacional",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=20f07b42aed5d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Buenavista"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28044",
+			"street-address": "CALLE CIDRO 14 PLANTA BAJO"
+		},
+		"location": {
+			"latitude": 40.366381452000546,
+			"longitude": -3.74651822287228
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Carabanchel Alto (línea 11)Bus: 155",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Comunidad Evangélica Internacional"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064565-iglesia-evangelica-bautista-pueblo-nuevo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064565",
+		"title": "Iglesia  Evangélica Bautista Pueblo Nuevo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0304efba3c850410VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal/Barrio/PuebloNuevo"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28017",
+			"street-address": "CALLE GUTIERRE DE CETINA 13"
+		},
+		"location": {
+			"latitude": 40.43387488622842,
+			"longitude": -3.644196517698973
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Pueblo Nuevo (líneas 5, 7)  Bus: 38, 109, 113",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia  Evangélica Bautista Pueblo Nuevo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3386-iglesia-anglicana-san-jorge.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "3386",
+		"title": "Iglesia Anglicana de San Jorge",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=48047b503a71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Recoletos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28001",
+			"street-address": "CALLE NUÑEZ DE BALBOA 43"
+		},
+		"location": {
+			"latitude": 40.42669852639718,
+			"longitude": -3.68277143067568
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Velazquez (línea 4)Bus: 1, 9, 19, 21, 51, 53, 74",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Anglicana de San Jorge"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7066142-iglesia-asamblea-cristiana-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7066142",
+		"title": "Iglesia Asamblea Cristiana de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=03758105e2260410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/PalomerasSureste"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28018",
+			"street-address": "CALLE ALORA 7 PLANTA y 9 Bajo"
+		},
+		"location": {
+			"latitude": 40.386040079971394,
+			"longitude": -3.64034744917085
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Miguel Hernández (línea 1)Bus: 54, 58, 103, 142, 143, 144",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Asamblea Cristiana de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7063835-iglesia-bautista-alameda-osuna.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7063835",
+		"title": "Iglesia Bautista Alameda de Osuna",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=bd9c1ea949750410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Barajas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Barajas/Barrio/AlamedaOsuna"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28042",
+			"street-address": "CALLE SOTO HIDALGO 6 PLANTA Local"
+		},
+		"location": {
+			"latitude": 40.46013668353802,
+			"longitude": -3.5799608501207385
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Alameda de Osuna (línea 5)Bus: 114",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Bautista Alameda de Osuna"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11025964-iglesia-bautista-calvario.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11025964",
+		"title": "Iglesia Bautista Calvario",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d0460d28e4e5d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza/Barrio/Canillas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28043",
+			"street-address": "CALLE PALERMO 28"
+		},
+		"location": {
+			"latitude": 40.45911690185054,
+			"longitude": -3.6488513828849785
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Esperanza (línea 4)Bus: 120, 122",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Bautista Calvario"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064915-iglesia-bautista-vallecas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064915",
+		"title": "Iglesia Bautista de Vallecas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=19bdb607bec50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/VillaDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/VillaDeVallecas/Barrio/CascoHVallecas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28031",
+			"street-address": "CALLE SIERRA ESPU&amp;Ntilde;A 22"
+		},
+		"location": {
+			"latitude": 40.37548350089073,
+			"longitude": -3.6217714951930553
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Congosto (línea 1)  Bus: 54, 103, 142",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Bautista de Vallecas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3385-iglesia-bautista-buen-pastor.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "3385",
+		"title": "Iglesia Bautista El Buen Pastor",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=27ff13db5b71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin/Barrio/Prosperidad"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28002",
+			"street-address": "PLAZA GETAFE 1"
+		},
+		"location": {
+			"latitude": 40.444238011956884,
+			"longitude": -3.6721947831541484
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Prosperidad (línea 4)Bus:9, 73",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Bautista El Buen Pastor"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11026103-iglesia-bautista-emanuel-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11026103",
+		"title": "Iglesia Bautista Emanuel de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0b8db608d026d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal/Barrio/SanPascual"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28027",
+			"street-address": "CALLE HERNANDEZ DE TEJADA 4"
+		},
+		"location": {
+			"latitude": 40.44683079932284,
+			"longitude": -3.6514595783618526
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 11, 114, 115, 200",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Bautista Emanuel de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11026113-iglesia-biblica-barajas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11026113",
+		"title": "Iglesia Bíblica de Barajas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=082eb608d026d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Barajas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Barajas/Barrio/CascoHBarajas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28042",
+			"street-address": "CALLE CANAL DE SUEZ 15"
+		},
+		"location": {
+			"latitude": 40.47232582672411,
+			"longitude": -3.580075615330767
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Barajas (línea 8)Bus: 105, 115, 166",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Bíblica de Barajas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064568-iglesia-celebracion-cristiana-comunidad-sendero-cruz-.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064568",
+		"title": "Iglesia Celebración Cristiana (Comunidad Sendero de la Cruz)",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=f5e7efba3c850410VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Simancas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28037",
+			"street-address": "CALLE MIGUEL FLETA 11"
+		},
+		"location": {
+			"latitude": 40.43189156564133,
+			"longitude": -3.631374057578604
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: García Noblejas (línea 7)Bus: 28",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Celebración Cristiana (Comunidad Sendero de la Cruz)"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064593-iglesia-cenfol-espana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064593",
+		"title": "Iglesia CENFOL España",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=beddb8d07d850410VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza/Barrio/Canillas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28043",
+			"street-address": "CALLE ALEJANDRO VILLEGAS 34 PLANTA local entrada por calle Manzanar"
+		},
+		"location": {
+			"latitude": 40.46517332828151,
+			"longitude": -3.6488243746464377
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Pinar del Rey (línea 8)Bus: 73",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia CENFOL España"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064594-iglesia-centro-cristiano-adonay.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064594",
+		"title": "Iglesia Centro Cristiano Adonay",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e65fb8d07d850410VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde/Barrio/LosRosales"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28021",
+			"street-address": "CALLE MARIA MARTINEZ OVIOL 17 B"
+		},
+		"location": {
+			"latitude": 40.35010688886286,
+			"longitude": -3.691253820762234
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Cruce Villaverde (línea 3)  Bus: 116, 18, 23,123, 85, 59, 79",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Centro Cristiano Adonay"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064614-iglesia-comunidad-cristiana-fe.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064614",
+		"title": "Iglesia Comunidad Cristiana de Fe",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=5c77b8d07d850410VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin/Barrio/Castilla"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28036",
+			"street-address": "CALLE MANUEL FERRERO 5 Local"
+		},
+		"location": {
+			"latitude": 40.468282503897264,
+			"longitude": -3.6845607169672094
+		},
+		"organization": {
+			"organization-desc": "Metro: Plaza Castilla (líneas 1, 9 y 10)Bus: 5, 66, 70, 107, 129, 174, 179Renfe: Chamartín",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Comunidad Cristiana de Fe"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/18298-iglesia-cristiana-adventista-septimo-dia-madrid-alenza.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "18298",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Alenza",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=435f6f065851c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi/Barrio/RiosRosas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28003",
+			"street-address": "CALLE ALENZA 6 PLANTA Baja"
+		},
+		"location": {
+			"latitude": 40.44356545097694,
+			"longitude": -3.7004998266858435
+		},
+		"organization": {
+			"organization-desc": "Metro: Ríos Rosas (línea 1), Cuatro Caminos (líneas 1, 2, 6).Bus: 45, 3, 37, 149, 5.Bicimad: Estación 130 (calle Santa Engracia, 127).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Alenza"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/190017-iglesia-cristiana-adventista-septimo-dia-madrid-aluche.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "190017",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Aluche",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=08470bf21677f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/Aluche"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28047",
+			"street-address": "CALLE LOS YEBENES 255"
+		},
+		"location": {
+			"latitude": 40.38946974102784,
+			"longitude": -3.7515803449309417
+		},
+		"organization": {
+			"organization-desc": "Metro: Eugenía de Montijo (línea 5).Bus: 17, 31.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Aluche"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/190024-iglesia-cristiana-adventista-septimo-dia-madrid-calatrava.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "190024",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Calatrava",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=3a870bf21677f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Buenavista"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28044",
+			"street-address": "CALLE SECOYA 19 POLIGONO INDUSTRIAL AGUACATE"
+		},
+		"location": {
+			"latitude": 40.36926045846844,
+			"longitude": -3.744912867450059
+		},
+		"organization": {
+			"organization-desc": "Bus: 108, 118.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Calatrava"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/8353139-iglesia-cristiana-adventista-septimo-dia-madrid-eben-ezer-emaus.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "8353139",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Eben-Ezer y EMAUS",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=925691f81c421510VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Rosas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28022",
+			"street-address": "CALLE RUSIA 11"
+		},
+		"location": {
+			"latitude": 40.42423100660826,
+			"longitude": -3.610095282640812
+		},
+		"organization": {
+			"organization-desc": "Metro: Avenida de Guadalajara (línea 2).Bus: 4, 106, 140, 153, 38, 48.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Eben-Ezer y EMAUS"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/190046-iglesia-cristiana-adventista-septimo-dia-madrid-efes.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "190046",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Efes",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=5cb70bf21677f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Opanel"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28019",
+			"street-address": "CALLE ALEJANDRO SANCHEZ 49"
+		},
+		"location": {
+			"latitude": 40.390153190373084,
+			"longitude": -3.7220850553963856
+		},
+		"organization": {
+			"organization-desc": "Metro: Urgel (línea 5).Bus: 118, 34, 35, 119.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Efes"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/6893233-iglesia-cristiana-adventista-septimo-dia-madrid-grupo-brasilenos.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "6893233",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Grupo Brasileños",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=f1d689f2b4eed310VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/PuertaBonita"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28025",
+			"street-address": "TRAVESIA JUAN FRANCISCO 4"
+		},
+		"location": {
+			"latitude": 40.38685454268195,
+			"longitude": -3.7323234966679735
+		},
+		"organization": {
+			"organization-desc": "Metro: Oporto (líneas 5, 6).Bus: 54, 34, 35.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Grupo Brasileños"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/8352971-iglesia-cristiana-adventista-septimo-dia-madrid-noviciado-horeb.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "8352971",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Noviciado de Horeb",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=384fcef44b421510VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/SanIsidro"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28019",
+			"street-address": "CALLE DOCTOR ZOFIO 4"
+		},
+		"location": {
+			"latitude": 40.3948228497844,
+			"longitude": -3.738156333879843
+		},
+		"organization": {
+			"organization-desc": "Metro: Carpetana (línea 6).Bus: 17, 25, 119.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Noviciado de Horeb"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/190054-iglesia-cristiana-adventista-septimo-dia-madrid-resurreccion.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "190054",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Resurrección",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=23e70bf21677f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Rosas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28022",
+			"street-address": "CALLE AUSTRIA 2"
+		},
+		"location": {
+			"latitude": 40.424737348819995,
+			"longitude": -3.60803688991874
+		},
+		"organization": {
+			"organization-desc": "Metro: Avenida de Guadalajara (línea 2).Bus: 4, 106, 140, 153, 38, 48.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Resurrección"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/190014-iglesia-cristiana-adventista-septimo-dia-madrid-vallecas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "190014",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Vallecas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=26f70bf21677f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/SanDiego"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28018",
+			"street-address": "CALLE DOCTOR BELLIDO 13"
+		},
+		"location": {
+			"latitude": 40.38473396152094,
+			"longitude": -3.6673969388303247
+		},
+		"organization": {
+			"organization-desc": "Bus: 103, 111, 144, 24, 57.Cercanías RENFE: Asamblea de Madrid-Entrevías (líneas C2, C7).",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Vallecas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/190059-iglesia-cristiana-adventista-septimo-dia-madrid-ventas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "190059",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Ventas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0a08d5bfd677f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal/Barrio/Ventas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28017",
+			"street-address": "CALLE HERMANOS GOMEZ 32"
+		},
+		"location": {
+			"latitude": 40.430239463904734,
+			"longitude": -3.6498796531677073
+		},
+		"organization": {
+			"organization-desc": "Metro: Quintana (línea 5), La Elipa (línea 2).Bus: 113, 106, 28.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Madrid Ventas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/190019-iglesia-cristiana-adventista-septimo-dia-proyecto-cero.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "190019",
+		"title": "Iglesia Cristiana Adventista del Séptimo Día. Proyecto Cero",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ed570bf21677f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/Adelfas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28007",
+			"street-address": "CALLE ARREGUI Y ARUEJ 13"
+		},
+		"location": {
+			"latitude": 40.40004426391387,
+			"longitude": -3.6689468818616415
+		},
+		"organization": {
+			"organization-desc": "Metro: Puente de Vallecas (línea 1).Bus: 58, 111, 8, 113, 141, 24, 54, 57.",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Adventista del Séptimo Día. Proyecto Cero"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065980-iglesia-cristiana-evangelica-chamartin.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065980",
+		"title": "Iglesia Cristiana Evangélica de Chamartín",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=474204a5d0260410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamartin/Barrio/Hispanoamerica"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28016",
+			"street-address": "CALLE VÍCTOR DE LA SERNA 58 - 60"
+		},
+		"location": {
+			"latitude": 40.45776241085655,
+			"longitude": -3.671869586880974
+		},
+		"organization": {
+			"organization-desc": "Templo evanglélicoMetro: Colombia (líneas 8 y 9)Bus: 7, 11, 40, 52, 87",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Evangélica de Chamartín"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7063730-iglesia-cristiana-evangelica-hortaleza-eben-ezer-.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7063730",
+		"title": "Iglesia Cristiana Evangélica en Hortaleza (Eben Ezer)",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=924b7b05a8350410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza/Barrio/PinarRey"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28033",
+			"street-address": "CALLE SANTA VIRGILIA 5 POSTERIOR"
+		},
+		"location": {
+			"latitude": 40.47803083728167,
+			"longitude": -3.6436863685291523
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Parque de Santa María (línea 4)Bus: 107",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Evangélica en Hortaleza (Eben Ezer)"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064620-iglesia-cristiana-hosanna.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064620",
+		"title": "Iglesia Cristiana Hosanna",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=149a5bddd0950410VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/VistaAlegre"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28025",
+			"street-address": "CALLE ALFARO 34 - 36"
+		},
+		"location": {
+			"latitude": 40.39008603694386,
+			"longitude": -3.737012505590283
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Vista Alegre (línea 5)  Bus: 55",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Hosanna"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11026233-iglesia-cristiana-integral-madrid-casa-roca.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11026233",
+		"title": "Iglesia Cristiana Integral - Madrid Casa sobre la Roca",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0d9fb608d026d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal/Barrio/Colina"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28043",
+			"street-address": "CALLE ULISES 1"
+		},
+		"location": {
+			"latitude": 40.456371724419725,
+			"longitude": -3.6556133054897137
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Arturo Soria (línea 4)Bus: 120, 122, 11, 70",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Integral - Madrid Casa sobre la Roca"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11026241-iglesia-cristiana-reconciliate-dios.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11026241",
+		"title": "Iglesia Cristiana Reconcíliate con Dios",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=82efb608d026d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Buenavista"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28044",
+			"street-address": "CALLE HAYA 16"
+		},
+		"location": {
+			"latitude": 40.365608004560805,
+			"longitude": -3.7476502733606907
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: La Peseta (línea 11)Bus: 155",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Reconcíliate con Dios"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11026245-iglesia-cristiana-redimida-dios.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11026245",
+		"title": "Iglesia Cristiana Redimida de Dios",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ab30b608d026d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde/Barrio/VillaverdeAltoCH"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28021",
+			"street-address": "CALLE RESINA 29"
+		},
+		"location": {
+			"latitude": 40.33567575572324,
+			"longitude": -3.702293202148939
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoCercanías: San Cristóbal Industrial (C3)Bus: T41, 79",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Redimida de Dios"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064624-iglesia-cristiana-reformada.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064624",
+		"title": "Iglesia Cristiana Reformada",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=a5cc5bddd0950410VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal/Barrio/SanPascual"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28027",
+			"street-address": "CALLE CESAR GONZÁLEZ RUANO 25"
+		},
+		"location": {
+			"latitude": 40.439878546069856,
+			"longitude": -3.6531796217016983
+		},
+		"organization": {
+			"organization-desc": "Templo evangelicoMetro: Barrio de la Concepción (línea 7)  Bus: 21",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Reformada"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064802-iglesia-cristiana-shalom-adonai.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064802",
+		"title": "Iglesia Cristiana Shalom Adonai",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=98296bbcdbc50410VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo/Barrio/ElPilar"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28029",
+			"street-address": "PLAZA MONDARIZ 10 Local 5"
+		},
+		"location": {
+			"latitude": 40.478096305847544,
+			"longitude": -3.7050349888320526
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Barrio del Pilar (línea 9)  Bus: 128, 132, 137, 21, 49, 83, 147",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Shalom Adonai"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065928-iglesia-cristiana-verbo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065928",
+		"title": "Iglesia Cristiana Verbo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=003ff181df160410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Rosas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28022",
+			"street-address": "CALLE CIRCE 32"
+		},
+		"location": {
+			"latitude": 40.42486074067447,
+			"longitude": -3.608556691010076
+		},
+		"organization": {
+			"organization-desc": "Metro:  Torre Arias (línea 5)Bus:  28, 48, 140",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cristiana Verbo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064883-iglesia-cuerpo-cristo-don-pedro.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064883",
+		"title": "Iglesia Cuerpo de Cristo, Don Pedro",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=a8319bd56dc50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "CALLE DON PEDRO 10"
+		},
+		"location": {
+			"latitude": 40.41164356061595,
+			"longitude": -3.7127680071804763
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: La Latina (línea 5)Bus: 3, 60",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cuerpo de Cristo, Don Pedro"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064876-iglesia-cuerpo-cristo-general-ricardos.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064876",
+		"title": "Iglesia Cuerpo de Cristo, General Ricardos",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=335d9bd56dc50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/VistaAlegre"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28025",
+			"street-address": "CALLE GENERAL RICARDOS 188"
+		},
+		"location": {
+			"latitude": 40.38632169648766,
+			"longitude": -3.7353691693981794
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Oporto (líneas 5 y 6), Vista Alegre (línea 5)Bus: 34, 35",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cuerpo de Cristo, General Ricardos"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11026250-iglesia-cuerpo-cristo-manuel.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11026250",
+		"title": "Iglesia Cuerpo de Cristo, Manuel",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e880b608d026d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/PalomerasBajas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28018",
+			"street-address": "CALLE MANUEL LAGUNA 9"
+		},
+		"location": {
+			"latitude": 40.38182563547421,
+			"longitude": -3.6650716761567916
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoCercanías: Asamblea de Madrid - Entrevías (C2)Bus: 144, 57",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Cuerpo de Cristo, Manuel"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064917-iglesia-cristo-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064917",
+		"title": "Iglesia de Cristo - Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=4fb3b607bec50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan/Barrio/CuatroCaminos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28020",
+			"street-address": "CALLE TERUEL 25"
+		},
+		"location": {
+			"latitude": 40.45142687862351,
+			"longitude": -3.7010649675352028
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Alvarado (línea 1)Bus: 124, 128, 3, 64, 66, 43",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia de Cristo - Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11026266-iglesia-dios-pentecostal-movimiento-internacional-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11026266",
+		"title": "Iglesia de Dios Pentecostal Movimiento Internacional de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6621b608d026d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde/Barrio/VillaverdeAltoCH"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28021",
+			"street-address": "CALLEJON GOMEZ ACEBO 14"
+		},
+		"location": {
+			"latitude": 40.34250052860725,
+			"longitude": -3.7083992189259987
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Villaverde Alto (línea 3)Bus: 79Cercanías: Villaverde Alto (C4, C5)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia de Dios Pentecostal Movimiento Internacional de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064921-iglesia-dios-verbo-dios-.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064921",
+		"title": "Iglesia de Dios (Verbo de Dios)",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=646b0ac0dfc50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/VillaDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/VillaDeVallecas/Barrio/CascoHVallecas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28031",
+			"street-address": "CALLE PUERTO DE POZAZAL 25"
+		},
+		"location": {
+			"latitude": 40.37954477665532,
+			"longitude": -3.6304610133031003
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 130, T31",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia de Dios (Verbo de Dios)"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/147971-iglesia-cienciologia.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "147971",
+		"title": "Iglesia de la Cienciología",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0606ac2e6481c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Cortes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "CALLE SANTA CATALINA 7 esquina calle Prado"
+		},
+		"location": {
+			"latitude": 40.41544685773238,
+			"longitude": -3.6977564880686664
+		},
+		"organization": {
+			"organization-desc": "Metro: Sol (línea 1, 2, 3), Sevilla (línea 2).Bus: 26, 3, 32, 51, 6, 53 Cercanías: Sol (C3, C4)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia de la Cienciología"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065029-iglesia-elegidos-dios.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065029",
+		"title": "Iglesia de Los Elegidos de Dios",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=fdea3ddd32d50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Abrantes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28025",
+			"street-address": "CALLE FARO 8 Local 4, Posterior"
+		},
+		"location": {
+			"latitude": 40.38119767358174,
+			"longitude": -3.7264778892367456
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Abrantes (línea 11)  Bus: 47, 108, 116, E1",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia de Los Elegidos de Dios"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065000-iglesia-hermanos-vaguada.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065000",
+		"title": "Iglesia de los Hermanos en La Vaguada",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=3c33c91fc0d50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo/Barrio/ElPilar"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28029",
+			"street-address": "CALLE PUERTO DE MASPALOMAS 22 Posterior"
+		},
+		"location": {
+			"latitude": 40.4791594681295,
+			"longitude": -3.7138237216851797
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Peñagrande (línea 7)Bus: 83",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia de los Hermanos en La Vaguada"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7063734-iglesia-dios-es-amor-union-cristiana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7063734",
+		"title": "Iglesia Dios es Amor - Unión Cristiana",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=dd257b05a8350410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal/Barrio/Quintana"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28027",
+			"street-address": "CALLE PRUDENCIO ALVARO 46"
+		},
+		"location": {
+			"latitude": 40.43829788787747,
+			"longitude": -3.644274105325617
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Pueblo Nuevo (líneas 5, 7)Bus: 48, 146",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Dios es Amor - Unión Cristiana"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/18306-iglesia-ejercito-salvacion-madrid-central.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "18306",
+		"title": "Iglesia Ejército de Salvación Madrid Central",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=8d9f6f065851c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/FuenteBerro"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28028",
+			"street-address": "CALLE HERMOSILLA 126 Local 4"
+		},
+		"location": {
+			"latitude": 40.42545230198005,
+			"longitude": -3.6678581814924507
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Manuel Becerra (líneas, 2 y 6), O'Donnell (línea 6)Bus: 143, 156, 2, 56, 71, C1, 30, C2",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Ejército de Salvación Madrid Central"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11026824-iglesia-ejercito-salvacion-palomeras.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11026824",
+		"title": "Iglesia Ejército de Salvación Palomeras",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=68449283b726d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/PalomerasSureste"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28038",
+			"street-address": "AVENIDA RAFAEL ALBERTI 18"
+		},
+		"location": {
+			"latitude": 40.388453004338494,
+			"longitude": -3.6402017057531606
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Miguel Hernández (línea 1)Bus: 103, 142, 143, 54, 58, 144",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Ejército de Salvación Palomeras"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065093-iglesia-buen-pastor-vallecas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065093",
+		"title": "Iglesia El Buen Pastor de Vallecas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=7d373ddd32d50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/Numancia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28038",
+			"street-address": "CAMINO VALDERRIBAS 96 Nave"
+		},
+		"location": {
+			"latitude": 40.398863439810455,
+			"longitude": -3.660560405682932
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 141",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia El Buen Pastor de Vallecas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065383-iglesia-emanuel-c-orcasitas-orcasur-.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065383",
+		"title": "Iglesia Emanuel (U.C.E) Orcasitas (Orcasur)",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=2b96691af6d50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera/Barrio/Orcasur"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28041",
+			"street-address": "AVENIDA ORCASUR 48 y 50. Plaza Mercado Isidra Jiménez 24"
+		},
+		"location": {
+			"latitude": 40.37038446580724,
+			"longitude": -3.70056603706231
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 121, 81",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Emanuel (U.C.E) Orcasitas (Orcasur)"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065435-iglesia-espanola-reformada-episcopal.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065435",
+		"title": "Iglesia Española Reformada Episcopal",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=37d53bf7d7d50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "CALLE BENEFICENCIA 18"
+		},
+		"location": {
+			"latitude": 40.42635120982088,
+			"longitude": -3.698682579292043
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Alonso Martínez (líneas 4, 5 y 10), Tribunal (líneas 1 y 10)Bus: 37, 40, 149Bicimad: Estación 54 (calle Barceló, 7)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Española Reformada Episcopal"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11026948-iglesia-evangelica-avivamiento-emmanuel-espana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11026948",
+		"title": "Iglesia Evangélica Avivamiento Emmanuel España",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=5e4b8afbee26d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/PuertaBonita"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28025",
+			"street-address": "CALLE ALVAREZ ABELLAN 17"
+		},
+		"location": {
+			"latitude": 40.38519101985389,
+			"longitude": -3.7323123187363367
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Oporto (línea 5 y 6)Bus: 247",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Avivamiento Emmanuel España"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7063848-iglesia-evangelica-bautista-barrio-pilar.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7063848",
+		"title": "Iglesia Evangélica Bautista Barrio del Pilar",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d7521ea949750410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo/Barrio/LaPaz"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28029",
+			"street-address": "CALLE GINZO DE LIMIA 44"
+		},
+		"location": {
+			"latitude": 40.47854013481567,
+			"longitude": -3.703163788451918
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Barrio del Pilar (línea 9)Bus: 49, 83, 128, 132, 134, 137, 147",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Bautista Barrio del Pilar"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11027012-iglesia-evangelica-buenas-nuevas-gran-comision.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11027012",
+		"title": "Iglesia Evangélica Buenas Nuevas la Gran Comisión",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6731b97c8136d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Opanel"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28019",
+			"street-address": "CALLE RADIO 12 PLANTA BAJO A"
+		},
+		"location": {
+			"latitude": 40.39240076651593,
+			"longitude": -3.7233440134536795
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Urgel (línea 5)Bus: 118, 119, 34, 35",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Buenas Nuevas la Gran Comisión"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11027019-iglesia-evangelica-casa-misericordia.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11027019",
+		"title": "Iglesia Evangélica Casa de la Misericordia",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=c191b97c8136d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/SanIsidro"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28019",
+			"street-address": "CALLE SANTIAGO ESTEVEZ 29 PLANTA BAJA A"
+		},
+		"location": {
+			"latitude": 40.39105388398816,
+			"longitude": -3.734197628694965
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Oporto (líneas 5 y 6)Bus: 55",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Casa de la Misericordia"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065547-iglesia-evangelica-casa-oracion.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065547",
+		"title": "Iglesia Evangélica Casa de Oración",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=75ab8fd21ad50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/PalomerasBajas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28018",
+			"street-address": "CALLE FELIPE DE DIEGO 3 Bloque A, posterior"
+		},
+		"location": {
+			"latitude": 40.379470784588214,
+			"longitude": -3.663021565402853
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 24, 57, 144Renfe: Asamblea de Madrid - Entrevías",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Casa de Oración"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065462-iglesia-evangelica-casa-oracion-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065462",
+		"title": "Iglesia Evangélica Casa de Oración de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=644198d978d50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Guindalera"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28028",
+			"street-address": "CALLE LONDRES 13"
+		},
+		"location": {
+			"latitude": 40.43146112930494,
+			"longitude": -3.6694502641980313
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Manuel Becerra (líneas 2, 6)Bus: 1, 43, 74, 12, 210, 48, 56, C1",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Casa de Oración de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065574-iglesia-evangelica-china-espanola.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065574",
+		"title": "Iglesia Evangélica China Española",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=5ff28fd21ad50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan/Barrio/BellasVistas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28039",
+			"street-address": "CALLE CAROLINAS 10"
+		},
+		"location": {
+			"latitude": 40.451241419899205,
+			"longitude": -3.704895759227494
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Alvarado (línea 1)Bus: 124, 125, 3, 64, 66",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica China Española"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7063679-iglesia-evangelica-cristo-vive.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7063679",
+		"title": "Iglesia Evangélica Cristo Vive",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=2224216f16350410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Canillejas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28022",
+			"street-address": "CALLE TALIA 32"
+		},
+		"location": {
+			"latitude": 40.447416389559166,
+			"longitude": -3.6142317394076233
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 105, 153, 140, 77, 165",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Cristo Vive"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/23684-iglesia-evangelica-aluche.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "23684",
+		"title": "Iglesia Evangélica de Aluche",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=bf9b92355c51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/Aluche"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28047",
+			"street-address": "CALLE NUESTRA SEÑORA DE LA LUZ 118"
+		},
+		"location": {
+			"latitude": 40.38654208091557,
+			"longitude": -3.751536019050476
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Eugenia de Montijo (línea 5)Bus: 17",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica de Aluche"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065594-iglesia-evangelica-hermanos-shadday.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065594",
+		"title": "Iglesia Evangélica de Hermanos El Shadday",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=352afe5dfad50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan/Barrio/BellasVistas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28039",
+			"street-address": "CALLE MARIA PEDRAZA 11"
+		},
+		"location": {
+			"latitude": 40.453349071696216,
+			"longitude": -3.7093874627751746
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 44, 127",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica de Hermanos El Shadday"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028295-iglesia-evangelica-hermanos-aluche-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028295",
+		"title": "Iglesia Evangélica de Hermanos en Aluche - Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=a02643cf28c6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/Aluche"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28024",
+			"street-address": "CALLE TEMBLEQUE 140"
+		},
+		"location": {
+			"latitude": 40.39189873720004,
+			"longitude": -3.7660307873771934
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Empalme (línea 5)Bus: 131, 36, H",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica de Hermanos en Aluche - Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065598-iglesia-evangelica-nazareno.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065598",
+		"title": "Iglesia Evangélica del Nazareno",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ef5dfe5dfad50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Abrantes"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28025",
+			"street-address": "CALLE PELICANO 26"
+		},
+		"location": {
+			"latitude": 40.383690841533735,
+			"longitude": -3.728283631976347
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Abrantes (línea 11)Bus: 118, 247",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica del Nazareno"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065706-iglesia-evangelica-eben-ezer-dios-es-amor.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065706",
+		"title": "Iglesia Evangélica Eben Ezer Dios es amor",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=61a794d12cd50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/SanDiego"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28038",
+			"street-address": "AVENIDA ALBUFERA 46 local 4"
+		},
+		"location": {
+			"latitude": 40.396355872399226,
+			"longitude": -3.6658030852598196
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Nueva Numancia (línea 1)Bus: 10, 111, 136, 24, 310, 54, 57, 58",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Eben Ezer Dios es amor"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028306-iglesia-evangelica-emaus.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028306",
+		"title": "Iglesia Evangélica Emaús",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=1de643cf28c6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Rejas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28022",
+			"street-address": "CALLE AGUAVIVA 6"
+		},
+		"location": {
+			"latitude": 40.4487149362724,
+			"longitude": -3.5666134456579752
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 77",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Emaús"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11026848-iglesia-evangelica-suanzes-hermanos-resurreccion-vida-.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11026848",
+		"title": "Iglesia Evangélica en Suanzes (De Hermanos Resurrección y Vida)",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=04d59283b726d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Simancas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28037",
+			"street-address": "PASAJE PAQUITIN 10"
+		},
+		"location": {
+			"latitude": 40.44047986175515,
+			"longitude": -3.6247473743912937
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Suanzes (línea 5)Bus: 104, 77, 105",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica en Suanzes (De Hermanos Resurrección y Vida)"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7063733-iglesia-evangelica-encuentro-dios.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7063733",
+		"title": "Iglesia Evangélica Encuentro con Dios",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=f0fe7b05a8350410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moratalaz"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moratalaz/Barrio/MediaLegua"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28030",
+			"street-address": "CALLE JOSE DEL PRADO Y PALACIO 1 Local 4"
+		},
+		"location": {
+			"latitude": 40.40995541329681,
+			"longitude": -3.653903803273293
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Vinateros (línea 9)Bus: 30, 32, 71, 113",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Encuentro con Dios"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3741-iglesia-evangelica-espanola-salvador.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "3741",
+		"title": "Iglesia Evangélica Española El Salvador",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=5b850a47f441f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Universidad"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28015",
+			"street-address": "CALLE NOVICIADO 5"
+		},
+		"location": {
+			"latitude": 40.4255730852911,
+			"longitude": -3.7081171132637802
+		},
+		"organization": {
+			"organization-desc": "Metro: Noviciado, San Bernardo (línea 2)Bus: 3, 138, 147",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Española El Salvador"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028319-iglesia-evangelica-evangelizando-naciones.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028319",
+		"title": "Iglesia Evangélica Evangelizando las Naciones",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=11a903ce1ec6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde/Barrio/LosAngeles"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28041",
+			"street-address": "PASEO GIGANTES Y CABEZUDOS 48 PLANTA BAJO 1,2"
+		},
+		"location": {
+			"latitude": 40.35529078999778,
+			"longitude": -3.6938688031840106
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Villaverde Bajo Cruce (línea 3)Bus: 22, 59, 79, 85, 116, 18, 86",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Evangelizando las Naciones"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028330-iglesia-evangelica-fe-esperanza-amor.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028330",
+		"title": "Iglesia Evangélica Fe, Esperanza y Amor",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=49da03ce1ec6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Simancas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28037",
+			"street-address": "CALLE PATRIARCA SAN JOSE 9 PLANTA SUBSÓTANO"
+		},
+		"location": {
+			"latitude": 40.43055108462239,
+			"longitude": -3.628173673450934
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: García Noblejas (línea 7)Bus: 28",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Fe, Esperanza y Amor"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028343-iglesia-evangelica-filadelfia-centro-cielos-abiertos.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028343",
+		"title": "Iglesia Evangélica Filadelfia del Centro Cielos Abiertos",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=60dc03ce1ec6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Embajadores"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "CALLE RODRIGO DE GUEVARA 2"
+		},
+		"location": {
+			"latitude": 40.40931307515139,
+			"longitude": -3.7089216905673084
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: La Latina (línea 5)Bus: 17, 18, 23, 35, 60",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Filadelfia del Centro Cielos Abiertos"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028400-iglesia-evangelica-filadelfia-orcasur.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028400",
+		"title": "Iglesia Evangélica Filadelfia Orcasur",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=345103ce1ec6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera/Barrio/Orcasur"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28041",
+			"street-address": "CALLE ALBU&amp;Ntilde;UELAS 4"
+		},
+		"location": {
+			"latitude": 40.366085156865104,
+			"longitude": -3.700342852740247
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoCercanías: Orcasitas (C4)Bus: 116, 78, 76",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Filadelfia Orcasur"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028338-iglesia-evangelica-filadelfia-rayo-.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028338",
+		"title": "Iglesia Evangélica Filadelfia (El Rayo)",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=975b03ce1ec6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/Portazgo"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28018",
+			"street-address": "CALLE RIO ARAUCA 8"
+		},
+		"location": {
+			"latitude": 40.387701083626446,
+			"longitude": -3.650824699019214
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Alto del Arenal (línea 1)Bus: 10, 36",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Filadelfia (El Rayo)"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065792-iglesia-evangelica-fuente-vida.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065792",
+		"title": "Iglesia Evangélica Fuente de la Vida",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e9e95ac33d160410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/PalomerasBajas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28053",
+			"street-address": "CALLE SIERRA CARBONERA 31"
+		},
+		"location": {
+			"latitude": 40.39224017330228,
+			"longitude": -3.663983360780897
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Portazgo (línea 1)Bus: 10, 24, 57, 111, 310",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Fuente de la Vida"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028407-iglesia-evangelica-aguilas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028407",
+		"title": "Iglesia Evangélica Las Águilas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=34b203ce1ec6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/LasAguilas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28044",
+			"street-address": "CALLE FUERTE DE NAVIDAD 19"
+		},
+		"location": {
+			"latitude": 40.380332955379934,
+			"longitude": -3.7668506940875517
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Aluche (línea 5)Bus: 138, 17Cercanías: Aluche (C5)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Las Águilas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028410-iglesia-evangelica-manantial-vida-center.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028410",
+		"title": "Iglesia Evangélica Manantial de Vida Center",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=fef303ce1ec6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera/Barrio/Zofio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28026",
+			"street-address": "AVENIDA CERRO DE LOS ANGELES 10 PLANTA 1 B"
+		},
+		"location": {
+			"latitude": 40.379960391322925,
+			"longitude": -3.7130159457712084
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 6, 60, 81, 78",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Manantial de Vida Center"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028415-iglesia-evangelica-ministerio-pasion-cristo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028415",
+		"title": "Iglesia Evangélica Ministerio Pasión por Cristo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=bd0703ce1ec6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Buenavista"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28044",
+			"street-address": "CALLE REUS 8"
+		},
+		"location": {
+			"latitude": 40.37160136859314,
+			"longitude": -3.7459391632325407
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: San Francisco (línea 11)Bus: 108, 118",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Ministerio Pasión por Cristo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7063724-iglesia-evangelica-nueva-vida.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7063724",
+		"title": "Iglesia Evangélica Nueva Vida",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=4996e44317350410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Simancas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28037",
+			"street-address": "CALLE ARGOS 13 o calle Caunedo, 16"
+		},
+		"location": {
+			"latitude": 40.436772923362945,
+			"longitude": -3.634945071142653
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Ciudad Lineal (línea 5)Bus: 105, 38, 4, 48, 70",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Nueva Vida"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7064948-iglesia-evangelica-pentecostal-amistad-cristiana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7064948",
+		"title": "Iglesia Evangélica Pentecostal Amistad Cristiana",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=64f10ac0dfc50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi/Barrio/Arapiles"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28015",
+			"street-address": "CALLE VALLEHERMOSO 70"
+		},
+		"location": {
+			"latitude": 40.437256742788904,
+			"longitude": -3.708286842692643
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Canal (línea 2, 7), Quevedo (2)Bus: 2, 12",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Pentecostal Amistad Cristiana"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/18304-iglesia-evangelica-pentecostal-bethel.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "18304",
+		"title": "Iglesia Evangélica Pentecostal Bethel",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=a2cf6f065851c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Comillas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28019",
+			"street-address": "CALLE FERNANDO DIAZ DE MENDOZA 3"
+		},
+		"location": {
+			"latitude": 40.39425444284573,
+			"longitude": -3.7130323684423163
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Marqués de Vadillo (línea 5)Bus: 23",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Pentecostal Bethel"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028417-iglesia-evangelica-pentecostal-mision-1909.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028417",
+		"title": "Iglesia Evangélica Pentecostal Misión 1909",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=26e703ce1ec6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Opanel"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28019",
+			"street-address": "CALLE VIRGEN DE BELEN 42 PLANTA BAJO"
+		},
+		"location": {
+			"latitude": 40.390490853232684,
+			"longitude": -3.721308792690415
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Urgel (línea 5)Bus: 118, 119, 34, 35",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Pentecostal Misión 1909"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7063715-iglesia-evangelica-pentecostal-salem.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7063715",
+		"title": "Iglesia Evangélica Pentecostal Salem",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6fb1e44317350410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Buenavista"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28044",
+			"street-address": "CALLE CIDRO 8"
+		},
+		"location": {
+			"latitude": 40.36788312377922,
+			"longitude": -3.7461462154794596
+		},
+		"organization": {
+			"organization-desc": "Bus: 155",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Pentecostal Salem"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065603-iglesia-evangelica-pueblo-nuevo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065603",
+		"title": "Iglesia Evangélica Pueblo Nuevo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d6adfe5dfad50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Vicalvaro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Vicalvaro/Barrio/CascoHVicalvaro"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28032",
+			"street-address": "CALLE VILLACARLOS 14"
+		},
+		"location": {
+			"latitude": 40.405980938654075,
+			"longitude": -3.6062299408865495
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Vicálvaro (línea 9)Bus: 4, 100, 106, E3",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Pueblo Nuevo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028554-iglesia-evangelica-servidores-vida.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028554",
+		"title": "Iglesia Evangélica Servidores de Vida",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=9069fadc26d6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/VistaAlegre"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28025",
+			"street-address": "CALLE CASTROJERIZ 8"
+		},
+		"location": {
+			"latitude": 40.387266618692394,
+			"longitude": -3.738996818463832
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Vista Alegre (línea 5)Bus: 35",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangélica Servidores de Vida"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065052-iglesia-evangelio-cuadrangular-vida-nueva-usera.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065052",
+		"title": "Iglesia Evangelio Cuadrangular Vida Nueva Usera",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=db313ddd32d50410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera/Barrio/Moscardo"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28026",
+			"street-address": "CALLE MONEDEROS 22"
+		},
+		"location": {
+			"latitude": 40.387603572276106,
+			"longitude": -3.7016044995191493
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Usera (línea 6)Bus: 247, 47, 6, 78, 23, 18, 22, 59, 76, 79, 85, 86",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Evangelio Cuadrangular Vida Nueva Usera"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028433-iglesia-fraternidad-cristiana-vida-nueva.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028433",
+		"title": "Iglesia Fraternidad Cristiana Vida Nueva",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=206aaf9c53d6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan/Barrio/Berruguete"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28039",
+			"street-address": "CALLE MARIA ZAYAS 15 PLANTA BAJO"
+		},
+		"location": {
+			"latitude": 40.45954045233268,
+			"longitude": -3.701559520848318
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Tetuán (línea 1)Bus: 66, 124",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Fraternidad Cristiana Vida Nueva"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028542-iglesia-gloria-dios.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028542",
+		"title": "Iglesia Gloria de Dios",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=1367af9c53d6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/Aluche"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28024",
+			"street-address": "CALLE MAQUEDA 30 LOCAL 60"
+		},
+		"location": {
+			"latitude": 40.39349551141014,
+			"longitude": -3.7652131230219634
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Campamento (línea 5)Bus: 131",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Gloria de Dios"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065841-iglesia-internacional-alianza-amor.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065841",
+		"title": "Iglesia Internacional Alianza de Amor",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=3f915ac33d160410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Opanel"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28019",
+			"street-address": "CALLE ANTONIO GONZALEZ PORRAS 25"
+		},
+		"location": {
+			"latitude": 40.39066598347717,
+			"longitude": -3.7178606509833854
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 116",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Internacional Alianza de Amor"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028547-iglesia-jesus-es-maestro.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028547",
+		"title": "Iglesia Jesús es el Maestro",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=bfe8fadc26d6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/Lucero"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28047",
+			"street-address": "CALLE ALEJANDRINA MORAN 24"
+		},
+		"location": {
+			"latitude": 40.40246457556407,
+			"longitude": -3.7470680018458173
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Lucero (línea 6)Bus: 138, 55",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Jesús es el Maestro"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11028550-iglesia-punto-encuentro.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11028550",
+		"title": "Iglesia Punto de Encuentro",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6129fadc26d6d610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Villaverde/Barrio/VillaverdeAltoCH"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28021",
+			"street-address": "CALLE RESINA 13 PLANTA 1"
+		},
+		"location": {
+			"latitude": 40.33587371620533,
+			"longitude": -3.697986972585755
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoBus: 79",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Punto de Encuentro"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065947-iglesia-tabernaculo-alabanza.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065947",
+		"title": "Iglesia Tabernáculo de Alabanza",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=c944f181df160410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/Numancia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28038",
+			"street-address": "CALLE SANTA BEATRIZ 8"
+		},
+		"location": {
+			"latitude": 40.40196373974351,
+			"longitude": -3.6633640539029457
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Puente de Vallecas (línea 1)Bus: 113, 8",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Tabernáculo de Alabanza"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7065918-iglesia-templo-dios.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "7065918",
+		"title": "Iglesia Templo de Dios",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=c70bf181df160410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/Opanel"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28019",
+			"street-address": "CALLE MARQUESA DE ARG&amp;Uuml;ESO 22"
+		},
+		"location": {
+			"latitude": 40.391475542527616,
+			"longitude": -3.7238429956192007
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Urgel (línea 5)Bus: 34, 35, 118, 119",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Iglesia Templo de Dios"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11030093-mision-evangelica-urbana.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11030093",
+		"title": "Misión Evangélica Urbana",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=bb62be0e48e6d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Embajadores"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "CALLE CALVARIO 12"
+		},
+		"location": {
+			"latitude": 40.41145685017254,
+			"longitude": -3.702266928516734
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Antón Martín, Tirso de Molina (línea 1)Bus: 6, 26, 32",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Misión Evangélica Urbana"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/11030099-nuevas-fronteras-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "11030099",
+		"title": "Nuevas Fronteras Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=06a2be0e48e6d610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca/Barrio/Valdezarza"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28039",
+			"street-address": "CALLE VALLE DE CACHEMIRA 28"
+		},
+		"location": {
+			"latitude": 40.466201838360924,
+			"longitude": -3.713456156309851
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Valdezarza (línea 7)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Nuevas Fronteras Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/3742-primera-iglesia-evangelica-bautista-madrid.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "3742",
+		"title": "Primera Iglesia Evangélica Bautista de Madrid",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ede51e79ee71c010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Arganzuela"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Arganzuela/Barrio/PalosMoguer"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28045",
+			"street-address": "CALLE GENERAL LACY 18"
+		},
+		"location": {
+			"latitude": 40.403586898197894,
+			"longitude": -3.690928534913438
+		},
+		"organization": {
+			"organization-desc": "Templo evangélicoMetro: Palos de la Frontera (línea 3)Bus: 8, 47, 55, 102, 247Renfe: Atocha",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Primera Iglesia Evangélica Bautista de Madrid"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189403-testigos-cristianos-jehova-avenida-moratalaz.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189403",
+		"title": "Testigos Cristianos de Jehová. Avenida de Moratalaz",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=3104784e0cc4f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moratalaz"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moratalaz/Barrio/Marroquina"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28030",
+			"street-address": "AVENIDA MORATALAZ 143 local 12"
+		},
+		"location": {
+			"latitude": 40.40711568603655,
+			"longitude": -3.6480628737257152
+		},
+		"organization": {
+			"organization-desc": "Metro: Artilleros (línea 9)Bus: 32",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Avenida de Moratalaz"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189958-testigos-cristianos-jehova-avenida-moratalaz.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189958",
+		"title": "Testigos Cristianos de Jehová. Avenida Moratalaz",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=daca6dd8f677f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moratalaz"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moratalaz/Barrio/Marroquina"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28030",
+			"street-address": "AVENIDA MORATALAZ 143 LOCAL 12"
+		},
+		"location": {
+			"latitude": 40.40710531270078,
+			"longitude": -3.64807785428665
+		},
+		"organization": {
+			"organization-desc": "Bus: 32  Metro: Artilleros (línea 9)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Avenida Moratalaz"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189353-testigos-cristianos-jehova-calle-arroyo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189353",
+		"title": "Testigos Cristianos de Jehová. Calle Arroyo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=a823784e0cc4f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan/Barrio/Valdeacederas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28029",
+			"street-address": "CALLE ARROYO 23 PLANTA BAJA"
+		},
+		"location": {
+			"latitude": 40.46978728598973,
+			"longitude": -3.7025298582429698
+		},
+		"organization": {
+			"organization-desc": "Metro: Ventilla (línea 9)Bus: 49, 177",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Arroyo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189354-testigos-cristianos-jehova-calle-artistas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189354",
+		"title": "Testigos Cristianos de Jehová. Calle Artistas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0e33784e0cc4f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan/Barrio/CuatroCaminos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28020",
+			"street-address": "CALLE ARTISTAS 22 PLANTA BAJO A"
+		},
+		"location": {
+			"latitude": 40.44728893529121,
+			"longitude": -3.7015290370510474
+		},
+		"organization": {
+			"organization-desc": "Metro: Cuatro Caminos (líneas 1, 2, 6)Bus: 149, C2, C1, 66, 124Bicimad: Estación 123 (calle Raimundo Fernández Villaverde, 33)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Artistas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/5713730-testigos-cristianos-jehova-calle-carrascales.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "5713730",
+		"title": "Testigos Cristianos de Jehová. Calle Carrascales",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=13c13b49d7619210VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera/Barrio/Pradolongo"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28026",
+			"street-address": "CALLE CARRASCALES 12 DERECHA PLANTA BAJA 1 derecha"
+		},
+		"location": {
+			"latitude": 40.38152721787896,
+			"longitude": -3.7082093955604063
+		},
+		"organization": {
+			"organization-desc": "Metro: Usera (línea 6)Bus: 6",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Carrascales"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189389-testigos-cristianos-jehova-calle-chantada.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189389",
+		"title": "Testigos Cristianos de Jehová. Calle Chantada",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=f493784e0cc4f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Fuencarral-ElPardo/Barrio/PenaGrande"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28035",
+			"street-address": "CALLE CHANTADA 41 LOCAL 6 y 43"
+		},
+		"location": {
+			"latitude": 40.47295576678733,
+			"longitude": -3.7161763610140874
+		},
+		"organization": {
+			"organization-desc": "Metro: Peñagrande (línea 7)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Chantada"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189398-testigos-cristianos-jehova-calle-doctor-gomez-ulla.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189398",
+		"title": "Testigos Cristianos de Jehová. Calle Doctor Gómez Ulla",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=11c3784e0cc4f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Salamanca/Barrio/Guindalera"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28028",
+			"street-address": "CALLE DOCTOR GÓMEZ ULLA 16 PLANTA BAJA IZQUIERDA"
+		},
+		"location": {
+			"latitude": 40.4299768268144,
+			"longitude": -3.667513892714285
+		},
+		"organization": {
+			"organization-desc": "Metro: Manuel Becerra (líneas 2, 6)Bus:  38, 43, 53, 12, 56, 74, C2, 106, 110, 146, 21, 210",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Doctor Gómez Ulla"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189402-testigos-cristianos-jehova-calle-guamo.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189402",
+		"title": "Testigos Cristianos de Jehová. Calle Guamo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=dbe3784e0cc4f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza/Barrio/PinarRey"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28033",
+			"street-address": "CALLE GUAMO 2 PLANTA BAJA LOCAL 1 BIS y 6"
+		},
+		"location": {
+			"latitude": 40.472423257425966,
+			"longitude": -3.6329921848042237
+		},
+		"organization": {
+			"organization-desc": "Metro: San Lorenzo (línea 4)Bus: 72, T11",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Guamo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189356-testigos-cristianos-jehova-calle-hilario-sangrador.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189356",
+		"title": "Testigos Cristianos de Jehová. Calle Hilario Sangrador",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=1673784e0cc4f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/Lucero"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28011",
+			"street-address": "CALLE HILARIO SANGRADOR 8 PLANTA BAJA IZQUIERDA"
+		},
+		"location": {
+			"latitude": 40.407960942737944,
+			"longitude": -3.7424991074388743
+		},
+		"organization": {
+			"organization-desc": "Bus: 31, 33, 36, 39, 65  Metro: Alto de Extremadura (línea 6)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Hilario Sangrador"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189404-testigos-cristianos-jehova-calle-jacobinia.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189404",
+		"title": "Testigos Cristianos de Jehová. Calle Jacobinia",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=9614784e0cc4f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/VistaAlegre"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28047",
+			"street-address": "CALLE JACOBINIA 70"
+		},
+		"location": {
+			"latitude": 40.377563130203534,
+			"longitude": -3.7538276002522437
+		},
+		"organization": {
+			"organization-desc": "Bus: 121, 131, 139  Metro: Carabanchel Alto (línea 11)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Jacobinia"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/5713929-testigos-cristianos-jehova-calle-pedroneras.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "5713929",
+		"title": "Testigos Cristianos de Jehová. Calle Las Pedroñeras",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=2ae45159bd619210VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Hortaleza/Barrio/Canillas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28043",
+			"street-address": "CALLE LAS PEDRO&amp;Ntilde;ERAS 46 LOCAL"
+		},
+		"location": {
+			"latitude": 40.46740772482656,
+			"longitude": -3.630892617916542
+		},
+		"organization": {
+			"organization-desc": "Bus: 104, 171, T11",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Las Pedroñeras"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/5713667-testigos-cristianos-jehova-calle-luis-ruiz.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "5713667",
+		"title": "Testigos Cristianos de Jehová. Calle Luis Ruiz",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=c9a65068d6619210VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/CiudadLineal/Barrio/PuebloNuevo"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28017",
+			"street-address": "CALLE LUIS RUIZ 75 PUERTA 19"
+		},
+		"location": {
+			"latitude": 40.4280279977347,
+			"longitude": -3.6360652956995043
+		},
+		"organization": {
+			"organization-desc": "Metro: García Noblejas (línea 7)Bus: 28",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Luis Ruiz"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189415-testigos-cristianos-jehova-calle-marcudos.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189415",
+		"title": "Testigos Cristianos de Jehová. Calle Marcudos",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=1c64784e0cc4f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera/Barrio/Moscardo"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28026",
+			"street-address": "CALLE MARCUDOS 4 PLANTA BAJO 3"
+		},
+		"location": {
+			"latitude": 40.38853080646351,
+			"longitude": -3.701720159931242
+		},
+		"organization": {
+			"organization-desc": "Metro: Usera (línea 6)Bus: 23, 247, 47, 6, 78, 18, 22, 59, 76, 79, 85, 86",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Marcudos"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189957-testigos-cristianos-jehova-calle-martin-vargas.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189957",
+		"title": "Testigos Cristianos de Jehová. Calle Martín de Vargas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d0ea6dd8f677f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Arganzuela"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Arganzuela/Barrio/Acacias"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28005",
+			"street-address": "CALLE MARTIN DE VARGAS 26 PLANTA BAJA IZQUIERDA"
+		},
+		"location": {
+			"latitude": 40.40244073010048,
+			"longitude": -3.701734952593744
+		},
+		"organization": {
+			"organization-desc": "Metro: Embajadores (línea 3), Acacias (línea 5)Bus: 148, 60, 78Renfe: Embajadores (C5)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Martín de Vargas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189410-testigos-cristianos-jehova-calle-puerto-pozazal.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189410",
+		"title": "Testigos Cristianos de Jehová. Calle Puerto de Pozazal",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=458e813cbcc4f010VgnVCM1000000b205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/VillaDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/VillaDeVallecas/Barrio/CascoHVallecas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28031",
+			"street-address": "CALLE PUERTO DE POZAZAL 1 PLANTA BAJA"
+		},
+		"location": {
+			"latitude": 40.37941728069035,
+			"longitude": -3.6290579482359915
+		},
+		"organization": {
+			"organization-desc": "Bus: 130, T31  Renfe: Vallecas (C2)  Metro: Sierra de Guadalupe (línea 1)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Puerto de Pozazal"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189966-testigos-cristianos-jehova-calle-san-moises.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189966",
+		"title": "Testigos Cristianos de Jehová. Calle San Moisés",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=e73b6dd8f677f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/SanDiego"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28018",
+			"street-address": "CALLE SAN MOISÉS 39 PLANTA BAJA B"
+		},
+		"location": {
+			"latitude": 40.382077738308396,
+			"longitude": -3.665580023171385
+		},
+		"organization": {
+			"organization-desc": "Bus: 57, 103, 111, 144Renfe: Asamblea de Madrid, Entrevías (C2)",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle San Moisés"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/189351-testigos-cristianos-jehova-calle-venancio-martin.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/TemplosOtrasReligiones",
+		"id": "189351",
+		"title": "Testigos Cristianos de Jehová. Calle Venancio Martín",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=2903784e0cc4f010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/PuenteDeVallecas/Barrio/Numancia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28038",
+			"street-address": "CALLE VENANCIO MARTIN 19 local 2"
+		},
+		"location": {
+			"latitude": 40.39795732762339,
+			"longitude": -3.6614706779617716
+		},
+		"organization": {
+			"organization-desc": "Metro: Nueva Numancia (línea 1)Bus: 141",
+			"accesibility": "3",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Testigos Cristianos de Jehová. Calle Venancio Martín"
+		}
+	}	  
+]

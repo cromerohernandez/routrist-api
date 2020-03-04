@@ -5,35 +5,52 @@ const { calculateTouristsRate } = require('../helpers/models.helper')
 const placeSchema = new mongoose.Schema({
   name: {
     type: String,
-    required: [true, 'Name is required'],
+    required: [true, 'name is required'],
     unique: true,
     trim: true,
   },
   city: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'City',
-    required: [true, 'City is required'],
+    required: [true, 'city is required'],
   },
   photo: {
     type: String,
-    //default: '../../images/defaultPlace.png'
+    default: 'https://res.cloudinary.com/dewymafth/image/upload/v1583169321//default/defaultPlace.png'
   },
   category: {
     type: String,
     enum: [
-      'facade',
-      'interior',
+      'building',
       'garden',
+      'monument',
       'museum',
-      'park'
+      'square',
+      'worship'
     ],
-    required: [true, 'Category is required']
+    required: [true, 'category is required']
   },
   cityRate: {
     type: Number,
     enum: [1, 2, 3, 4, 5],
     default: 0,
-    required: [true, 'Rate is required']
+    required: [true, 'rate is required']
+  },
+  schedule: {
+    type: String
+  },
+  location: {
+    latitude: {
+      type: Number,
+      required: [true, 'latitude is required']
+    },
+    longitude: {
+      type: Number,
+      required: [true, 'longitude is required']
+    }
+  },
+  description: {
+    type: String
   },
 },
 { timestamps: true,

@@ -6,20 +6,20 @@ const { capitalize } = require('../../helpers/models.helper')
 const citySchema = new mongoose.Schema({
   name: {
     type: String,
-    required: [true, 'Name is required'],
+    required: [true, 'name is required'],
     unique: true,
     trim: true,
     set: capitalize
   },
   country: {
     type: String,
-    required: [true, 'Country is required'],
+    required: [true, 'country is required'],
     trim: true,
     set: capitalize
   },
-  photo: {
+  shield: {
     type: String,
-    //default: '../../images/defaultCity.png'
+    default: 'https://res.cloudinary.com/dewymafth/image/upload/v1583169321//default/defaultCity.png'
   }
 })
 

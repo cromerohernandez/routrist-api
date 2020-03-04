@@ -40,14 +40,6 @@
 		}
 	},
 	{
-		"title": "Jardines de José Luis Jiménez Manso",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Jardines de Perón",
 		"photo": "JardinesdePerón.jpg",
 		"cityRate": "3",
@@ -72,74 +64,9 @@
 		}
 	},
 	{
-		"title": "Jardines de la Avenida de Brasil",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines de la Basílica",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-
-		"title": "Jardines de la Plaza Conde del Valle de Suchil",
-		"photo": "JardinesdelaPlazaCondedelValledeSuchil.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines de la Plaza de Chamberí",
-		"photo": "JardinesdelaPlazadeChamberí.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines de la Plaza de Olavide",
-		"photo": "JardinesdelaPlazadeOlavide.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines de la Plaza de Oriente, Lepanto y Cabo Noval",
-		"photo": "JardinesdelaPlazadeOriente,LepantoyCaboNoval.jpg",
-		"cityRate": "5",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines de la Plaza de la Villa de París",
-		"photo": "JardinesdelaPlazadelaVilladeParís.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Jardines de la Vega",
 		"photo": "JardinesdelaVega.jpg",
 		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines de la calle Teresita González Quevedo",
-		"photo": "",
-		"cityRate": "1",
 		"organization": {
 			"schedule": ""
 		}
@@ -164,14 +91,6 @@
 		"title": "Jardines del Descubrimiento",
 		"photo": "JardinesdelDescubrimiento.jpg",
 		"cityRate": "4",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardines del Doctor Fleming",
-		"photo": "",
-		"cityRate": "1",
 		"organization": {
 			"schedule": ""
 		}
@@ -210,7 +129,7 @@
 	},
 	{
 		"title": "Jardín Doña Concha Piquer",
-		"photo": " JardínDoñaConchaPiquer.jpg",
+		"photo": "JardínDoñaConchaPiquer.jpg",
 		"cityRate": "2",
 		"organization": {
 			"schedule": ""
@@ -233,49 +152,17 @@
 		}
 	},
 	{
-		"title": "Jardín Jazmín",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Jardín Palacio O'Reilly",
-		"photo": "JardínPalacioO'Reilly.jpg",
+		"photo": "JardínPalacioO_Reilly.jpg",
 		"cityRate": "4",
 		"organization": {
 			"schedule": "Entrada por la calle Sacramento 7: de lunes a viernes de 7:00 a 17:30 horas. Sábados, domingos y festivos cerradoEntrada por la calle Rollo: de lunes a viernes de 7:15 a 19:00 horas. Sábados, domingos y festivos cerrado"
 		}
 	},
 	{
-		"title": "Jardín de Embajadores M-30",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Jardín de Larra",
 		"photo": "JardíndeLarra.jpg",
 		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín de la Colonia Congosto",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín de las Bellas Artes",
-		"photo": "",
-		"cityRate": "2",
 		"organization": {
 			"schedule": ""
 		}
@@ -307,14 +194,6 @@
 	{
 		"title": "Jardín del paseo Federico García Lorca",
 		"photo": "JardíndelpaseoFedericoGarcíaLorca.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Jardín el Torero",
-		"photo": "",
 		"cityRate": "1",
 		"organization": {
 			"schedule": ""
@@ -361,14 +240,6 @@
 		}
 	},
 	{
-		"title": "Parque Almansa",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque Aluche",
 		"photo": "ParqueAluche.jpg",
 		"cityRate": "3",
@@ -385,24 +256,8 @@
 		}
 	},
 	{
-		"title": "Parque Alzola",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque Antonio Pirala",
 		"photo": "ParqueAntonioPirala.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Anunciación",
-		"photo": "",
 		"cityRate": "1",
 		"organization": {
 			"schedule": ""
@@ -412,14 +267,6 @@
 		"title": "Parque Arquitecto Antonio Palacios",
 		"photo": "ParqueArquitectoAntonioPalacios.jpg",
 		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Arroyo Fontarrón",
-		"photo": "",
-		"cityRate": "1",
 		"organization": {
 			"schedule": ""
 		}
@@ -529,14 +376,6 @@
 		}
 	},
 	{
-		"title": "Parque Cerro Águila",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque Ciudad de los Ángeles",
 		"photo": "ParqueCiudaddelosÁngeles.jpg",
 		"cityRate": "3",
@@ -545,16 +384,8 @@
 		}
 	},
 	{
-		"title": "Parque Cuesta del Galbán",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque Cuña Verde de Vicálvaro. Zona A",
-		"photo": "ParqueCuñaVerdedeVicálvaro.ZonaA.jpg",
+		"photo": "ParqueCuñaVerdedeVicálvaro_ZonaA.jpg",
 		"cityRate": "2",
 		"organization": {
 			"schedule": ""
@@ -562,15 +393,7 @@
 	},
 	{
 		"title": "Parque Cuña Verde de Vicálvaro. Zona B",
-		"photo": "ParqueCuñaVerdedeVicálvaro.ZonaB.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Cuña Verde de Vicálvaro. Zona C",
-		"photo": "",
+		"photo": "ParqueCuñaVerdedeVicálvaro_ZonaB.jpg",
 		"cityRate": "2",
 		"organization": {
 			"schedule": ""
@@ -596,14 +419,6 @@
 		"title": "Parque El Calero",
 		"photo": "ParqueElCalero.jpg",
 		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque El Cedral",
-		"photo": "",
-		"cityRate": "1",
 		"organization": {
 			"schedule": ""
 		}
@@ -721,30 +536,6 @@
 		}
 	},
 	{
-		"title": "Parque General Fanjul - Santa Margarita",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Hortaleza",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": "Abierto las 24 horas."
-		}
-	},
-	{
-		"title": "Parque Huerta del Obispo.",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque Juan Carlos I",
 		"photo": "ParqueJuanCarlosI.jpg",
 		"cityRate": "5",
@@ -761,33 +552,9 @@
 		}
 	},
 	{
-		"title": "Parque Juan de la Cosa",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque La Rinconada",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque La Viña",
 		"photo": "ParqueLaViña.jpg",
 		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Ladera de los Almendros",
-		"photo": "ParqueLaderadelosAlmendros.jpg",
-		"cityRate": "2",
 		"organization": {
 			"schedule": ""
 		}
@@ -798,14 +565,6 @@
 		"cityRate": "3",
 		"organization": {
 			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Lineal del Manzanares (Usera - Pte de Vallecas)",
-		"photo": "ParqueLinealdelManzanares(Usera-PtedeVallecas).jpg",
-		"cityRate": "4",
-		"organization": {
-			"schedule": "En Otoño e Invierno: de 7 a 22 horas.En Primavera y Verano: de 7 a 24 horas (se inicia el fin de semana del cambio a horario de verano)."
 		}
 	},
 	{
@@ -881,22 +640,6 @@
 		}
 	},
 	{
-		"title": "Parque Orlando Zapata Tamayo",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Paseo Muñoz Grandes",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque Payaso Fofó",
 		"photo": "ParquePayasoFofó.jpg",
 		"cityRate": "3",
@@ -929,22 +672,6 @@
 		}
 	},
 	{
-		"title": "Parque Plaza Chozas de Canales",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Plaza Colonia Oroquieta",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque Plaza de España",
 		"photo": "ParquePlazadeEspaña.jpg",
 		"cityRate": "5",
@@ -972,14 +699,6 @@
 		"title": "Parque Roma",
 		"photo": "ParqueRoma.jpg",
 		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Salvador de Madariaga",
-		"photo": "",
-		"cityRate": "1",
 		"organization": {
 			"schedule": ""
 		}
@@ -1033,24 +752,8 @@
 		}
 	},
 	{
-		"title": "Parque Segura",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque Soto de Entrevías",
 		"photo": "ParqueSotodeEntrevías.jpg",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Urpisa",
-		"photo": "",
 		"cityRate": "1",
 		"organization": {
 			"schedule": ""
@@ -1065,41 +768,9 @@
 		}
 	},
 	{
-		"title": "Parque Valle de Enmedio",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque Vallecas Villa",
 		"photo": "ParqueVallecasVilla.jpg",
 		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Vandel",
-		"photo": "ParqueVandel.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque Virgen de la Esperanza",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Alfonso XIII",
-		"photo": "",
-		"cityRate": "1",
 		"organization": {
 			"schedule": ""
 		}
@@ -1161,22 +832,6 @@
 		}
 	},
 	{
-		"title": "Parque de Comillas",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Darwin",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque de Enrique Herreros",
 		"photo": "ParquedeEnriqueHerreros.jpg",
 		"cityRate": "2",
@@ -1196,22 +851,6 @@
 		"title": "Parque de Fuencarral",
 		"photo": "ParquedeFuencarral.jpg",
 		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Fuentechica",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Fuentelarreina",
-		"photo": "",
-		"cityRate": "1",
 		"organization": {
 			"schedule": ""
 		}
@@ -1244,14 +883,6 @@
 		"title": "Parque de Las Cruces",
 		"photo": "ParquedeLasCruces.jpg",
 		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de Malmoe",
-		"photo": "",
-		"cityRate": "1",
 		"organization": {
 			"schedule": ""
 		}
@@ -1329,14 +960,6 @@
 		}
 	},
 	{
-		"title": "Parque de Santa Ana",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque de Villa Rosa-Paco Caño",
 		"photo": "ParquedeVillaRosa-PacoCaño.jpg",
 		"cityRate": "1",
@@ -1348,22 +971,6 @@
 		"title": "Parque de la Alcazaba",
 		"photo": "ParquedelaAlcazaba.jpg",
 		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Almudena",
-		"photo": "",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de la Amistad",
-		"photo": "",
-		"cityRate": "1",
 		"organization": {
 			"schedule": ""
 		}
@@ -1394,7 +1001,7 @@
 	},
 	{
 		"title": "Parque de la Cuña Verde de O´Donnell",
-		"photo": "ParquedelaCuñaVerdedeO´Donnell.jpg",
+		"photo": "ParquedelaCuñaVerdedeO_Donnell.jpg",
 		"cityRate": "4",
 		"organization": {
 			"schedule": ""
@@ -1425,14 +1032,6 @@
 		}
 	},
 	{
-		"title": "Parque de la Supermanzana",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque de la Ventilla",
 		"photo": "ParquedelaVentilla.jpg",
 		"cityRate": "3",
@@ -1449,14 +1048,6 @@
 		}
 	},
 	{
-		"title": "Parque de la Volatería",
-		"photo": "ParquedelaVolatería.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Parque de las Avenidas",
 		"photo": "ParquedelasAvenidas.jpg",
 		"cityRate": "2",
@@ -1467,22 +1058,6 @@
 	{
 		"title": "Parque de las Delicias",
 		"photo": "ParquedelasDelicias.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Parque de los Llanos",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": "Abierto las 24 horas."
-		}
-	},
-	{
-		"title": "Parque de los Tilos",
-		"photo": "",
 		"cityRate": "2",
 		"organization": {
 			"schedule": ""
@@ -1529,38 +1104,6 @@
 		}
 	},
 	{
-		"title": "Pinar Santa Eugenia",
-		"photo": "",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Plaza Mayor de Barajas",
-		"photo": "PlazaMayordeBarajas.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Plaza de Murillo",
-		"photo": "PlazadeMurillo.jpg",
-		"cityRate": "2",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
-		"title": "Plaza de la Lealtad",
-		"photo": "PlazadelaLealtad.jpg",
-		"cityRate": "3",
-		"organization": {
-			"schedule": ""
-		}
-	},
-	{
 		"title": "Quinta de Torre Arias",
 		"photo": "QuintadeTorreArias.jpg",
 		"cityRate": "2",
@@ -1598,14 +1141,6 @@
 		"cityRate": "3",
 		"organization": {
 			"schedule": "Invierno de 8 a 15 horasVerano de 7 a 14 horasEl acceso al público está gestionado a través de visitas guiadas en grupos organizados."
-		}
-	},
-	{
-		"title": "Vivero municipal de Migas Calientes",
-		"photo": "",
-		"cityRate": "1",
-		"organization": {
-			"schedule": "De 8 a 15 horas."
 		}
 	},
 	{

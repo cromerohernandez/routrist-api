@@ -4,12 +4,12 @@ const likeSchema = new mongoose.Schema({
   tourist: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Tourist',
-    required: [true, 'Tourist is required'],
+    required: [true, 'tourist is required'],
   },
   place: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Place',
-    required: [true, 'Place is required'],
+    required: [true, 'place is required'],
   },
   state: {
     type: Boolean,

@@ -6,14 +6,20 @@ const Like = require('../models/like.model')
 const { setCriteria, addSearch, setSort } = require('../helpers/controllers.helper')
 
 module.exports.create = (req, res, next) => {
-  const { name, category, cityRate } = req.body
+  const { name, category, cityRate, schedule, latitude, longitude, description } = req.body
 
   const place = new Place({
     name: name,
     city: req.currentUser.id,
     photo: req.file ? req.file.url : undefined,
     category: category,
-    cityRate: cityRate
+    cityRate: cityRate,
+    schedule: schedule,
+    location: {
+      latitude: latitude,
+      longitude: longitude
+    },
+    description: description
   })
 
   place.save()
@@ -54,15 +60,22 @@ module.exports.detail = (req, res, next) => {
 }
 
 module.exports.update = (req, res, next) => {
-  const { name, photo, category, cityRate } = req.body
+  const { name, category, cityRate, schedule, latitude, longitude, description } = req.body
 
   Place.findOneAndUpdate(
     { _id: req.params.id },
     {
       name: name,
-      photo: photo,
+      city: req.currentUser.id,
+      photo: req.file ? req.file.url : undefined,
       category: category,
-      cityRate: cityRate
+      cityRate: cityRate,
+      schedule: schedule,
+      location: {
+        latitude: latitude,
+        longitude: longitude
+      },
+      description: description
     },
     { new: true }
   )

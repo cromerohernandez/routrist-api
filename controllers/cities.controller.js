@@ -14,7 +14,7 @@ module.exports.create = (req, res, next) => {
     country: country,
     email: email,
     password: password,
-    photo: req.file ? req.file.url : undefined
+    shield: req.file ? req.file.url : undefined
   })
 
   city.save()
@@ -76,7 +76,7 @@ module.exports.update = (req, res, next) => {
   City.findOne({ _id: req.currentUser.id })
     .then(city => {
       if(city) {
-        ['name', 'country', 'password', 'photo'].forEach(key => {
+        ['name', 'country', 'password', 'shield'].forEach(key => {
           if (req.body[key]) {
             city[key] = req.body[key]
           }

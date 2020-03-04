@@ -3,27 +3,27 @@ const mongoose = require('mongoose')
 const routeSchema = new mongoose.Schema({
   name: {
     type: String,
-    required: [true, 'Name is required'],
+    required: [true, 'name is required'],
     trim: true,
     lowercase: true
   },
   tourist: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Tourist',
-    required: [true, 'Tourist is required']
+    required: [true, 'tourist is required']
   },
   city: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'city',
-    required: [true, 'City is required'],
+    required: [true, 'city is required'],
   },
   startDate: {
     type: Date,
-    required: [true, 'Start date is required']
+    required: [true, 'start date is required']
   },
   endDate: {
     type: Date,
-    required: [true, 'End date is required']
+    required: [true, 'end date is required']
   },
   places: [
     {
