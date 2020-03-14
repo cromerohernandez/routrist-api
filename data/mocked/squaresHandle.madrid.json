@@ -1,0 +1,82 @@
+[
+  {
+		"title": "Plaza de Oriente",
+		"photo": "PlazadeOriente.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Plaza Mayor",
+		"photo": "PlazaMayor.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+  },
+  {
+		"title": "Puerta del Sol",
+		"photo": "PuertadelSol.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+  },
+  {
+		"title": "Plaza Mayor de Barajas",
+		"photo": "PlazaMayordeBarajas.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Plaza de Murillo",
+		"photo": "PlazadeMurillo.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Plaza de la Lealtad",
+		"photo": "PlazadelaLealtad.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+  },
+  {
+		"title": "Plaza Conde del Valle de Suchil",
+		"photo": "PlazaCondedelValledeSuchil.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Plaza de Chamberí",
+		"photo": "PlazadeChamberí.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Plaza de Olavide",
+		"photo": "PlazadeOlavide.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Plaza de la Villa de París",
+		"photo": "PlazadelaVilladeParís.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	}
+]

@@ -3,8 +3,10 @@ const mailer = require('../config/mailer.config')
 
 const Tourist = require('../models/users/tourist.model')
 
+const CORS_ORIGIN = process.env.CORS_ORIGIN || 'http://localhost:3000'
+
 module.exports.create = (req, res, next) => {
-  const { firstName, lastName, username, email, password, photo } = req.body
+  const { firstName, lastName, username, email, password } = req.body
 
   const tourist = new Tourist({
     firstName: firstName,
@@ -12,7 +14,7 @@ module.exports.create = (req, res, next) => {
     username: username,
     email: email,
     password: password,
-    photo: photo
+    photo: req.file ? req.file.url : undefined
   })
 
   tourist.save()
@@ -30,7 +32,7 @@ module.exports.validate = (req, res, next) => {
         tourist.validated = true
         tourist.save()
           .then(tourist => {
-            res.status(200).json(tourist)
+            res.status(200).redirect(`${CORS_ORIGIN}/`)
           })
           .catch(next)
       } else {

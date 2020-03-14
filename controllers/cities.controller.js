@@ -4,15 +4,17 @@ const mailer = require('../config/mailer.config')
 const City = require('../models/users/city.model')
 const Place = require('../models/place.model')
 
+const CORS_ORIGIN = process.env.CORS_ORIGIN || 'http://localhost:3000'
+
 module.exports.create = (req, res, next) => {
-  const { name, country, email, password, photo } = req.body
+  const { name, country, email, password } = req.body
 
   const city = new City({
     name: name,
     country: country,
     email: email,
     password: password,
-    photo: photo
+    shield: req.file ? req.file.url : undefined
   })
 
   city.save()
@@ -30,7 +32,7 @@ module.exports.validate = (req, res, next) => {
         city.validated = true
         city.save()
           .then(city => {
-            res.status(200).json(city)
+            res.status(200).redirect(`${CORS_ORIGIN}/`)
           })
           .catch(next)
       } else {
@@ -74,7 +76,7 @@ module.exports.update = (req, res, next) => {
   City.findOne({ _id: req.currentUser.id })
     .then(city => {
       if(city) {
-        ['name', 'country', 'password', 'photo'].forEach(key => {
+        ['name', 'country', 'password', 'shield'].forEach(key => {
           if (req.body[key]) {
             city[key] = req.body[key]
           }

@@ -1,0 +1,314 @@
+[
+	{
+		"title": "Banco de España",
+		"photo": "BancodeEspaña.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "De lunes a viernes: 8.30 a 14.00 horas. Sábados, domingos y festivos: cerrado."
+		}
+	},
+	{
+		"title": "Biblioteca Nacional de España",
+		"photo": "BibliotecaNacionaldeEspaña.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Salas de lectura y servicios: de lunes a viernes, de 9 a 21 horas.Consultar días de cierre."
+		}
+	},
+	{
+		"title": "Bolsa de Madrid",
+		"photo": "BolsadeMadrid.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Casa de América",
+		"photo": "CasadeAmérica.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Casa de Cisneros",
+		"photo": "CasadeCisneros.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Casa de La Panadería",
+		"photo": "CasadeLaPanadería.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Casa de La Villa. Ayuntamiento de Madrid",
+		"photo": "CasadeLaVilla.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Casa de Velázquez",
+		"photo": "CasadeVelázquez.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Centro de Estudios Políticos y Constitucionales",
+		"photo": "CentrodeEstudiosPolíticosyConstitucionales.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Círculo de Bellas Artes",
+		"photo": "CírculodeBellasArtes.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "Salas de exposiciones: martes a domingo de 11 a 14 y de 17 a 21 horas. Lunes cerrado. Azotea: de lunes a domingo (y festivos) de 9 a 0 horas. Horario sujeto a cambios. Taquilla (cine y espectáculos): miércoles a domingo de 16 a 22 horas. Horario sujeto a cambios. Cafetería 'La Pecera': de 8 a 1 horas (viernes, sábado y domingo hasta las 3 horas)."
+		}
+	},
+	{
+		"title": "Conde Duque",
+		"photo": "CondeDuque.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Exposiciones (entrada gratuita) De martes a sábado de 10 a 14 y de 17:30 a 21 horas.Domingos y festivos de 10:30 a 14 horas."
+		}
+	},
+	{
+		"title": "Congreso de los Diputados",
+		"photo": "CongresodelosDiputados.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Consejo de Estado",
+		"photo": "ConsejodeEstado.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Edificio Metrópolis",
+		"photo": "EdificioMetrópolis.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Estación ferroviaria Madrid Puerta de Atocha",
+		"photo": "EstaciónferroviariaMadridPuertadeAtocha.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Horario de la estación:  diario, de 05 a 01 horas.Horario consignas: diario, de 5:30 a 22:20 horas"
+		}
+	},
+	{
+		"title": "Fundación BBVA. Palacio del Marqués de Salamanca",
+		"photo": "FundaciónBBVA_PalaciodelMarquésdeSalamanca.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Galería de Cristal del Palacio de Cibeles",
+		"photo": "GaleríadeCristaldelPalaciodeCibeles.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "De lunes a domingo de 10 a 20 horas, siempre que no haya actividad en el espacio."
+		}
+	},
+	{
+		"title": "Instituto Cervantes",
+		"photo": "InstitutoCervantes.jpg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Consultar"
+		}
+	},
+	{
+		"title": "Istituto Italiano di Cultura de Madrid",
+		"photo": "IstitutoItalianodiCulturadeMadrid.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": "De lunes a viernes de 9 a 18 horas."
+		}
+	},
+	{
+		"title": "Ministerio de Hacienda. Sede calle Alcalá",
+		"photo": "MinisteriodeHacienda_SedecalleAlcalá.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Ministerio de Justicia",
+		"photo": "MinisteriodeJusticia.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Palacio de Buenavista. Cuartel General del Ejército de Tierra",
+		"photo": "PalaciodeBuenavista_CuartelGeneralEjércitoTierra.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "Relevo de la Guardia: último viernes de cada mes, a las 11 horas en la fachada de la calle de Alcalá."
+		}
+	},
+	{
+		"title": "Palacio de Cibeles",
+		"photo": "PalaciodeCibeles.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Palacio de Liria",
+		"photo": "PalaciodeLiria.jpeg",
+		"cityRate": "4",
+		"organization": {
+			"schedule": "Horario de visitas De noviembre a febreroLunes de 09:45 a 14 horas.De martes a domingo de 9:45 a 14 horas y de 15:45 a 18:30 horas.De marzo a octubreLunes de 09:45 a 14 horas.De martes a domingo de 9:45 a 14 horas y de 15:45 a 19:30 horas.Horario reducido días 31 diciembre y 5 enero de 9:45 a 13 horas.Horario para grupos gratuito: lunes no festivos a las 9:45 y a las 10:15 horas.Cerrado los días 1 y 6 enero, 24 y 25 diciembre."
+		}
+	},
+	{
+		"title": "Palacio de Santoña",
+		"photo": "PalaciodeSantoña.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Palacio Real de El Pardo",
+		"photo": "PalacioRealdeElPardo.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Horario (Palacio y Casa del Príncipe Don Carlos) De octubre a marzo: todos los días de 10 a 18 horas. De abril a septiembre: todos los días de 10 a 20 horas.  Cierre taquillas y acceso a Palacio una hora antes.  Pradera de San Francisco: todos los días de 8 a 21 horas. Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente."
+		}
+	},
+	{
+		"title": "Palacio Real de Madrid",
+		"photo": "PalacioRealdeMadrid.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Horario De octubre a marzo: de 10 a 18 horas.De abril a septiembre: de 10 a 20 horas.Cierre taquillas y acceso a Palacio una hora antes.Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web o telefónicamente. Jardines del Campo del Moro De octubre a marzo: de 10 a 18 horas.De abril a septiembre: de 10 a 20 horas."
+		}
+	},
+	{
+		"title": "Plaza Monumental de Toros de las Ventas",
+		"photo": "PlazaMonumentaldeTorosdelasVentas.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Real Academia de Ciencias Morales y Políticas",
+		"photo": "RealAcademiadeCienciasMoralesyPolíticas.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Real Academia de Jurisprudencia y Legislación",
+		"photo": "RealAcademiadeJurisprudenciayLegislación.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": "De lunes a jueves  9:30 a 14 y de 17 a 20 horas. Viernes de 9:30 a 14 horas."
+		}
+	},
+	{
+		"title": "Real Academia de la Historia",
+		"photo": "RealAcademiadelaHistoria.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De 8:30 a 15:30 horas."
+		}
+	},
+	{
+		"title": "Real Academia Nacional de Farmacia",
+		"photo": "RealAcademiaNacionaldeFarmacia.jpg",
+		"cityRate": "3",
+		"organization": {
+			"schedule": "De lunes a jueves (no festivos) de 9:30 a 14:30 y de 15:30 a 21:30 horas."
+		}
+	},
+	{
+		"title": "Real Colegio Santa Isabel - La Asunción",
+		"photo": "RealColegioSantaIsabel_LaAsunción.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Real Jardín Botánico",
+		"photo": "RealJardínBotánico.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "El Jardín está abierto al público todos los días del año, excepto los días de Navidad y Año Nuevo.Enero y febrero: de 10 a 18 horasMarzo: de 10 a 19 horasAbril: de 10 a 20 horasDe mayo a agosto de 10 a 21 horasSeptiembre: de 10 a 20 horasOctubre: de 10 a 19 horasNoviembre y diciembre: de 10 a 18 horas"
+		}
+	},
+	{
+		"title": "Senado de España",
+		"photo": "SenadodeEspaña.jpg",
+		"cityRate": "2",
+		"organization": {
+      "schedule": ""
+    }
+	},
+	{
+		"title": "Sociedad General de Autores y Editores (SGAE)",
+		"photo": "SociedadGeneraldeAutoresyEditores.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Templo de Debod",
+		"photo": "TemplodeDebod.jpg",
+		"cityRate": "5",
+		"organization": {
+			"schedule": "Martes a domingos y festivos, de 10 a 20 horas / Tuesday to Sundays and holidays, from 10 a.m. to 8 p.m.  Cerrado los lunes y los días 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre./ Closed Mondays and January 1 and 6, May 1, December 24, 25 and 31 Último pase de visita 30 minutos antes del cierre / Last visit pass 30 minutes before closing El horario y la apertura de salas pueden sufrir modificaciones. Ppor favor, confírmelo en el teléfono de información del museo./ The schedule  is subjects to change. Please, confirm it in the information telephone of the museum."
+		}
+	},
+	{
+		"title": "Tribunal de Cuentas",
+		"photo": "TribunaldeCuentas.jpg",
+		"cityRate": "1",
+		"organization": {
+			"schedule": ""
+		}
+	},
+	{
+		"title": "Tribunal Supremo",
+		"photo": "TribunalSupremo.jpg",
+		"cityRate": "2",
+		"organization": {
+			"schedule": ""
+		}
+	}	  
+]

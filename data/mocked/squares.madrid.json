@@ -1,0 +1,286 @@
+[
+  {
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20557-plaza-oriente.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20557",
+		"title": "Plaza de Oriente",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=773492355c51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Palacio"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "PLAZA ORIENTE"
+		},
+		"location": {
+			"latitude": 40.41887180000001,
+			"longitude": -3.7119843
+		},
+		"organization": {
+			"organization-desc": "Diseñada por González Velázquez. Se empieza a construir en 1816, tomándose como eje el Teatro Real enfrentado al Palacio Real. Su trazado definitivo se realiza en 1850 por Narciso Pascual Colomer. Entre 1994 y 1997 se llevó a cabo la remodelación que integra en un conjunto peatonal el Palacio Real y el Teatro de la Opera, siguiendo el proyecto de los arquitectos Miguel Oriol e Ibarra y Miguel Botella Ruiz-Castillo. Los jardines situados frente al Palacio Real. En el centro de la plaza se encuentra la estatua ecuestre de Felipe IV, obra fundida por Pietro Tacca según cálculos de Galileo Galilei.Metro: Ópera (líneas 2, 5, R) Bus: 3, 25, 33, 39, 148",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Plaza de Oriente"
+		}
+  },
+  {
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/20563-plaza-mayor.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "20563",
+		"title": "Plaza Mayor",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0a4492355c51c010VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28012",
+			"street-address": "PLAZA MAYOR"
+		},
+		"location": {
+			"latitude": 40.41498735934118,
+			"longitude": -3.706662448203068
+		},
+		"organization": {
+			"organization-desc": "Lugar emblemático de Madrid con origen en la antigua Plaza del Arrabal, extramuros del recinto medieval y foco comercial del primitivo Madrid. Tuvo forma irregular debido a su crecimiento espontáneo,  y fue objeto de varios proyectos de regularización. Al ser elegida Madrid como capital, se vio la necesidad de crear una auténtica Plaza Mayor y Felipe II  se lo encargó a Juan de Herrera. En el siglo XIX  se colocó la estatua de Felipe III a cuyo reinado pertenece la construcción de la plaza.Este año se celebra el IV Centenario de su construcción.Más información en la  https://plazamayormadrid4c.esMetro: Sol (líneas 1, 2, 3), Tirso de Molina (línea 1)Bus: 3, 17, 18, 23, 31",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "Todos los domingos de 9 a 14 horas se celebra un mercadillo filatélico (sellos)",
+			"organization-name": "Plaza Mayor"
+		}
+  },
+  {
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/7714918-puerta-sol.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/MonumentosEdificiosArtisticos",
+		"id": "7714918",
+		"title": "Puerta del Sol",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=af0ae1abeee79410VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Sol"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28013",
+			"street-address": "PLAZA PUERTA DEL SOL 1"
+		},
+		"location": {
+			"latitude": 40.416887979993966,
+			"longitude": -3.7022740027977377
+		},
+		"organization": {
+			"organization-desc": "Toma su nombre de un postigo de la antigua muralla medieval que estaba decorado con un Sol y que se derribó en el siglo XVII, el lugar conservó el nombre. En origen fue un punto exterior de la ciudad, aunque debido al crecimiento de Madrid y a su  situación fue convirtiéndose poco a poco en el centro de la capital. En 1857 ,el Ministerio de Fomento  convoca un concurso quedando aprobada la reforma de Lucio del Valle, Juan Rivera y José Morer, que conservaba la alineación de la antigua Casa de Correos en uno de los lados, mientras que el otro adoptaba una forma semicircular.Metro: Sol (líneas 1, 2, 3) Bus: 15, 20, 51, 52, 53",
+			"accesibility": "0",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Puerta del Sol"
+		}
+  },
+  {
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/10966448-plaza-mayor-barajas.json",
+		"id": "10966448",
+		"title": "Plaza Mayor de Barajas",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ee9654348a62b610VgnVCM2000001f4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Barajas"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Barajas/Barrio/CascoHBarajas"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28042",
+			"street-address": "PLAZA MAYOR DE BARAJAS 1"
+		},
+		"location": {
+			"latitude": 40.4735113714068,
+			"longitude": -3.57805132010274
+		},
+		"organization": {
+			"organization-desc": "Llamada por los vecinos Plaza Mayor de Barajas, encarna el canon de las plazas públicas renacentistas españolas mandadas construir bajo el reinado de Felipe II. Está constituida por un espacio cuadrangular limitado por cuatro galerías realizadas a base de columnas dóricas de granito que soportan las típicas zapatas de madera de nuestra arquitectura popular. Sobre ellas se encuentran antiguas casas de una altura, que logran una uniformidad poco habitual. En su centro se dispuso un jardín regular en forma radial compuesto por setos de aligustre, acacias y algunos cedros que rodean una fuente con una escultura de bronce. Completa este ajardinamiento una hilera de acacias alrededor, en las aceras, así como zonas de césped con prunos y flores. (Extracto del libro Jardines de Madrid de Carmen Ariza)   Denominación anterior Plaza de los Hermanos Falcó y Álvarez de ToledoConservación: Dirección General de Gestión del Agua y Zonas Verdes. Área de Gobierno de Medio Ambiente  Superficie   :  1.800 m2   % Especies predominantes    Árboles  . 24 unidades arbóreasCedro del Atlas 4%Cedro llorón 29%Robinia 45%  Arbustos.  N&amp;ordm; total de unidades arbustivas: 6Durillo 100%  Macizos arbustivos:  17 unidadesMetro: Línea 8 (Barajas) Bus: 101 Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones.",
+			"accesibility": "2",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Plaza Mayor de Barajas"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/10966289-plaza-murillo.json",
+		"id": "10966289",
+		"title": "Plaza de Murillo",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=36508ebbc762b610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "PLAZA MURILLO 1"
+		},
+		"location": {
+			"latitude": 40.41290521872114,
+			"longitude": -3.692004931820884
+		},
+		"organization": {
+			"organization-desc": "Plaza ubicada entre la fachada sur del Museo del Prado y el Real Jardín Botánico. Cuenta con un jardín central dividido por setos en cuatro zonas, una arboleda y una estatua en el centro, homenaje al pintor sevillano Bartolomé Esteban Murillo. La estatua de bronce fue realizada en el año 1859 por el escultor Sabino Medina y Peñas y el pedestal de piedra es del arquitecto González Pescador.Conservación: Dirección General de Gestión del Agua y Zonas Verdes. Área de Gobierno de Medio Ambiente  Superficie:  5.600 m2   % Especies predominantes   (nombre común) con respecto a especies principales:   Árboles.  N&amp;ordm; total de unidades arbóreas: 29Castaño de indias17%Magnolio37%Abeto del Himalaya 3%  Arbustos.  N&amp;ordm; total de unidades arbustivas: no hay  Macizos arbustivos  . N&amp;ordm; total de macizos arbustivos: 12  Macizos en flor:  N&amp;ordm; total de macizos en flor: 4Metro: línea 1 (Atocha) Bus: 10,14, 27, 34, 37, 45 Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones.",
+			"accesibility": "2",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Plaza de Murillo"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/10984411-plaza-lealtad.json",
+		"id": "10984411",
+		"title": "Plaza de la Lealtad",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=2e429c2d91fcb610VgnVCM1000001d4a900aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28014",
+			"street-address": "JARDINES PLAZA DE LA LEALTAD "
+		},
+		"location": {
+			"latitude": 40.41687551533723,
+			"longitude": -3.6934169057776667
+		},
+		"organization": {
+			"organization-desc": "Pequeño jardín muy cercano al Paseo del Prado y rodeado de edificios tan emblemáticos como la Bolsa de Madrid y el Hotel Ritz.A pesar de su tamaño, esta plaza alberga gran cantidad de especies vegetales entre las que destacan un gran arce sacarino, un madroño centenario y un cornejo de nueve metros de altura.En el centro está el monumento a los Caídos o Héroes del 2 de mayo de 1808, con su llama votiva siempre encendida. También conocido por la mayoría de los madrileños como el monumento al soldado desconocido.Conservación: Dirección General de Gestión del Agua y Zonas Verdes. Área de Gobierno de Medio Ambiente  Superficie:  8.600 m2  % Especies predominantes (nombre común) con respecto a especies principales: Árboles. N&amp;ordm; total de unidades arbóreas: 74Castaño de indias 10%Ciprés 6%Aligustre del Japón 13%Acacia del Japón 5%  Arbustos.  N&amp;ordm; total de unidades arbustivas: 8Evónimo 25%Laurel 62%  Macizos arbustivos  . N&amp;ordm; total de macizos arbustivos: 2Metro: línea 1 (Atocha), línea 2 (Banco de España)Bus: 10, 14,27,34,37,45 Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones.",
+			"accesibility": "2",
+			"schedule": "",
+			"services": "",
+			"organization-name": "Plaza de la Lealtad"
+		}
+  },
+  {
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/5964911-jardines-plaza-conde-valle-suchil.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/ParquesJardines",
+		"id": "5964911",
+		"title": "Plaza Conde del Valle de Suchil",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=7c3042197833e210VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi/Barrio/Arapiles"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28015",
+			"street-address": "CALLE RODRIGUEZ SAN PEDRO 3 B"
+		},
+		"location": {
+			"latitude": 40.43137597367309,
+			"longitude": -3.7064685006782208
+		},
+		"organization": {
+			"organization-desc": "Plaza rectangular pavimentada con macizos de arbustos y dotada con dos áreas infantiles, área canina y fuente ornamental.Conservación: Dirección General de Gestión del Agua y Zonas Verdes. Área de Gobierno de Medio Ambiente y Movilidad. Superficie. 5.233 m2   % Especies predominantes (nombre común) con respecto a especies principales: Árboles. N&amp;ordm; total de unidades arbóreas: 156Olmo de Siberia 58Plátano de sombra 25Almez 7Magnolio 6 Arbustos.  N&amp;ordm; total de unidades arbustivas: 31Yuka 23%Rosa canina 23%Laurel 19% Macizos arbustivos. Superficie de macizos arbustivos: 1.438 m2  Pitosporo 59%Rosa canina 14%Laurel cerezo 9%Metro: San Bernardo (líneas 2 y 4)Bus: 16, 21, 61 Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones.",
+			"accesibility": "2",
+			"schedule": "",
+			"services": "Zonas infantilesZonas caninas",
+			"organization-name": "Jardines de la Plaza Conde del Valle de Suchil"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/5963489-jardines-plaza-chamberi.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/ParquesJardines",
+		"id": "5963489",
+		"title": "Plaza de Chamberí",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d3d6ee4002e2e210VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi/Barrio/Almagro"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28010",
+			"street-address": "PLAZA CHAMBERI 1"
+		},
+		"location": {
+			"latitude": 40.43285328749453,
+			"longitude": -3.697594475998512
+		},
+		"organization": {
+			"organization-desc": "Plaza pavimentada situada junto a la Junta del Distrito en la que podemos encontrar área infantil, fuente ornamental y kiosco.Conservación: Dirección General Gestión del Agua y Zonas Verdes. Área de Gobierno de Medio Ambiente y Movilidad Superficie: 2.650 m2   % Especies Predominantes (nombre común) con respecto a especies principales:Árboles. N&amp;ordm; total de unidades arbóreas: 60Plátano de sombra 58%Tilo de hojas grandes 27%Arce 15% Arbustos. N&amp;ordm; total de unidades arbustivas: 33Laurentino 21%Abelia 15%Evonimo 12% Macizos arbustivos. Superficie total de macizos arbustivos: 162 m2  Rosa canina 50%Piracanta 36%Junípero horizontal 14%Metro: Iglesia (línea 1)Bus: 3, 40 y 147 Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones.",
+			"accesibility": "2",
+			"schedule": "",
+			"services": "Zonas Infantiles",
+			"organization-name": "Jardines de la Plaza de Chamberí"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/5963151-jardines-plaza-olavide.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/ParquesJardines",
+		"id": "5963151",
+		"title": "Plaza de Olavide",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=091b882aacd2e210VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi/Barrio/Trafalgar"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28010",
+			"street-address": "PLAZA OLAVIDE 16"
+		},
+		"location": {
+			"latitude": 40.43247362678542,
+			"longitude": -3.7007855621824293
+		},
+		"organization": {
+			"organization-desc": "Plaza circular pavimentada situada entre bloques, dotada de área infantil y aparatos de entrenamiento de mayores.Conservación: Dirección General de Gestión del Agua y Zonas Verdes. Área de Gobierno de Medio Ambiente y Movilidad Superficie: 5732 m2   % Especies predominantes (nombre común)  con respecto a especies principales:  Árboles. N&amp;ordm; total  de unidades arbóreas: 166Acacia del Japón 48%Mimosa plateada 39%Plátano de sombra 11%Falsa acacia 2% Macizos arbustivos.Superficie de macizos arbustivos: 1.199 m2  Madroño 45%Callistemon 23%Evonimo 7%Metro: Bilbao (línea 1, 4)Bus: 3, 16, 37, 40, 61, 149 Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones.",
+			"accesibility": "2",
+			"schedule": "",
+			"services": "Zonas infantilesZonas de mayores",
+			"organization-name": "Jardines de la Plaza de Olavide"
+		}
+	},
+	{
+		"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/6067949-jardines-plaza-villa-paris.json",
+		"@type": "https://datos.madrid.es/egob/kos/entidadesYorganismos/ParquesJardines",
+		"id": "6067949",
+		"title": "Plaza de la Villa de París",
+		"relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=1e069432ff3ef210VgnVCM2000000c205a0aRCRD",		
+		"address": {
+			"district": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro"
+			},
+			"area": {
+				"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Centro/Barrio/Justicia"
+			},
+			"locality": "MADRID",			
+			"postal-code": "28004",
+			"street-address": "CALLE GENERAL CASTAÑOS 6"
+		},
+		"location": {
+			"latitude": 40.42620255233654,
+			"longitude": -3.6934468983675846
+		},
+		"organization": {
+			"organization-desc": "Plaza formada por dos amplios espacios estanciales, con zonas ajardinadas y arboladas ante el Tribunal Superior de Justicia, antiguo convento de Santa Bárbara. Dotada de zona de juegos infantiles y con grandes espacios en terrizo para el paseo de los ciudadanos.Conservación: Dirección General de Gestión del Agua y Zonas Verdes. Área de Gobierno de Medio Ambiente y Movilidad Superficie: 7.599 m2   % Especies predominantes (nombre común) con respecto a especies principales:  Árboles. N&amp;ordm; total de unidades arbóreas: 97Plátano de sombra 100% Arbustos. N&amp;ordm; total de unidades arbustivas: 50Laurentino 94%Adelfa 6% Macizos arbustivos. Superficie de macizos arbustivos: 309 m2  Pitosporo 46%Evónimo 31%Rosas 12%Metro: Colón (línea 4)Bus: 5, 14, 21 ,27, 37, 45, 53, 150 Servicio Bicimad, para consultar la estación más cercana, acceda al mapa de geolocalización de las estaciones.",
+			"accesibility": "2",
+			"schedule": "",
+			"services": "Zonas infantilesZonas caninas",
+			"organization-name": "Jardines de la Plaza de la Villa de París"
+		}
+	}
+]

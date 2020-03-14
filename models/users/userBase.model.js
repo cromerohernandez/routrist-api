@@ -7,16 +7,16 @@ const EMAIL_PATTERN = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\"
 const userBaseSchema = new mongoose.Schema({
   email: {
     type: String,
-    required: [true, 'Email is required'],
+    required: [true, 'email is required'],
     unique: true,
     trim: true,
     lowercase: true,
-    match: [EMAIL_PATTERN, 'Email is invalid']
+    match: [EMAIL_PATTERN, 'email is invalid']
   },
   password: {
     type: String,
-    required: [true, 'Password is required'],
-    minlength: [8, 'Password needs at least 8 chars']
+    required: [true, 'password is required'],
+    minlength: [8, 'password needs at least 8 chars']
   },
   validationToken: {
     type: String,

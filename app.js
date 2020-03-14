@@ -65,7 +65,8 @@ app.use(function (error, req, res, next) {
     error = createError(404, 'Resource not found')
   } else if (error.code === 11000) {
     res.status(500)
-    data.errors = { email: "Already exists" }
+    const key = Object.keys(error.keyValue)[0]
+    data.errors = { [key]: `${key} already exists` }
   }
 
   data.message = error.message;
