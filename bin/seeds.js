@@ -13,8 +13,8 @@ const squaresMadrid = require('../data/mocked/squares.madrid.json')
 const squaresHandleMadrid = require('../data/mocked/squaresHandle.madrid.json')
 const buildingsMadrid = require('../data/mocked/buildings.madrid.json')
 const buildingsHandleMadrid = require('../data/mocked/buildingsHandle.madrid.json')
-const worshipMadrid = require('../data/mocked/worship.madrid.json')
-const worshipHandleMadrid = require('../data/mocked/worshipHandle.madrid.json')
+const templesMadrid = require('../data/mocked/temples.madrid.json')
+const templesHandleMadrid = require('../data/mocked/templesHandle.madrid.json')
 const monumentsMadrid = require('../data/mocked/monuments.madrid.json')
 const monumentsHandleMadrid = require('../data/mocked/monumentsHandle.madrid.json')
 
@@ -200,32 +200,32 @@ function createBuildingsMadrid(cityMadrid) {
     .catch(error => console.log(error))
 }
 
-function createWorshipMadrid(cityMadrid) {
-  let DDBBWorship = []
+function createTemplesMadrid(cityMadrid) {
+  let DDBBTemples = []
 
-  for (let i = 0; i < worshipMadrid.length; i++) {
-    const newWorship = new Place({
-      name: worshipMadrid[i].title,
+  for (let i = 0; i < templesMadrid.length; i++) {
+    const newTemple = new Place({
+      name: templesMadrid[i].title,
       city: cityMadrid._id,
-      photo: `https://res.cloudinary.com/dewymafth/image/upload/v1583169321/seeds/madridWorship/${worshipHandleMadrid[i].photo}`,
-      category: 'worship',
-      cityRate: worshipHandleMadrid[i].cityRate,
-      schedule: worshipMadrid[i].organization.schedule,
+      photo: `https://res.cloudinary.com/dewymafth/image/upload/v1583169321/seeds/madridTemples/${templesHandleMadrid[i].photo}`,
+      category: 'temple',
+      cityRate: templesHandleMadrid[i].cityRate,
+      schedule: templesMadrid[i].organization.schedule,
       location: {
-        latitude: worshipMadrid[i].location['latitude'],
-        longitude: worshipMadrid[i].location['longitude']
+        latitude: templesMadrid[i].location['latitude'],
+        longitude: templesMadrid[i].location['longitude']
       },
-      description: worshipMadrid[i].organization['organizacion-desc']
+      description: templesMadrid[i].organization['organizacion-desc']
     })
 
-    DDBBWorship.push(
-      newWorship.save()
+    DDBBTemples.push(
+      newTemples.save()
     )
   }
 
-  Promise.all(DDBBWorship)
-    .then(worship => {
-      console.log(`${worship.length} worship have been created`)
+  Promise.all(DDBBTemples)
+    .then(temples => {
+      console.log(`${temples.length} temples have been created`)
     })
     .catch(error => console.log(error))
 }
@@ -285,7 +285,7 @@ City.findOne({ name: 'Madrid' })
           createGardensMadrid(cityMadrid)
           createSquaresMadrid(cityMadrid)
           createBuildingsMadrid(cityMadrid)
-          createWorshipMadrid(cityMadrid)
+          createTemplesMadrid(cityMadrid)
           createMonumentsMadrid(cityMadrid)
           createUserTest()
           createCitiesExceptMadrid()
