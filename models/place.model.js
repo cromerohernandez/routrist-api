@@ -26,7 +26,7 @@ const placeSchema = new mongoose.Schema({
       'monument',
       'museum',
       'square',
-      'worship'
+      'temple'
     ],
     required: [true, 'category is required']
   },
