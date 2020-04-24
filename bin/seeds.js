@@ -43,7 +43,6 @@ function createCitiesExceptMadrid() {
   for (let i = 0; i < citiesExceptMadrid.length; i++) {
     City.findOneAndDelete({ email: `${citiesExceptMadrid[i].name}@routrist.com` })
     .then(() => {
-      console.log('aqui')
       const newCity = new City({
         name: citiesExceptMadrid[i].name,
         country: citiesExceptMadrid[i].country,
