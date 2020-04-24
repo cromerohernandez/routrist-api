@@ -41,29 +41,32 @@ function createCitiesExceptMadrid() {
   let DDBBcitiesExceptMadrid = []
 
   for (let i = 0; i < citiesExceptMadrid.length; i++) {
-    const newCity = new City({
-      name: citiesExceptMadrid[i].name,
-      country: citiesExceptMadrid[i].country,
-      email: `${citiesExceptMadrid[i].name}@routrist.com`,
-      password: "123456789",
-      shield: `https://res.cloudinary.com/dewymafth/image/upload/v1583169321/cities/${citiesExceptMadrid[i].name}.png`,
-      validated: true
-    })
+    City.findOneAndDelete({ email: `${citiesExceptMadrid[i].name}@routrist.com` })
+    .then(() => {
+      console.log('aqui')
+      const newCity = new City({
+        name: citiesExceptMadrid[i].name,
+        country: citiesExceptMadrid[i].country,
+        email: `${citiesExceptMadrid[i].name}@routrist.com`,
+        password: "123456789",
+        shield: `https://res.cloudinary.com/dewymafth/image/upload/v1583169321/cities/${citiesExceptMadrid[i].name}.png`,
+        validated: true
+      })
 
-    DDBBcitiesExceptMadrid.push(
       newCity.save()
-    )
-  }
-
-  Promise.all(DDBBcitiesExceptMadrid)
-    .then(cities => {
-      console.log(`${cities.length} cities have been created`)
+      .then(city => {
+        console.log(`City ${city.name} have been created`)
+      })
+      .catch(error => console.log(error))
     })
     .catch(error => console.log(error))
+  }
 }
 
 function createUserTest() {
-  const newUserTest = new Tourist({
+  Tourist.findOneAndDelete({ email: 'carlos@routrist.com' })
+  .then(() => {
+    const newUserTest = new Tourist({
       firstName: 'Carlos',
       lastName: 'Romero',
       username: 'cromez',
@@ -71,13 +74,15 @@ function createUserTest() {
       password: '123456789',
       photo: 'https://res.cloudinary.com/dewymafth/image/upload/v1583169321/tourists/carlosTest.jpg',
       validated: true
-  })
-
-  newUserTest.save()
-    .then(tourist => {
-      console.log(`Tourist ${tourist.username} have been created`)
     })
-    .catch(error => console.log(error))
+
+    newUserTest.save()
+      .then(tourist => {
+        console.log(`Tourist ${tourist.username} have been created`)
+      })
+      .catch(error => console.log(error))
+  })
+  .catch(error => console.log(error))
 }
 
 function createMuseumsMadrid(cityMadrid) {
@@ -219,7 +224,7 @@ function createTemplesMadrid(cityMadrid) {
     })
 
     DDBBTemples.push(
-      newTemples.save()
+      newTemple.save()
     )
   }
 
