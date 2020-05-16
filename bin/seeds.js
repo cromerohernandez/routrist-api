@@ -99,7 +99,7 @@ function createMuseumsMadrid(cityMadrid) {
         latitude: museumsMadrid[i].location['latitude'],
         longitude: museumsMadrid[i].location['longitude']
       },
-      description: museumsMadrid[i].organization['organizacion-desc']
+      description: museumsMadrid[i].organization['organization-desc']
     })
 
     DDBBMuseums.push(
@@ -129,7 +129,7 @@ function createGardensMadrid(cityMadrid) {
         latitude: gardensMadrid[i].location['latitude'],
         longitude: gardensMadrid[i].location['longitude']
       },
-      description: gardensMadrid[i].organization['organizacion-desc']
+      description: gardensMadrid[i].organization['organization-desc']
     })
 
     DDBBGardens.push(
@@ -159,7 +159,7 @@ function createSquaresMadrid(cityMadrid) {
         latitude: squaresMadrid[i].location['latitude'],
         longitude: squaresMadrid[i].location['longitude']
       },
-      description: squaresMadrid[i].organization['organizacion-desc']
+      description: squaresMadrid[i].organization['organization-desc']
     })
 
     DDBBSquares.push(
@@ -189,7 +189,7 @@ function createBuildingsMadrid(cityMadrid) {
         latitude: buildingsMadrid[i].location['latitude'],
         longitude: buildingsMadrid[i].location['longitude']
       },
-      description: buildingsMadrid[i].organization['organizacion-desc']
+      description: buildingsMadrid[i].organization['organization-desc']
     })
 
     DDBBBuildings.push(
@@ -219,7 +219,7 @@ function createTemplesMadrid(cityMadrid) {
         latitude: templesMadrid[i].location['latitude'],
         longitude: templesMadrid[i].location['longitude']
       },
-      description: templesMadrid[i].organization['organizacion-desc']
+      description: templesMadrid[i].organization['organization-desc']
     })
 
     DDBBTemples.push(
@@ -249,7 +249,7 @@ function createMonumentsMadrid(cityMadrid) {
         latitude: monumentsMadrid[i].location['latitude'],
         longitude: monumentsMadrid[i].location['longitude']
       },
-      description: monumentsMadrid[i].organization['organizacion-desc']
+      description: monumentsMadrid[i].organization['organization-desc']
     })
 
     DDBBMonuments.push(
